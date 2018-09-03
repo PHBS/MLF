@@ -15,7 +15,7 @@
 * __NO CLASS__ on 10.16 Tues
 * ...
 * __04__ (__09.12 Wed__ instead of __10.16 Tues__): Python crash course
-* ....
+* __03__ (09.11 Tues): TBA
 * __02__ (03.01 Thur): TBA
 * __01__ (02.26 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
 
