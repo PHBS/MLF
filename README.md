@@ -1,7 +1,7 @@
 # Machine Learning for Finance (2018-19 Module 1)
 
 ## Announcements
-* 
+* Email is the preferred method of communication. Class mailing list will be created as PHBS.MLF@allmail.net.
 
 ## Course Note
 
