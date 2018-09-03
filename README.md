@@ -16,13 +16,14 @@
 * ...
 * __04__ (__09.12 Wed__ instead of __10.16 Tues__): Python crash course
 * __03__ (09.11 Tues): TBA
-* __02__ (03.01 Thur): TBA
-* __01__ (02.26 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
+* __02__ (09.07 Fri): TBA
+* __01__ (09.04 Tues): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
 
 ## Homeworks:
-* ### __Set 1__ 
-
-* ### __Set 2__
+* ### __Set 1__ [Due by 09.11 Tues]
+  * Register on Github.com and let TA and me know your ID. Give your __full name__ in your profile. Accept invitation to the `2018.MLF` team from TA. Install [Github Desktop](https://desktop.github.com/). 
+  * Install [Anaconda](https://www.anaconda.com/download/) Python distribution (__3.X version__, 2.X version). Anaconda distribution is core Python + useful scientific computation libraries (e.g., numpy, scipy, pandas) + package management system (pip or conda)
+  * Send the screenshot of both softwares installed to TA.
 
 * ### Project proposal
   
