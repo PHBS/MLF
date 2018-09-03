@@ -21,7 +21,7 @@
 
 ## Homeworks:
 * ### __Set 1__ [Due by 09.11 Tues]
-  * Register on Github.com and let TA and me know your ID. Give your __full name__ in your profile. Accept invitation to the `2018.MLF` team from TA. Install [Github Desktop](https://desktop.github.com/) (available on [CMS](http://cms.phbs.pku.edu.cn/claroline/course/index.php?cid=FN570)).
+  * Register on Github.com and let TA and me know your ID. Give your __full name__ in your profile. Accept invitation to the [PHBS organization](https://github.com/orgs/PHBS/people) from TA. Install [Github Desktop](https://desktop.github.com/) (available on [CMS](http://cms.phbs.pku.edu.cn/claroline/course/index.php?cid=FN570)).
   * Install [Anaconda](https://www.anaconda.com/download/) Python distribution (__3.X version__, 2.X version). Anaconda distribution is core Python + useful scientific computation libraries (e.g., numpy, scipy, pandas) + package management system (pip or conda)
   * Send the screenshot of both softwares installed to TA.
 
