@@ -60,8 +60,8 @@ Undergraduate-level knowledge in probability/statistics and previous experience 
 * __ISLR-Python__: [PHBS/ISLR-python](https://github.com/PHBS/ISLR-python) (forked) __ISRL__ implemented in Python
 
 ## Assessment / Grading Details
-* Attendance 20%, Mid-term exam 30%, Assignments 20%, Final Project 30%
+* Attendance 20%, Mid-term exam 30%, Assignments 20%, Course Project 30%
 * __Mid-term exam__: 10.19 Fri. Open-book exam without computer/phone/calculator use
-* __Course project__: Proposal (10.26 Fri) and Presentation (11.09 Fri). Group up to 3 people.
+* __Course project__: Proposal (10.26 Fri) and Presentation (11.09 Fri). Group of up to 3 people.
 * __Attendance__: checked randomly. The score is calculated as 20 – 2x(#of absence). Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
 * __Grade__ in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and C+ or below > 10%__.
