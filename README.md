@@ -4,6 +4,8 @@
 * Email is the preferred method of communication. Class mailing list will be created as PHBS.MLF@allmail.net.
 
 ## Course Note
+* Course slides: [2017-18 All](files/MLF_Notes.pdf) | [Intro](files/MLF_Intro.pdf) | [SVD/PCA](files/SVD_PCA.pdf) | [Graphical Model](files/Graphical_Model.pdf)
+* Past Exam: [2017-18](files/MLF2017_Midterm.pdf)
 
 ## Lectures:
 * __18__ (11.09 Fri) Course Project Presentation
@@ -16,7 +18,7 @@
 * ...
 * __04__ (__09.12 Wed__ instead of __10.16 Tues__): Python crash course
 * __03__ (09.11 Tues): TBA
-* __02__ (09.07 Fri): TBA
+* __02__ (09.07 Fri): Intro ([Slides](files/MLF_Intro.pdf))
 * __01__ (09.04 Tues): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
 
 ## Homeworks:
@@ -52,7 +54,9 @@ Undergraduate-level knowledge in probability/statistics and previous experience 
 ##  Textbooks and Reading Materials
 * __PML__ (primary textbook): [Python Machine Learning](https://github.com/PHBS/python-machine-learning-book-2nd-edition) by Sebastian Raschka
 * __ISLR__: [An Introduction to Statistical Learning (with Applications in R)](http://www-bcf.usc.edu/~gareth/ISL/) by James, Witten, Hastie, and Tibshirani
-* __CML__: [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) taught by Andrew Ng
+* __Bishop__: Pattern Recognition and Machine Learning by Bishop (Microsoft)
+* __ESL__:  [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Hastie, Tibshirani, and Friedman
+* __CML__: [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng
 * __DL__: [Deep Learning](http://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville
 * __JPM-AI__: [Big Data and AI Strategies](http://valuesimplex.com/articles/JPM.pdf) by J.P. Morgan
 
