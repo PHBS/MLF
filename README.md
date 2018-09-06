@@ -4,7 +4,7 @@
 * Email is the preferred method of communication. Class mailing list will be created as PHBS.MLF@allmail.net.
 
 ## Course Note
-* Course slides: [2017-18 All](files/MLF_Notes.pdf) | [Intro](files/MLF_Intro.pdf) | [SVD/PCA](files/SVD_PCA.pdf) | [Graphical Model](files/Graphical_Model.pdf)
+* Course slides: [2017-18 All](files/MLF_Notes.pdf) | [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVD/PCA](files/SVD_PCA.pdf) | [Graphical Model](files/Graphical_Model.pdf)
 * Past Exam: [2017-18](files/MLF2017_Midterm.pdf)
 
 ## Lectures:
@@ -17,7 +17,7 @@
 * __NO CLASS__ on 10.16 Tues
 * ...
 * __04__ (__09.12 Wed__ instead of __10.16 Tues__): Python crash course
-* __03__ (09.11 Tues): TBA
+* __03__ (09.11 Tues): Regression ([Slides](files/MLF_Regression.pdf))
 * __02__ (09.07 Fri): Intro ([Slides](files/MLF_Intro.pdf))
 * __01__ (09.04 Tues): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
 
