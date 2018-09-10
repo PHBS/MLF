@@ -1,6 +1,7 @@
 # Machine Learning for Finance (FN 570, 2018-19 Module 1)
 
 ## Announcements
+* Python Crash Course will be on 9.12 (Wed) 10:30 AM. Class mailing list created.
 * Email is the preferred method of communication. Class mailing list will be created as PHBS.MLF@allmail.net.
 
 ## Course Note
@@ -17,8 +18,8 @@
 * __NO CLASS__ on 10.16 Tues
 * ...
 * __04__ (__09.12 Wed__ instead of __10.16 Tues__): Python crash course
-* __03__ (09.11 Tues): Regression ([Slides](files/MLF_Regression.pdf))
-* __02__ (09.07 Fri): Intro ([Slides](files/MLF_Intro.pdf))
+* __03__ (09.11 Tues): Regression weight update ([Slides](files/MLF_Regression.pdf)), __ISLR__ Ch. 3, __PML__ Ch. 1
+* __02__ (09.07 Fri): Intro ([Slides](files/MLF_Intro.pdf)), Regression ([Slides](files/MLF_Regression.pdf))
 * __01__ (09.04 Tues): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
 
 ## Homeworks:
