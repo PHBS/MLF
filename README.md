@@ -1,7 +1,7 @@
 # Machine Learning for Finance (FN 570, 2018-19 Module 1)
 
 ## Announcements
-* Python Crash Course will be on 9.12 (Wed) 10:30 AM. Class mailing list created.
+* Python Crash Course will be on 9.12 (Wed) **1:30 PM**. Class mailing list created.
 * Email is the preferred method of communication. Class mailing list will be created as PHBS.MLF@allmail.net.
 
 ## Course Note
