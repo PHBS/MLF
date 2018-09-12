@@ -17,8 +17,9 @@
 * __12__ (10.19 Fri): Midterm exam
 * __NO CLASS__ on 10.16 Tues
 * ...
-* __04__ (__09.12 Wed__ instead of __10.16 Tues__): Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb) | [Numpy](py/PythonCrashCourse_Numpy.ipynb))
-* __03__ (09.11 Tues): Regression weight update ([Slides](files/MLF_Regression.pdf)), __ISLR__ Ch. 3, __PML__ Ch. 1
+* __05__ (09.14 Fri): Regression weight update ([Slides](files/MLF_Regression.pdf))
+* __04__ (__09.12 Wed__ instead of __10.16 Tues__): Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb) | [Numpy](py/PythonCrashCourse_Numpy.ipynb)). More [cheatsheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html) also available in [MLF CMS](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FN570).
+* __03__ (09.11 Tues): __ISLR__ Ch. 3, __PML__ Ch. 1
 * __02__ (09.07 Fri): Intro ([Slides](files/MLF_Intro.pdf)), Regression ([Slides](files/MLF_Regression.pdf))
 * __01__ (09.04 Tues): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
 
