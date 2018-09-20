@@ -5,8 +5,10 @@
 * Email is the preferred method of communication. Class mailing list will be created as PHBS.MLF@allmail.net.
 
 ## Course Note
-* Course slides: [2017-18 All](files/MLF_Notes.pdf) | [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVD/PCA](files/SVD_PCA.pdf) | [Graphical Model](files/Graphical_Model.pdf)
+* Course slides: [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVM/KNN/Tree](files/MLF_SVM_KNN_Tree.pdf) | [SVD/PCA](files/SVD_PCA.pdf) | [Graphical Model](files/Graphical_Model.pdf)
+* Past Slides (All-in-one): [2017-18](files/MLF_Notes.pdf)
 * Past Exam: [2017-18](files/MLF2017_Midterm.pdf)
+
 
 ## Lectures:
 * __18__ (11.09 Fri) Course Project Presentation
@@ -17,6 +19,8 @@
 * __12__ (10.19 Fri): Midterm exam
 * __NO CLASS__ on 10.16 Tues
 * ...
+* __07__ (09.21 Fri): SVM/KNN/Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf)) __PML__ Ch. 3
+* __06__ (09.18 Tues): Logistic Regression ([Slides](files/MLF_Regression.pdf)) __PML__ Ch. 3
 * __05__ (09.14 Fri): __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), Regression weight update ([Slides](files/MLF_Regression.pdf))
 * __04__ (__09.12 Wed__ instead of __10.16 Tues__): Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb) | [Numpy](py/PythonCrashCourse_Numpy.ipynb)). More [cheatsheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html) also available in [MLF CMS](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FN570).
 * __03__ (09.11 Tues): __ISLR__ Ch. 3, __PML__ Ch. 1
