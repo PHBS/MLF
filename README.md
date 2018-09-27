@@ -8,6 +8,7 @@
 * Course slides: [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVM/KNN/Tree](files/MLF_SVM_KNN_Tree.pdf) | [SVD/PCA](files/SVD_PCA.pdf) | [Graphical Model](files/Graphical_Model.pdf)
 * Past Slides (All-in-one): [2017-18](files/MLF_Notes.pdf)
 * Past Exam: [2017-18](files/MLF2017_Midterm.pdf)
+* [Exams from Tom Michell's ML course](http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml) (Carnegie Mellon University)
 
 
 ## Lectures:
