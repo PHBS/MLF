@@ -19,6 +19,7 @@
 * __12__ (10.19 Fri): Midterm exam
 * __NO CLASS__ on 10.16 Tues
 * ...
+* __08__ (09.25 Tues): Kernel SVM/Bagging/RF ([Slides](files/MLF_SVM_KNN_Tree.pdf)) __PML__ Ch. 3
 * __07__ (09.21 Fri): SVM/KNN/Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf)) __PML__ Ch. 3
 * __06__ (09.18 Tues): Logistic Regression ([Slides](files/MLF_Regression.pdf)) __PML__ Ch. 3
 * __05__ (09.14 Fri): __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), Regression weight update ([Slides](files/MLF_Regression.pdf))
@@ -47,7 +48,7 @@
 
 ## Teaching Assistance: Junjie Zhang (张俊杰)
 * Email: 1701213147@sz.pku.edu.cn
-* TA Office Hour: TBA (Room 213/214)
+* TA Office Hour: Tues & Fri 3:30 - 5:30 PM (Room 213/214)
 
 ## Course overview
 
