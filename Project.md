@@ -5,8 +5,7 @@
   * No restriction on data set. However, business(fin/ma/econ) related data is welcome (extra credit for creative data selection and pre-processing)
 * Create a designate repository `GITHUB_ID/PHBS_MLF_2018` for your team
   * Tick `Initialize this repository with a README` and select `python` under `.gitignore` 
-  * Put team members, data set and brief plan to Professor and TA (`README.md`)
-  * Put brief description of data and goal of the project (`README.md`)
+  * Put team members (student # and github ID), brief description of data, and goal of the project in `README.md` (refer to [markdown cheetsheet](https://guides.github.com/features/mastering-markdown/))
   * Put the data under `/data` folder (if too big, put some samples)
   * In lieu of submission, invite `jaehyukchoi` as a collaborator (under `Setting` > `Collaborators & teams`)
 * In the class, use `README.md` for brief presentation (3 min per team)
