@@ -77,6 +77,6 @@ Undergraduate-level knowledge in probability/statistics and previous experience 
 ## Assessment / Grading Details
 * Attendance 20%, Mid-term exam 30%, Assignments 20%, Course Project 30%
 * __Mid-term exam__: 10.19 Fri. Open-book exam without computer/phone/calculator use
-* __Course project__: Proposal (10.26 Fri) and Presentation (11.09 Fri). Group of up to 3 people.
+* __Course project__: Data Proposal (10.23 Tues) and Presentation (11.09 Fri). Group of up to 4 people.
 * __Attendance__: checked randomly. The score is calculated as 20 – 2`x`(#of absence). Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
 * __Grade__ in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and C+ or below > 10%__.
