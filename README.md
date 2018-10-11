@@ -10,15 +10,13 @@
 * Past Exam: [2017-18](files/MLF2017_Midterm.pdf)
 * [Exams from Tom Michell's ML course](http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml) (Carnegie Mellon University)
 
-
 ## Lectures:
 * __18__ (11.09 Fri) Course Project Presentation
 * __17__ (11.06 Tues): ML-related research presentation by Prof. Choi
 * ...
-* __14__ (10.26 Fri): Course Project Proposal
-* ...
+* __13__ (10.23 Tues): Course Project Proposal ([link](Project.md))
 * __12__ (10.19 Fri): Midterm exam
-* __NO CLASS__ on 10.16 Tues
+* __NO CLASS__ on __10.16 Tues__
 * ...
 * __10__ (10.09 Tues): SVD/PCA/LDA ([Slides](files/MLF_SVD_PCA_LDA.pdf)) __PML__ Ch. 5, Hyperparameters ([Slides](files/MLF_Bias_Variance_Metric.pdf)) __PML__ Ch. 6
 * __09__ (09.28 Fri): Data Preprocessing __PML__ Ch. 4, SVD/PCA/LDA ([Slides](files/MLF_SVD_PCA_LDA.pdf)) __PML__ Ch. 5
@@ -37,8 +35,10 @@
   * Install [Anaconda](https://www.anaconda.com/download/) Python distribution (__3.X version__, 2.X version). Anaconda distribution is core Python + useful scientific computation libraries (e.g., numpy, scipy, pandas) + package management system (pip or conda)
   * Send the screenshot of both softwares installed to TA. (Example: [Github Desktop](files/Choi_Jaehyuk_Github.png), [Anaconda Spyder](files/Choi_Jaehyuk_Python.png))
 
-* ### Project proposal
-  
+## Course Project ([link](Project.md))
+* ### Data Proposal [__10.23 Tues__ class]
+* ### Presentation [__11.09 Fri__ class]
+
 ## Classes: 
 * Lectures: Tuesday & Friday 8:30 AM – 10:20 AM
 * Venue: PHBS Building, Room 211
