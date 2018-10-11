@@ -8,7 +8,7 @@
   * Put team members, data set and brief plan to Professor and TA (`README.md`)
   * Put brief description of data and goal of the project (`README.md`)
   * Put the data under `/data` folder (if too big, put some samples)
-  * By lieu of submission, invite `jaehyukchoi` as a collaborator (under `Setting` > `Collaborators & teams`), 
+  * In lieu of submission, invite `jaehyukchoi` as a collaborator (under `Setting` > `Collaborators & teams`)
 * In the class, use `README.md` for brief presentation (3 min per team)
 
 ## Project Guidline
