@@ -2,11 +2,12 @@
 
 ## Data Proposal (__10.23 Tues__)
 * Form a group (up to 4 students) and select data set
+  * No restriction on data set. However, business(fin/ma/econ) related data is welcome (extra credit for creative data selection and pre-processing)
 * Designate one repository `GITHUB_ID/PHBS_MLF_2018` and put
   * Team members, data set and brief plan to Professor and TA (`README.md`)
   * Brief description of data and goal of the project (`README.md`)
   * Put the data under `/data` folder (if too big, put some samples)
-  * Email Prof the name of the team repository
+  * By lieu of submission, invite `jaehyukchoi` as a collaborator (under `Setting` > `Collaborators & teams`), 
 * In the class, use `README.md` for brief presentation (3 min per team)
 
 ## Project Guidline
