@@ -5,21 +5,21 @@
 * Email is the preferred method of communication. Class mailing list will be created as PHBS.MLF@allmail.net.
 
 ## Course Resources
-* Course slides: [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVM/KNN/Tree](files/MLF_SVM_KNN_Tree.pdf) | [SVD/PCA](files/SVD_PCA.pdf) | [Graphical Model](files/Graphical_Model.pdf)
+* Course slides: [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVM/KNN/Tree](files/MLF_SVM_KNN_Tree.pdf) | [SVD/PCA/LDA](files/MLF_SVD_PCA_LDA.pdf) | [Hyperparameter](files/MLF_Bias_Variance_Metric.pdf) | [Graphical Model](files/MLF_Graphical_Model.pdf)
 * Past Slides (All-in-one): [2017-18](files/MLF_Notes.pdf)
 * Past Exam: [2017-18](files/MLF2017_Midterm.pdf)
 * [Exams from Tom Michell's ML course](http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml) (Carnegie Mellon University)
-
 
 ## Lectures:
 * __18__ (11.09 Fri) Course Project Presentation
 * __17__ (11.06 Tues): ML-related research presentation by Prof. Choi
 * ...
-* __14__ (10.26 Fri): Course Project Proposal
-* ...
+* __13__ (10.23 Tues): Course Project Proposal ([link](Project.md))
 * __12__ (10.19 Fri): Midterm exam
-* __NO CLASS__ on 10.16 Tues
+* __NO CLASS__ on __10.16 Tues__
 * ...
+* __10__ (10.09 Tues): SVD/PCA/LDA ([Slides](files/MLF_SVD_PCA_LDA.pdf)) __PML__ Ch. 5, Hyperparameters ([Slides](files/MLF_Bias_Variance_Metric.pdf)) __PML__ Ch. 6
+* __09__ (09.28 Fri): Data Preprocessing __PML__ Ch. 4, SVD/PCA/LDA ([Slides](files/MLF_SVD_PCA_LDA.pdf)) __PML__ Ch. 5
 * __08__ (09.25 Tues): Kernel SVM/Bagging/RF ([Slides](files/MLF_SVM_KNN_Tree.pdf)) __PML__ Ch. 3
 * __07__ (09.21 Fri): SVM/KNN/Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf)) __PML__ Ch. 3
 * __06__ (09.18 Tues): Logistic Regression ([Slides](files/MLF_Regression.pdf)) __PML__ Ch. 3
@@ -35,8 +35,10 @@
   * Install [Anaconda](https://www.anaconda.com/download/) Python distribution (__3.X version__, 2.X version). Anaconda distribution is core Python + useful scientific computation libraries (e.g., numpy, scipy, pandas) + package management system (pip or conda)
   * Send the screenshot of both softwares installed to TA. (Example: [Github Desktop](files/Choi_Jaehyuk_Github.png), [Anaconda Spyder](files/Choi_Jaehyuk_Python.png))
 
-* ### Project proposal
-  
+## Course Project ([link](Project.md))
+* ### Data Proposal [__10.23 Tues__ class]
+* ### Presentation [__11.09 Fri__ class]
+
 ## Classes: 
 * Lectures: Tuesday & Friday 8:30 AM – 10:20 AM
 * Venue: PHBS Building, Room 211
@@ -75,6 +77,6 @@ Undergraduate-level knowledge in probability/statistics and previous experience 
 ## Assessment / Grading Details
 * Attendance 20%, Mid-term exam 30%, Assignments 20%, Course Project 30%
 * __Mid-term exam__: 10.19 Fri. Open-book exam without computer/phone/calculator use
-* __Course project__: Proposal (10.26 Fri) and Presentation (11.09 Fri). Group of up to 3 people.
+* __Course project__: Data Proposal (10.23 Tues) and Presentation (11.09 Fri). Group of up to 4 people.
 * __Attendance__: checked randomly. The score is calculated as 20 – 2`x`(#of absence). Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
 * __Grade__ in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and C+ or below > 10%__.
