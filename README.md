@@ -1,6 +1,7 @@
 # Machine Learning for Finance (FN 570, 2018-19 Module 1)
 
 ## Announcements
+* [Midterm exam solution](files/MLF2018_Midterm.pdf) is uploaded
 * Midterm exam on Friday will be in __Rm 321__ 
 * Python Crash Course will be on 9.12 (Wed) **1:30 PM**. Class mailing list created.
 * Email is the preferred method of communication. Class mailing list will be created as PHBS.MLF@allmail.net.
@@ -15,8 +16,8 @@
 * __18__ (11.09 Fri) Course Project Presentation
 * __17__ (11.06 Tues): ML-related research presentation by Prof. Choi
 * ...
-* __13__ (10.23 Tues): Course Project Proposal ([link](Project.md))
-* __12__ (10.19 Fri): Midterm exam (Rm 321) [Link](files/MLF2018_Midterm.pdf)
+* __13__ (10.23 Tues): [Course Project Proposal](Project.md)
+* __12__ (10.19 Fri): Midterm exam (Rm 321) ([Solution](files/MLF2018_Midterm.pdf))
 * __NO CLASS__ on __10.16 Tues__
 * __11__ (10.12 Fri): Confusion matrix, ROC curve, LOOCV ([Slides](files/MLF_Bias_Variance_Metric.pdf))
 * __10__ (10.09 Tues): SVD/PCA/LDA ([Slides](files/MLF_SVD_PCA_LDA.pdf)) __PML__ Ch. 5, Hyperparameters ([Slides](files/MLF_Bias_Variance_Metric.pdf)) __PML__ Ch. 6
