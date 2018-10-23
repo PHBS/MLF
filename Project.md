@@ -1,5 +1,16 @@
 # Course Project
 
+## Team List
+* [HuanchenYao](https://github.com/HuanchenYao/PHBS_MLF_2018)
+* [yumengwang123](https://github.com/yumengwang123/PHBS_ASP_2018)
+* [devon-ge](https://github.com/devon-ge/PHBS_MLF_2018)
+* [devon-ge](https://github.com/devon-ge/PHBS_MLF_2018)
+* [MatteoRossiTantini](https://github.com/MatteoRossiTantini/PHBS_MLF_2018)
+* [raphalecui1990](https://github.com/raphalecui1990/PHBS_MLF_2018)
+* [RasmusAU](https://github.com/RasmusAU/GITHUB_ID-PHBS_MLF_2018)
+* [sergeyivanov01](https://github.com/sergeyivanov01/PHBS_MLF_2018)
+* [TianXiangxun](https://github.com/TianXiangxun/PHBS_MLF_2018)
+
 ## Data Proposal (__10.23 Tues__)
 * Form a group (up to 4 students) and select data set
   * No restriction on data set. However, business(fin/ma/econ) related data is welcome (extra credit for creative data selection and pre-processing)
