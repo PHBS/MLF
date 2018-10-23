@@ -9,6 +9,10 @@
 * [RasmusAU](https://github.com/RasmusAU/GITHUB_ID-PHBS_MLF_2018)
 * [sergeyivanov01](https://github.com/sergeyivanov01/PHBS_MLF_2018)
 * [TianXiangxun](https://github.com/TianXiangxun/PHBS_MLF_2018)
+* [qwerjeff](https://github.com/qwerjeff/PHBS_MLF_2018)
+* [OscarHemmingsen](https://github.com/OscarHemmingsen/PHBS_MLF_2018)
+* [Davethedata](https://github.com/Davethedata/PHBS_MLF_2018)
+* [HuangJing1801](https://github.com/HuangJing1801/PHBS_MLF_2018)
 
 ## Data Proposal (__10.23 Tues__)
 * Form a group (up to 4 students) and select data set
