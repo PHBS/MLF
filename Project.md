@@ -4,7 +4,6 @@
 * [HuanchenYao](https://github.com/HuanchenYao/PHBS_MLF_2018)
 * [yumengwang123](https://github.com/yumengwang123/PHBS_ASP_2018)
 * [devon-ge](https://github.com/devon-ge/PHBS_MLF_2018)
-* [devon-ge](https://github.com/devon-ge/PHBS_MLF_2018)
 * [MatteoRossiTantini](https://github.com/MatteoRossiTantini/PHBS_MLF_2018)
 * [raphalecui1990](https://github.com/raphalecui1990/PHBS_MLF_2018)
 * [RasmusAU](https://github.com/RasmusAU/GITHUB_ID-PHBS_MLF_2018)
