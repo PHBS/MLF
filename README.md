@@ -7,7 +7,7 @@
 * Email is the preferred method of communication. Class mailing list will be created as PHBS.MLF@allmail.net.
 
 ## Course Resources
-* Course slides: [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVM/KNN/Tree](files/MLF_SVM_KNN_Tree.pdf) | [SVD/PCA/LDA](files/MLF_SVD_PCA_LDA.pdf) | [Hyperparameter](files/MLF_Bias_Variance_Metric.pdf) | [Graphical Model](files/MLF_Graphical_Model.pdf)
+* Course slides: [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVM/KNN/Tree](files/MLF_SVM_KNN_Tree.pdf) | [SVD/PCA/LDA](files/MLF_SVD_PCA_LDA.pdf) | [Hyperparameter](files/MLF_Bias_Variance_Metric.pdf) | [Neural Network](files/MLF_Neural_Network.pdf) | [Graphical Model](files/MLF_Graphical_Model.pdf)
 * Past Slides (All-in-one): [2017-18](files/MLF_Notes.pdf)
 * Past Exam: [2017-18](files/MLF2017_Midterm.pdf)
 * [Exams from Tom Michell's ML course](http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml) (Carnegie Mellon University)
@@ -15,7 +15,9 @@
 ## Lectures:
 * __18__ (11.09 Fri) Course Project Presentation
 * __17__ (11.06 Tues): ML-related research presentation by Prof. Choi
-* ...
+* __16__ (11.02 Fri): 
+* __15__ (10.30 Tues):
+* __14__ (10.26 Fri): Use of sklearn in __PML__ Ch. 5/6/7, Neural Network ([Slides](files/MLF_Neural_Network.pdf))
 * __13__ (10.23 Tues): [Course Project Proposal](Project.md)
 * __12__ (10.19 Fri): Midterm exam (Rm 321) ([Solution](files/MLF2018_Midterm.pdf))
 * __NO CLASS__ on __10.16 Tues__
