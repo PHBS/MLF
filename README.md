@@ -15,9 +15,9 @@
 ## Lectures:
 * __18__ (11.09 Fri) Course Project Presentation
 * __17__ (11.06 Tues): ML-related research presentation by Prof. Choi
-* __16__ (11.02 Fri): 
-* __15__ (10.30 Tues):
-* __14__ (10.26 Fri): Use of sklearn in __PML__ Ch. 5/6/7, Neural Network ([Slides](files/MLF_Neural_Network.pdf))
+* __16__ (11.02 Fri): Neural Network ([Slides](files/MLF_Neural_Network.pdf))
+* __15__ (10.30 Tues): Use of sklearn in __PML__ Ch. 10, Neural Network ([Slides](files/MLF_Neural_Network.pdf))
+* __14__ (10.26 Fri): Use of sklearn in __PML__ Ch. 5/6/7
 * __13__ (10.23 Tues): [Course Project Proposal](Project.md)
 * __12__ (10.19 Fri): Midterm exam (Rm 321) ([Solution](files/MLF2018_Midterm.pdf))
 * __NO CLASS__ on __10.16 Tues__
