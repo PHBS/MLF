@@ -14,8 +14,8 @@
 
 ## Lectures:
 * __18__ (11.09 Fri) Course Project Presentation
-* __17__ (11.06 Tues): ML-related research presentation by Prof. Choi
-* __16__ (11.02 Fri): Neural Network ([Slides](files/MLF_Neural_Network.pdf))
+* __17__ (11.06 Tues): Tensorflow / Keras ([XOR](py/TF_Keras_XOR.ipynb), [Iris](py/Keras_Iris.ipynb))
+* __16__ (11.02 Fri): Neural Network ([Slides](files/MLF_Neural_Network.pdf)), ML-related research presentation (LOOLSM)
 * __15__ (10.30 Tues): Use of sklearn in __PML__ Ch. 10, Neural Network ([Slides](files/MLF_Neural_Network.pdf))
 * __14__ (10.26 Fri): Use of sklearn in __PML__ Ch. 5/6/7
 * __13__ (10.23 Tues): [Course Project Proposal](Project.md)
