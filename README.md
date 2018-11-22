@@ -6,11 +6,21 @@
 * Python Crash Course will be on 9.12 (Wed) **1:30 PM**. Class mailing list created.
 * Email is the preferred method of communication. Class mailing list will be created as PHBS.MLF@allmail.net.
 
-## Course Resources
-* Course slides: [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVM/KNN/Tree](files/MLF_SVM_KNN_Tree.pdf) | [SVD/PCA/LDA](files/MLF_SVD_PCA_LDA.pdf) | [Hyperparameter](files/MLF_Bias_Variance_Metric.pdf) | [Neural Network](files/MLF_Neural_Network.pdf) | [Graphical Model](files/MLF_Graphical_Model.pdf)
-* Past Slides (All-in-one): [2017-18](files/MLF_Notes.pdf)
-* Past Exam: [2017-18](files/MLF2017_Midterm.pdf)
-* [Exams from Tom Michell's ML course](http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml) (Carnegie Mellon University)
+## Team List (Presentation Order)
+* [OscarHemmingsen](https://github.com/OscarHemmingsen/PHBS_MLF_2018): 
+* [joelgysel](https://github.com/joelgysel/PHBS_MLF_2018): 
+* [Lillahbenard](https://github.com/Lillahbenard/GITHUB_Lillahbenard-PHBS_MLF_2018): 
+* [Davethedata](https://github.com/Davethedata/PHBS_MLF_2018): Company default
+* [XiaoqianZhu1997](https://github.com/XiaoqianZhu1997/PHBS_MLF_2018)
+* [MatteoRossiTantini](https://github.com/MatteoRossiTantini/PHBS_MLF_2018)
+* [TianXiangxun](https://github.com/TianXiangxun/PHBS_MLF_2018)
+* [qwerjeff](https://github.com/qwerjeff/PHBS_MLF_2018): Musical instrument classification from Midi file
+* [raphalecui1990](https://github.com/raphalecui1990/PHBS_MLF_2018): Stock price prediction from demand elasticity
+* [nico-busch](https://github.com/nico-busch/PHBS_MLF_2018):
+* [sergeyivanov01](https://github.com/sergeyivanov01/PHBS_MLF_2018): Oil price prediction
+* [HuangJing1801](https://github.com/HuangJing1801/PHBS_MLF_2018): Loan credit evaluation from Lending Club data
+* [devon-ge](https://github.com/devon-ge/PHBS_MLF_2018): Colorizing grayscale image (CNN)
+* [RasmusAU](https://github.com/RasmusAU/GITHUB_ID-PHBS_MLF_2018): Predicting movie success
 
 ## Lectures:
 * __18__ (11.09 Fri) Course Project Presentation
@@ -32,6 +42,12 @@
 * __03__ (09.11 Tues): __ISLR__ Ch. 3, __PML__ Ch. 1
 * __02__ (09.07 Fri): Intro ([Slides](files/MLF_Intro.pdf)), Regression ([Slides](files/MLF_Regression.pdf))
 * __01__ (09.04 Tues): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
+
+## Course Resources
+* Course slides: [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVM/KNN/Tree](files/MLF_SVM_KNN_Tree.pdf) | [SVD/PCA/LDA](files/MLF_SVD_PCA_LDA.pdf) | [Hyperparameter](files/MLF_Bias_Variance_Metric.pdf) | [Neural Network](files/MLF_Neural_Network.pdf) | [Graphical Model](files/MLF_Graphical_Model.pdf)
+* Past Slides (All-in-one): [2017-18](files/MLF_Notes.pdf)
+* Past Exam: [2017-18](files/MLF2017_Midterm.pdf)
+* [Exams from Tom Michell's ML course](http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml) (Carnegie Mellon University)
 
 ## Homeworks:
 * ### __Set 1__ [Due by 09.11 Tues]
