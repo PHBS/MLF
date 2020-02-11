@@ -86,7 +86,7 @@
 
 ## Course overview
 With the advent of computation power and big data, machine learning (ML) recently became one of the most spotlighted research field in industry and academia. This course provides a broad introduction to ML in theoretical and practical perspectives. Through this course, students will learn the intuition and implementation behind the popular ML methods and gain hands-on experience of using ML software packages such as SK-learn and Tensorflow. This course will also explore the possibility of applying ML to finance and business. Each student is required to complete a final course project. 
-__This year, the compliance analytics team in HSBC bank will give 4 guest lectures thrroughout the course to demonstrate how ML is developed and shared in banking industry. In the guest lectures, students will also learn how to use cloud computing (Google Clound Platform/Ali Clound)__
+__This year, the compliance analytics team in HSBC bank will give 4 guest lectures thrroughout the course to demonstrate how ML is developed and shared in banking industry. In the guest lectures, students will also learn how to use cloud computing (Google Cloud Platform/Ali Cloud)__
 
 ## Prerequisites
 This course assumes prior knowkedge in probability/statistics and experience in Python. This course is ideally recommended for those who have taken introductory ML/AI courses from undergraduate program.
