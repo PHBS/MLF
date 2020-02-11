@@ -92,15 +92,15 @@ __This year, the compliance analytics team in HSBC bank will give 4 guest lectur
 This course assumes prior knowkedge in probability/statistics and experience in Python. This course is ideally recommended for those who have taken introductory ML/AI courses from undergraduate program.
 
 ##  Textbooks and Reading Materials
-# Primary textbook
+### Primary textbook
 * __PML__ (primary textbook): [Python Machine Learning](https://github.com/PHBS/python-machine-learning-book-2nd-edition) by Sebastian Raschka
-# ML
+### ML
 * __ISLR__: [An Introduction to Statistical Learning (with Applications in R)](http://faculty.marshall.usc.edu/gareth-james/ISL/) by James, Witten, Hastie, and Tibshirani
 * __Bishop__: Pattern Recognition and Machine Learning by Bishop (Microsoft)
 * __ESL__:  [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Hastie, Tibshirani, and Friedman
 * __CML__: [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng
 * __DL__: [Deep Learning](http://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville
-# ML in Finance
+### ML in Finance
 * __AFML__: [Advances in financial machine learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by López de Prado
 <!--
 * __JPM-AI__: [Big Data and AI Strategies](http://valuesimplex.com/articles/JPM.pdf) by J.P. Morgan
