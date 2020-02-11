@@ -23,7 +23,7 @@
 * __12__ (3.27 Fri): __HSBC Guest Lecture [3/4]__ Model sharings.
 * __13__ (3.31 Tue):
 * __14__ (4.03 Fri): __HSBC Guest Lecture [4/4]__ Practical issues of applying ML to the real world.
-* __15__ (4.07 Tue):
+* __15__ (4.07 Tue): __Midterm Exam__
 * __16__ (4.10 Fri):
 * __17__ (4.14 Tue): Course Project Presentation (Tentative)
 * __18__ (4.17 Fri): Course Project Presentation
@@ -113,7 +113,7 @@ This course assumes prior knowkedge in probability/statistics and experience in 
 ## Assessment / Grading Details
 * Attendance 20%, Mid-term exam 30%, Assignments 20%, Course Project 30%
 * Attendance: TBA ~~Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave~~
-* __Mid-term exam__: 10.19 Fri. Take-home exam. ~~In-class open-book without computer/phone/calculator~~
+* __Mid-term exam__: __4.7 Tues__. In-class open-book without computer/phone/calculator
 * __Course project__: Data Proposal (10.23 Tues) and Presentation (11.09 Fri). Group of up to 4 people.
 * __Attendance__: checked randomly. The score is calculated as 20 – 2`x`(#of absence). Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
 * __Grade__ in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or below > 10%__.
