@@ -10,19 +10,19 @@
 
 ## Lectures:
 * __01__ (2.18 Tue): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
-* __02__ (2.21 Fri): Intro ([Slides](files/MLF_Intro.pdf)), Regression ([Slides](files/MLF_Regression.pdf))
-* __03__ (2.25 Tue): __ISLR__ Ch. 3, __PML__ Ch. 1
-* __04__ (2.28 Fri): __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), Regression weight update ([Slides](files/MLF_Regression.pdf))
-* __05__ (3.03 Tue):
-* __06__ (3.06 Fri):
-* __07__ (3.10 Tue):
+* __02__ (2.21 Fri): __HSBC Class [1/4]__ Model management cycle in banking industry, Tool setup (GCP/Ali Clound).
+* __03__ (2.25 Tue): Intro ([Slides](files/MLF_Intro.pdf)), Regression ([Slides](files/MLF_Regression.pdf))
+* __04__ (2.28 Fri): __ISLR__ Ch. 3, __PML__ Ch. 1
+* __05__ (3.03 Tue): __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), Regression weight update ([Slides](files/MLF_Regression.pdf))
+* __06__ (3.06 Fri): Logistic Regression ([Slides](files/MLF_Regression.pdf)) __PML__ Ch. 3
+* __07__ (3.10 Tue): SVM/KNN/Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf)) __PML__ Ch. 3
 * __08__ (3.13 Fri):
 * __09__ (3.17 Tue):
-* __10__ (3.20 Fri):
+* __10__ (3.20 Fri): __HSBC Class [2/4]__ Data mining, profiling, visualization, and conclusion. 
 * __11__ (3.24 Tue):
-* __12__ (3.27 Fri):
+* __12__ (3.27 Fri): __HSBC Class [3/4]__ Model sharings.
 * __13__ (3.31 Tue):
-* __14__ (4.03 Fri):
+* __14__ (4.03 Fri): __HSBC Class [4/4]__ Practical issues of applying ML to the real world.
 * __15__ (4.07 Tue):
 * __16__ (4.10 Fri):
 * __17__ (4.14 Tue): Course Project Presentation (Tentative)
@@ -40,8 +40,8 @@
 * __10__ (10.09 Tues): SVD/PCA/LDA ([Slides](files/MLF_SVD_PCA_LDA.pdf)) __PML__ Ch. 5, Hyperparameters ([Slides](files/MLF_Bias_Variance_Metric.pdf)) __PML__ Ch. 6
 * __09__ (09.28 Fri): Data Preprocessing __PML__ Ch. 4, SVD/PCA/LDA ([Slides](files/MLF_SVD_PCA_LDA.pdf)) __PML__ Ch. 5
 * __08__ (09.25 Tues): Kernel SVM/Bagging/RF ([Slides](files/MLF_SVM_KNN_Tree.pdf)) __PML__ Ch. 3
-* __07__ (09.21 Fri): SVM/KNN/Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf)) __PML__ Ch. 3
-* __06__ (09.18 Tues): Logistic Regression ([Slides](files/MLF_Regression.pdf)) __PML__ Ch. 3
+* __07__ (09.21 Fri): 
+* __06__ (09.18 Tues): 
 * __05__ (09.14 Fri): 
 * __04__ (__09.12 Wed__ instead of __10.16 Tues__): Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb) | [Numpy](py/PythonCrashCourse_Numpy.ipynb)). More [cheatsheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html) also available in [MLF CMS](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FN570).
 * __03__ (09.11 Tues): 
@@ -84,12 +84,10 @@
 * TA Office Hour: Online/DingTalk ~~(Room 213/214)~~
 
 ## Course overview
-
-With the advent of computation power and big data, machine learning recently became one of the most spotlighted research field in industry and academia. This course provides a broad introduction to machine learning in theoretical and practical perspectives. Through this course, students will learn the intuition and implementation behind the popular machine learning methods and gain hands-on experience of using ML software packages such as SK-learn and Tensorflow. This course will also explore the possibility of applying ML to finance and business. Each student is required to complete a final course project. 
+With the advent of computation power and big data, machine learning (ML) recently became one of the most spotlighted research field in industry and academia. This course provides a broad introduction to ML in theoretical and practical perspectives. Through this course, students will learn the intuition and implementation behind the popular ML methods and gain hands-on experience of using ML software packages such as SK-learn and Tensorflow. This course will also explore the possibility of applying ML to finance and business. Each student is required to complete a final course project. __This year, the compliance analytics team in HSBC bank will give 4 guest lectures thrroughout the course to demonstrate how ML is developed and shared in banking industry. In the guest lectures, students will also learn how to use cloud computing (Google Clound Platform/Ali Clound)
 
 ## Prerequisites
-
-Undergraduate-level knowledge in probability/statistics and previous experience in programming language (python) is highly recommended. 
+This course assumes prior knowkedge in probability/statistics and experience in Python. This course is ideally recommended for those who have taken introductory ML/AI courses from undergraduate program.
 
 ##  Textbooks and Reading Materials
 * __PML__ (primary textbook): [Python Machine Learning](https://github.com/PHBS/python-machine-learning-book-2nd-edition) by Sebastian Raschka
@@ -110,4 +108,4 @@ Undergraduate-level knowledge in probability/statistics and previous experience 
 * __Mid-term exam__: 10.19 Fri. Take-home exam. ~~In-class open-book without computer/phone/calculator~~
 * __Course project__: Data Proposal (10.23 Tues) and Presentation (11.09 Fri). Group of up to 4 people.
 * __Attendance__: checked randomly. The score is calculated as 20 – 2`x`(#of absence). Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
-* __Grade__ in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and C+ or below > 10%__.
+* __Grade__ in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or below > 10%__.
