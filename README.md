@@ -55,7 +55,7 @@
 * [Exams from Tom Michell's ML course](http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml) (Carnegie Mellon University)
 
 ## Homeworks:
-* ### __Set 1__ [Due by 09.11 Tues]
+* ### __Set 1__ [Due by 2.22 Sat]
   * Register on Github.com and let TA and me know your ID. Give your __full name__ in your profile. Accept invitation to the [PHBS organization](https://github.com/orgs/PHBS/people) from TA. Install [Github Desktop](https://desktop.github.com/) (available on [CMS](http://cms.phbs.pku.edu.cn/claroline/course/index.php?cid=FN570)).
   * Install [Anaconda](https://www.anaconda.com/download/) Python distribution (__3.X version__, 2.X version). Anaconda distribution is core Python + useful scientific computation libraries (e.g., numpy, scipy, pandas) + package management system (pip or conda)
   * Send the screenshot of both softwares installed to TA. (Example: [Github Desktop](HW1/Github.png), [Anaconda Spyder](HW1/Python.png))
@@ -114,6 +114,6 @@ This course assumes prior knowkedge in probability/statistics and experience in 
 * Attendance 20%, Mid-term exam 30%, Assignments 20%, Course Project 30%
 * Attendance: TBA ~~Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave~~
 * __Mid-term exam__: __4.7 Tues__. In-class open-book without computer/phone/calculator
-* __Course project__: Data Proposal (10.23 Tues) and Presentation (11.09 Fri). Group of up to 4 people.
+* __Course project__: Data Proposal and Presentation. Group of up to ?? people.
 * __Attendance__: checked randomly. The score is calculated as 20 – 2`x`(#of absence). Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
 * __Grade__ in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or below > 10%__.
