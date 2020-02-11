@@ -10,7 +10,7 @@
 
 ## Lectures:
 * __01__ (2.18 Tue): Course overview ([Syllabus](#syllabus)), Python, Github, Etc.
-* __02__ (2.21 Fri): __HSBC Guest Lecture [1/4]__ Model management cycle in banking industry, Tool setup (GCP/Ali Clound).
+* __02__ (2.21 Fri): __HSBC Guest Lecture [1/4]__ Model management cycle in banking industry, Tool setup (GCP/Ali Cloud).
 * __03__ (2.25 Tue): Intro ([Slides](files/MLF_Intro.pdf)), Regression ([Slides](files/MLF_Regression.pdf))
 * __04__ (2.28 Fri): __ISLR__ Ch. 3, __PML__ Ch. 1
 * __05__ (3.03 Tue): __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), Regression weight update ([Slides](files/MLF_Regression.pdf))
