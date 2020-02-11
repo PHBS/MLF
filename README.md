@@ -60,7 +60,8 @@
   * Install [Anaconda](https://www.anaconda.com/download/) Python distribution (__3.X version__, 2.X version). Anaconda distribution is core Python + useful scientific computation libraries (e.g., numpy, scipy, pandas) + package management system (pip or conda)
   * Send the screenshot of both softwares installed to TA. (Example: [Github Desktop](HW1/Github.png), [Anaconda Spyder](HW1/Python.png))
 
-## Course Project ([link](Project.md))
+## Course Project
+* Previous Years: [2018](past-years/2018.M1/Project.md)
 <!--
 * ### Data Proposal [__10.23 Tues__ class]
 * ### Presentation [__11.09 Fri__ class]
