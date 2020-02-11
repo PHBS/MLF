@@ -1,28 +1,33 @@
 # Machine Learning for Finance (FN 570, 2018-19 Module 1)
 
 ## Announcements
+* Email is the preferred method of communication. Class mailing list will be created as PHBS.MLF@allmail.net. But, the announcements will be also made in DingTalk group chat.
+<!--
 * [Midterm exam solution](files/MLF2018_Midterm.pdf) is uploaded
 * Midterm exam on Friday will be in __Rm 321__ 
 * Python Crash Course will be on 9.12 (Wed) **1:30 PM**. Class mailing list created.
-* Email is the preferred method of communication. Class mailing list will be created as PHBS.MLF@allmail.net.
-
-## Team List (Presentation Order)
-* [OscarHemmingsen](https://github.com/OscarHemmingsen/PHBS_MLF_2018): 
-* [joelgysel](https://github.com/joelgysel/PHBS_MLF_2018): 
-* [Lillahbenard](https://github.com/Lillahbenard/GITHUB_Lillahbenard-PHBS_MLF_2018): 
-* [Davethedata](https://github.com/Davethedata/PHBS_MLF_2018): Company default
-* [XiaoqianZhu1997](https://github.com/XiaoqianZhu1997/PHBS_MLF_2018)
-* [MatteoRossiTantini](https://github.com/MatteoRossiTantini/PHBS_MLF_2018)
-* [TianXiangxun](https://github.com/TianXiangxun/PHBS_MLF_2018)
-* [qwerjeff](https://github.com/qwerjeff/PHBS_MLF_2018): Musical instrument classification from Midi file
-* [raphalecui1990](https://github.com/raphalecui1990/PHBS_MLF_2018): Stock price prediction from demand elasticity
-* [nico-busch](https://github.com/nico-busch/PHBS_MLF_2018):
-* [sergeyivanov01](https://github.com/sergeyivanov01/PHBS_MLF_2018): Oil price prediction
-* [HuangJing1801](https://github.com/HuangJing1801/PHBS_MLF_2018): Loan credit evaluation from Lending Club data
-* [devon-ge](https://github.com/devon-ge/PHBS_MLF_2018): Colorizing grayscale image (CNN)
-* [RasmusAU](https://github.com/RasmusAU/GITHUB_ID-PHBS_MLF_2018): Predicting movie success
+-->
 
 ## Lectures:
+* __01__ (2.18 Tue): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
+* __02__ (2.21 Fri): __HSBC Lecture__
+* __03__ (2.25 Tue): Intro ([Slides](files/MLF_Intro.pdf)), Regression ([Slides](files/MLF_Regression.pdf))
+* __04__ (2.28 Fri):
+* __05__ (3.03 Tue):
+* __06__ (3.06 Fri):
+* __07__ (3.10 Tue):
+* __08__ (3.13 Fri):
+* __09__ (3.17 Tue):
+* __10__ (3.20 Fri):
+* __11__ (3.24 Tue):
+* __12__ (3.27 Fri):
+* __13__ (3.31 Tue):
+* __14__ (4.03 Fri):
+* __15__ (4.07 Tue):
+* __16__ (4.10 Fri):
+* __17__ (4.14 Tue): 
+* __18__ (4.17 Fri): 
+<!--
 * __18__ (11.09 Fri) Course Project Presentation
 * __17__ (11.06 Tues): Tensorflow / Keras ([XOR](py/TF_Keras_XOR.ipynb), [Iris](py/Keras_Iris.ipynb) based on [here](https://machinelearningmastery.com/multi-class-classification-tutorial-keras-deep-learning-library/))
 * __16__ (11.02 Fri): Neural Network ([Slides](files/MLF_Neural_Network.pdf)), ML-related research presentation (LOOLSM)
@@ -40,13 +45,14 @@
 * __05__ (09.14 Fri): __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), Regression weight update ([Slides](files/MLF_Regression.pdf))
 * __04__ (__09.12 Wed__ instead of __10.16 Tues__): Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb) | [Numpy](py/PythonCrashCourse_Numpy.ipynb)). More [cheatsheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html) also available in [MLF CMS](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FN570).
 * __03__ (09.11 Tues): __ISLR__ Ch. 3, __PML__ Ch. 1
-* __02__ (09.07 Fri): Intro ([Slides](files/MLF_Intro.pdf)), Regression ([Slides](files/MLF_Regression.pdf))
-* __01__ (09.04 Tues): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
+* __02__ (09.07 Fri): 
+* __01__ (09.04 Tues): 
+-->
 
 ## Course Resources
 * Course slides: [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVM/KNN/Tree](files/MLF_SVM_KNN_Tree.pdf) | [SVD/PCA/LDA](files/MLF_SVD_PCA_LDA.pdf) | [Hyperparameter](files/MLF_Bias_Variance_Metric.pdf) | [Neural Network](files/MLF_Neural_Network.pdf) | [Graphical Model](files/MLF_Graphical_Model.pdf)
 * Past Slides (All-in-one): [2017-18](files/MLF_Notes.pdf)
-* Past Exam: [2017-18](files/MLF2017_Midterm.pdf)
+* Past Exam: [2017](files/MLF2017_Midterm.pdf) | [2018](files/MLF2018_Midterm.pdf)
 * [Exams from Tom Michell's ML course](http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml) (Carnegie Mellon University)
 
 ## Homeworks:
@@ -56,22 +62,24 @@
   * Send the screenshot of both softwares installed to TA. (Example: [Github Desktop](files/Choi_Jaehyuk_Github.png), [Anaconda Spyder](files/Choi_Jaehyuk_Python.png))
 
 ## Course Project ([link](Project.md))
+<!--
 * ### Data Proposal [__10.23 Tues__ class]
 * ### Presentation [__11.09 Fri__ class]
+-->
 
 ## Classes: 
-* Lectures: Tuesday & Friday 8:30 AM – 10:20 AM
-* Venue: PHBS Building, Room 211
+* Lectures: Tuesday & Friday 1:30 – 3:20 PM
+* Venue: Online/DingTalk ~~PHBS Building, Room 229~~
 
 ## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en)
 * Office: PHBS Building, Room 755
 * Phone: 86-755-2603-0568
 * Email: jaehyuk@phbs.pku.edu.cn
-* Office Hour: Tues & Fri 10:30 – 11:30 AM or by appointment
+* Office Hour: Online/DingTalk ~~Thursday 3:30-5:30 PM~~
 
-## Teaching Assistance: Junjie Zhang (张俊杰)
-* Email: 1701213147@sz.pku.edu.cn
-* TA Office Hour: Tues & Fri 3:30 - 5:30 PM (Room 213/214)
+## Teaching Assistance: Shiqi Zhang (张诗琪)
+* Email: 1701213153@sz.pku.edu.cn
+* TA Office Hour: Online/DingTalk ~~(Room 213/214)~~
 
 ## Course overview
 
