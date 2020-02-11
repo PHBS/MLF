@@ -10,7 +10,7 @@
 
 ## Lectures:
 * __01__ (2.18 Tue): Course overview ([Syllabus](#syllabus)), Python, Github, Etc.
-* __02__ (2.21 Fri): __HSBC Class [1/4]__ Model management cycle in banking industry, Tool setup (GCP/Ali Clound).
+* __02__ (2.21 Fri): __HSBC Guest Lecture [1/4]__ Model management cycle in banking industry, Tool setup (GCP/Ali Clound).
 * __03__ (2.25 Tue): Intro ([Slides](files/MLF_Intro.pdf)), Regression ([Slides](files/MLF_Regression.pdf))
 * __04__ (2.28 Fri): __ISLR__ Ch. 3, __PML__ Ch. 1
 * __05__ (3.03 Tue): __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), Regression weight update ([Slides](files/MLF_Regression.pdf))
@@ -18,11 +18,11 @@
 * __07__ (3.10 Tue): SVM/KNN/Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf)) __PML__ Ch. 3
 * __08__ (3.13 Fri):
 * __09__ (3.17 Tue):
-* __10__ (3.20 Fri): __HSBC Class [2/4]__ Data mining, profiling, visualization, and conclusion. 
+* __10__ (3.20 Fri): __HSBC Guest Lecture [2/4]__ Data mining, profiling, visualization, and conclusion. 
 * __11__ (3.24 Tue):
-* __12__ (3.27 Fri): __HSBC Class [3/4]__ Model sharings.
+* __12__ (3.27 Fri): __HSBC Guest Lecture [3/4]__ Model sharings.
 * __13__ (3.31 Tue):
-* __14__ (4.03 Fri): __HSBC Class [4/4]__ Practical issues of applying ML to the real world.
+* __14__ (4.03 Fri): __HSBC Guest Lecture [4/4]__ Practical issues of applying ML to the real world.
 * __15__ (4.07 Tue):
 * __16__ (4.10 Fri):
 * __17__ (4.14 Tue): Course Project Presentation (Tentative)
