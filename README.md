@@ -57,9 +57,9 @@
 ## Homeworks:
 * ### __Set 0: [Required Software]__ [Due by 2.22 Sat]
   * Register on [Github.com](https://github.com/) and let TA know your ID (by DingTalk). Make sure to user your __full real name__ in your profile. Accept invitation to the [PHBS organization](https://github.com/orgs/PHBS/people) from TA. 
-   * Create a designated repository `GITHUB_ID/PHBS_MLF_2018` for your HW and project. Tick `Initialize this repository with a README` and select `python` under `.gitignore`
-   * Fork [PML repository](https://github.com/PHBS/python-machine-learning-book-2nd-edition) to your repository.
-  * Install [Github Desktop](https://desktop.github.com/) (available on [CMS](http://cms.phbs.pku.edu.cn/claroline/course/index.php?cid=FN570)).
+    * Create a designated repository `GITHUB_ID/PHBS_MLF_2018` for your HW and project. Tick `Initialize this repository with a README` and select `python` under `.gitignore`
+    * Fork [PML repository](https://github.com/PHBS/python-machine-learning-book-2nd-edition) to your repository.
+  * Install [Github Desktop](https://desktop.github.com/) (available on [CMS](http://cms.phbs.pku.edu.cn/claroline/course/index.php?cid=FN570)). Then __clone__ the two repositories to your local storage.
   * Install [Anaconda](https://www.anaconda.com/download/) Python distribution (__3.X version__, not 2.X version). Anaconda distribution is core Python + useful scientific computation libraries (e.g., numpy, scipy, pandas) + package management system (pip or conda)
   * Install [PyCharm](https://www.jetbrains.com/pycharm/) Community version. (Or Professional version after applying for [free student license](https://www.jetbrains.com/student/))
   * Save the screenshot of (1) Github Desktop (showing 2 repositories) (2) Jupyter Notebook (Anaconda) (3) PyCharm. (See my [example](http://githum.com/jaehyukchoi/PHBS_MLF_2019/HW0))
