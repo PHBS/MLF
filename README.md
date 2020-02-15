@@ -11,11 +11,12 @@
 ## Lectures:
 * __01__ (2.18 Tue): Course overview ([Syllabus](#syllabus)), Python, Github, Etc.
 * __02__ (2.21 Fri): __HSBC Guest Lecture [1/4]__ Model management cycle in banking industry, Tool setup (GCP/Ali Cloud).
-* __03__ (2.25 Tue): Intro ([Slides](files/MLF_Intro.pdf)), Regression ([Slides](files/MLF_Regression.pdf))
-* __04__ (2.28 Fri): __ISLR__ Ch. 3, __PML__ Ch. 1
+* __03__ (2.25 Tue): Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb) | [Numpy](py/PythonCrashCourse_Numpy.ipynb)) | 
+Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1)
+* __04__ (2.28 Fri): Regression ([Slides](files/MLF_Regression.pdf))
 * __05__ (3.03 Tue): __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), Regression weight update ([Slides](files/MLF_Regression.pdf))
-* __06__ (3.06 Fri): Logistic Regression ([Slides](files/MLF_Regression.pdf)) __PML__ Ch. 3
-* __07__ (3.10 Tue): SVM/KNN/Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf)) __PML__ Ch. 3
+* __06__ (3.06 Fri): Logistic Regression ([Slides](files/MLF_Regression.pdf), Reading: __PML__ Ch. 3) 
+* __07__ (3.10 Tue): SVM/KNN/Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3) 
 * __08__ (3.13 Fri):
 * __09__ (3.17 Tue):
 * __10__ (3.20 Fri): __HSBC Guest Lecture [2/4]__ Data mining, profiling, visualization, and conclusion. 
@@ -43,7 +44,7 @@
 * __07__ (09.21 Fri): 
 * __06__ (09.18 Tues): 
 * __05__ (09.14 Fri): 
-* __04__ (__09.12 Wed__ instead of __10.16 Tues__): Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb) | [Numpy](py/PythonCrashCourse_Numpy.ipynb)). More [cheatsheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html) also available in [MLF CMS](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FN570).
+* __04__ (__09.12 Wed__ instead of __10.16 Tues__): More [cheatsheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html) also available in [MLF CMS](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FN570).
 * __03__ (09.11 Tues): 
 * __02__ (09.07 Fri): 
 * __01__ (09.04 Tues): 
@@ -62,7 +63,7 @@
   * Install [Github Desktop](https://desktop.github.com/) (available on [CMS](http://cms.phbs.pku.edu.cn/claroline/course/index.php?cid=FN570)). Then __clone__ the two repositories to your local storage.
   * Install [Anaconda](https://www.anaconda.com/download/) Python distribution (__3.X version__, not 2.X version). Anaconda distribution is core Python + useful scientific computation libraries (e.g., numpy, scipy, pandas) + package management system (pip or conda)
   * Install [PyCharm](https://www.jetbrains.com/pycharm/) Community version. (Or Professional version after applying for [free student license](https://www.jetbrains.com/student/))
-  * Save the screenshot of (1) Github Desktop (showing 2 repositories) (2) Jupyter Notebook (Anaconda) (3) PyCharm (See my [example](http://githum.com/jaehyukchoi/PHBS_MLF_2019/HW0)) and make sure to __sync__ to repository.
+  * Save the screenshot of (1) Github Desktop (showing 2 repositories) (2) Jupyter Notebook (Anaconda) (3) PyCharm (See my [example](https://github.com/jaehyukchoi/PHBS_MLF_2019/tree/master/HW0)) and make sure to press __`Push Origin`__ to sync with the online repository in github.com.
 
 ## Course Project
 * Previous Years: [2018](past-years/2018.M1/Project.md)
