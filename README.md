@@ -62,7 +62,7 @@
   * Install [Github Desktop](https://desktop.github.com/) (available on [CMS](http://cms.phbs.pku.edu.cn/claroline/course/index.php?cid=FN570)). Then __clone__ the two repositories to your local storage.
   * Install [Anaconda](https://www.anaconda.com/download/) Python distribution (__3.X version__, not 2.X version). Anaconda distribution is core Python + useful scientific computation libraries (e.g., numpy, scipy, pandas) + package management system (pip or conda)
   * Install [PyCharm](https://www.jetbrains.com/pycharm/) Community version. (Or Professional version after applying for [free student license](https://www.jetbrains.com/student/))
-  * Save the screenshot of (1) Github Desktop (showing 2 repositories) (2) Jupyter Notebook (Anaconda) (3) PyCharm. (See my [example](http://githum.com/jaehyukchoi/PHBS_MLF_2019/HW0))
+  * Save the screenshot of (1) Github Desktop (showing 2 repositories) (2) Jupyter Notebook (Anaconda) (3) PyCharm (See my [example](http://githum.com/jaehyukchoi/PHBS_MLF_2019/HW0)) and make sure to __sync__ to repository.
 
 ## Course Project
 * Previous Years: [2018](past-years/2018.M1/Project.md)
