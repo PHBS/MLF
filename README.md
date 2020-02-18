@@ -11,11 +11,11 @@
 ## Lectures:
 * __01__ (2.18 Tue): Course overview ([Syllabus](#syllabus)), Python, Github, Etc.
 * __02__ (2.21 Fri): __HSBC Guest Lecture [1/4]__ Model management cycle in banking industry, Tool setup (GCP/Ali Cloud).
-* __03__ (2.25 Tue): Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb) | [Numpy](py/PythonCrashCourse_Numpy.ipynb)) | 
-Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1)
-* __04__ (2.28 Fri): Regression ([Slides](files/MLF_Regression.pdf))
-* __05__ (3.03 Tue): __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), Regression weight update ([Slides](files/MLF_Regression.pdf))
-* __06__ (3.06 Fri): Logistic Regression ([Slides](files/MLF_Regression.pdf), Reading: __PML__ Ch. 3) 
+* __03__ (2.25 Tue): Brief Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb) | [Numpy](py/PythonCrashCourse_Numpy.ipynb), Notebook Shorcut Keys) | 
+Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regression ([Slides](files/MLF_Regression.pdf))
+* __04__ (2.28 Fri): Regression weight update ([Slides](files/MLF_Regression.pdf)) __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), 
+* __05__ (3.03 Tue): Logistic Regression ([Slides](files/MLF_Regression.pdf), Reading: __PML__ Ch. 3) 
+* __06__ (3.06 Fri): 
 * __07__ (3.10 Tue): SVM/KNN/Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3) 
 * __08__ (3.13 Fri):
 * __09__ (3.17 Tue):
