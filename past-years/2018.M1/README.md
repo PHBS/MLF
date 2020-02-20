@@ -9,45 +9,25 @@
 -->
 
 ## Lectures:
-* __01__ (2.18 Tue): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
-* __02__ (2.21 Fri): __HSBC Lecture__
-* __03__ (2.25 Tue): Intro ([Slides](files/MLF_Intro.pdf)), Regression ([Slides](files/MLF_Regression.pdf))
-* __04__ (2.28 Fri):
-* __05__ (3.03 Tue):
-* __06__ (3.06 Fri):
-* __07__ (3.10 Tue):
-* __08__ (3.13 Fri):
-* __09__ (3.17 Tue):
-* __10__ (3.20 Fri):
-* __11__ (3.24 Tue):
-* __12__ (3.27 Fri):
-* __13__ (3.31 Tue):
-* __14__ (4.03 Fri):
-* __15__ (4.07 Tue):
-* __16__ (4.10 Fri):
-* __17__ (4.14 Tue): 
-* __18__ (4.17 Fri): 
-<!--
-* __18__ (11.09 Fri) Course Project Presentation
-* __17__ (11.06 Tues): Tensorflow / Keras ([XOR](py/TF_Keras_XOR.ipynb), [Iris](py/Keras_Iris.ipynb) based on [here](https://machinelearningmastery.com/multi-class-classification-tutorial-keras-deep-learning-library/))
-* __16__ (11.02 Fri): Neural Network ([Slides](files/MLF_Neural_Network.pdf)), ML-related research presentation (LOOLSM)
-* __15__ (10.30 Tues): Use of sklearn in __PML__ Ch. 10, Neural Network ([Slides](files/MLF_Neural_Network.pdf))
-* __14__ (10.26 Fri): Use of sklearn in __PML__ Ch. 5/6/7
-* __13__ (10.23 Tues): [Course Project Proposal](Project.md)
-* __12__ (10.19 Fri): Midterm exam (Rm 321) ([Solution](files/MLF2018_Midterm.pdf))
-* __NO CLASS__ on __10.16 Tues__
-* __11__ (10.12 Fri): Confusion matrix, ROC curve, LOOCV ([Slides](files/MLF_Bias_Variance_Metric.pdf))
-* __10__ (10.09 Tues): SVD/PCA/LDA ([Slides](files/MLF_SVD_PCA_LDA.pdf)) __PML__ Ch. 5, Hyperparameters ([Slides](files/MLF_Bias_Variance_Metric.pdf)) __PML__ Ch. 6
-* __09__ (09.28 Fri): Data Preprocessing __PML__ Ch. 4, SVD/PCA/LDA ([Slides](files/MLF_SVD_PCA_LDA.pdf)) __PML__ Ch. 5
-* __08__ (09.25 Tues): Kernel SVM/Bagging/RF ([Slides](files/MLF_SVM_KNN_Tree.pdf)) __PML__ Ch. 3
-* __07__ (09.21 Fri): SVM/KNN/Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf)) __PML__ Ch. 3
-* __06__ (09.18 Tues): Logistic Regression ([Slides](files/MLF_Regression.pdf)) __PML__ Ch. 3
-* __05__ (09.14 Fri): __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), Regression weight update ([Slides](files/MLF_Regression.pdf))
-* __04__ (__09.12 Wed__ instead of __10.16 Tues__): Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb) | [Numpy](py/PythonCrashCourse_Numpy.ipynb)). More [cheatsheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html) also available in [MLF CMS](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FN570).
-* __03__ (09.11 Tues): __ISLR__ Ch. 3, __PML__ Ch. 1
-* __02__ (09.07 Fri): 
-* __01__ (09.04 Tues): 
--->
+* 18 (11.09 Fri) Course Project Presentation
+* 17 (11.06 Tues): Tensorflow / Keras (XOR, Iris based on here)
+* 16 (11.02 Fri): Neural Network (Slides), ML-related research presentation (LOOLSM)
+* 15 (10.30 Tues): Use of sklearn in PML Ch. 10, Neural Network (Slides)
+* 14 (10.26 Fri): Use of sklearn in PML Ch. 5/6/7
+* 13 (10.23 Tues): Course Project Proposal
+* 12 (10.19 Fri): Midterm exam (Rm 321) (Solution)
+* NO CLASS on 10.16 Tues
+* 11 (10.12 Fri): Confusion matrix, ROC curve, LOOCV (Slides)
+* 10 (10.09 Tues): SVD/PCA/LDA (Slides) PML Ch. 5, Hyperparameters (Slides) PML Ch. 6
+* 09 (09.28 Fri): Data Preprocessing PML Ch. 4, SVD/PCA/LDA (Slides) PML Ch. 5
+* 08 (09.25 Tues): Kernel SVM/Bagging/RF (Slides) PML Ch. 3
+* 07 (09.21 Fri): SVM/KNN/Decision Tree (Slides) PML Ch. 3
+* 06 (09.18 Tues): Logistic Regression (Slides) PML Ch. 3
+* 05 (09.14 Fri): PML Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), Regression weight update (Slides)
+* 04 (09.12 Wed instead of 10.16 Tues): Python crash course (Basic | Numpy). More cheatsheets also available in MLF CMS.
+* 03 (09.11 Tues): ISLR Ch. 3, PML Ch. 1
+* 02 (09.07 Fri): Intro (Slides), Regression (Slides)
+* 01 (09.04 Tues): Course overview (Syllabus), Python, Github, Etc.
 
 ## Course Resources
 * Course slides: [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVM/KNN/Tree](files/MLF_SVM_KNN_Tree.pdf) | [SVD/PCA/LDA](files/MLF_SVD_PCA_LDA.pdf) | [Hyperparameter](files/MLF_Bias_Variance_Metric.pdf) | [Neural Network](files/MLF_Neural_Network.pdf) | [Graphical Model](files/MLF_Graphical_Model.pdf)
