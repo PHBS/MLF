@@ -15,8 +15,8 @@
 Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regression ([Slides](files/MLF_Regression.pdf))
 * __04__ (2.28 Fri): Regression weight update ([Slides](files/MLF_Regression.pdf)) __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), 
 * __05__ (3.03 Tue): Logistic Regression ([Slides](files/MLF_Regression.pdf), Reading: __PML__ Ch. 3) 
-* __06__ (3.06 Fri): 
-* __07__ (3.10 Tue): SVM/KNN/Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3) 
+* __06__ (3.06 Fri): LR (continued) | SVM ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3) 
+* __07__ (3.10 Tue): KNN and Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3) 
 * __08__ (3.13 Fri):
 * __09__ (3.17 Tue):
 * __10__ (3.20 Fri): __HSBC Guest Lecture [2/4]__ Data mining, profiling, visualization, and conclusion. 
