@@ -67,7 +67,7 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
 * ### __Set 1: [Paying with Pandas dataframe]__ [Due by 3.11 Wed]
   * The goal of this HW is to be familiar with `pandas` package and dataframe. Due to limited time, I cannot cover pandas in class. You need to teach yourself. Remenber that there's many answers to do the task I am asking below. Use your own way.
   * For this HW, we will use [Polish companies bankruptcy data Data Set](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) from UCI Machine Learning Repository. Download the dataset and put the 4th year file (`4year.arff`) in your `YOUR_GITHUB_ID/PHBS_MLF_2019/HW1/`
-  * I did a basic process of the data (loading and changing the column names, etc)
+  * I did a basic process of the data (loading to dataframe and creating `bankruptcy` column). See my [github](https://github.com/jaehyukchoi/PHBS_MLF_2019/tree/master/HW1/)
   * We are going to use the following 4 features:
   `X1 net profit / total assets`, `X2 total liabilities / total assets`, `X7 EBIT / total assets`, `X10 equity / total assets`, and `class`
   * Create a new dataframe with only 4 feataures (and and `Bankruptcy`). Properly rename the columns to `X1`, `X2`, `X7`, and `X10`
@@ -75,7 +75,6 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
   * Find the mean and std of the 4 features among all, bankrupt and still-operating companies (3 groups).
   * How many companies have `X1` values 1 std below the mean __AND__ `X10` values 1 std below the mean?
   * What is the ratio of the bankrupted companies among the sub-groups above?
-  * 
   
 ## Course Project
 * Previous Years: [2018](past-years/2018.M1/Project.md)
