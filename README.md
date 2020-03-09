@@ -73,7 +73,7 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
   * Create a new dataframe with only 4 feataures (and and `Bankruptcy`). Properly rename the columns to `X1`, `X2`, `X7`, and `X10`
   * Fill-in the missing values `na` with the mean. (See Ch 4 of `PML`)
   * Find the mean and std of the 4 features among all, bankrupt and still-operating companies (3 groups).
-  * How many companies have `X1` values 1 std below the mean __AND__ `X10` values 1 std below the mean?
+  * How many companies satisfy the condition, `X1 < mean(X1) - stdev(X1)` __AND__ `X10 < mean(X10) - std(X10)`?
   * What is the ratio of the bankrupted companies among the sub-groups above?
   
 ## Course Project
