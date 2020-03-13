@@ -75,6 +75,12 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
   * Find the mean and std of the 4 features among all, bankrupt and still-operating companies (3 groups).
   * How many companies satisfy the condition, `X1 < mean(X1) - stdev(X1)` __AND__ `X10 < mean(X10) - std(X10)`?
   * What is the ratio of the bankrupted companies among the sub-groups above?
+* ### __Set 2: [Classifiers]__ [Due by 3.19 Thurs]
+  * The goal of this HW is to be familiar with the basic classifiers __PML__ Ch 3. 
+  * For this HW, we continue to use [Polish companies bankruptcy data Data Set](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) from UCI Machine Learning Repository. Download the dataset and put the 4th year file (`4year.arff`) in your `YOUR_GITHUB_ID/PHBS_MLF_2019/HW2/`
+  * I did a basic process of the data (loading to dataframe, creating `bankruptcy` column, changing column names, filling-in `na` values, training-vs-test split, standardizatino, etc). See my [github](https://github.com/jaehyukchoi/PHBS_MLF_2019/tree/master/HW1/Classifiers.ipynb)
+  * Select the 2 most important features using LogisticRegression with L1 penalty. (Adjust C until you see 2 features)
+  * Using the 2 selected features, apply LR / SVM / decision tree. Try your own hyperparameters (C, gamma, tree depth, etc) to maximize the prediction accuracy. (Just try several values. You don't need to show your answer is the maximum.)
   
 ## Course Project
 * Previous Years: [2018](past-years/2018.M1/Project.md)
