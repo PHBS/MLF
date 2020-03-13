@@ -17,10 +17,10 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
 * __05__ (3.03 Tue): Logistic Regression ([Slides](files/MLF_Regression.pdf), Reading: __PML__ Ch. 3) 
 * __06__ (3.06 Fri): LR (continued) | SVM ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3) 
 * __07__ (3.10 Tue): KNN and Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3) 
-* __08__ (3.13 Fri): Data Preprocessing (Rading: __PML__ Ch. 4), SVD/PCA/LDA ([Slides](MLF_SVD_PCA_LDA.pdf), Reading: __PML__ Ch. 5)
-* __09__ (3.17 Tue):
+* __08__ (3.13 Fri): Data Preprocessing (Rading: __PML__ Ch. 4), SVD/PCA ([Slides](MLF_SVD_PCA_LDA.pdf), Reading: __PML__ Ch. 5)
+* __09__ (3.17 Tue): LDA ([Slides](MLF_SVD_PCA_LDA.pdf), Reading: __PML__ Ch. 5), Hyperparameters ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6)
 * __10__ (3.20 Fri): __HSBC Guest Lecture [2/4]__ Data mining, profiling, visualization, and conclusion. 
-* __11__ (3.24 Tue):
+* __11__ (3.24 Tue): Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6)
 * __12__ (3.27 Fri): __HSBC Guest Lecture [3/4]__ Model sharings.
 * __13__ (3.31 Tue):
 * __14__ (4.03 Fri): __HSBC Guest Lecture [4/4]__ Practical issues of applying ML to the real world.
