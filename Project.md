@@ -1,5 +1,6 @@
 # Course Project
 
+
 ## Team List (Presentation Order)
 TBA
 
@@ -7,7 +8,8 @@ TBA
 * Form a group (up to 4 students) and select data set
 * Designate a repository `GITHUB_ID/PHBS_MLF_2019` of one team member for the team project.
 * Let TA know the repository to be used for th eproject
-* Put team members (student # and github ID) (refer to [markdown cheetsheet](https://guides.github.com/features/mastering-markdown/))
+* Put team members' student # and github ID in `README.md` (for the syntax of `.md` file, see [markdown cheetsheet](https://guides.github.com/features/mastering-markdown/)) 
+* `README.md` will be eventually the report of your course project.
 
 ## Data Selection (__4.5 Sun__)
 * No restriction on data set. However, business(fin/ma/econ) related data is welcome (extra credit for creative data selection and pre-processing)
