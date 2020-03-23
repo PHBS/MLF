@@ -8,6 +8,19 @@
 * Python Crash Course will be on 9.12 (Wed) **1:30 PM**. Class mailing list created.
 -->
 
+## Course Project
+* Important Dates:
+  * `3. 29 (Sun)`: Team formation
+  * `4. 05 (Sun)`: Dataset selection
+  * `4. 14/17 (Class)`: Presentation 
+  * `4. 26 (Sun)`: Submission (Github) deadline
+* Project page
+* Previous Years: [2017](past-years/2017.M3/Project_List.md) | [2018](past-years/2018.M1/Project.md)
+<!--
+* ### Data Proposal [__10.23 Tues__ class]
+* ### Presentation [__11.09 Fri__ class]
+-->
+
 ## Lectures:
 * __01__ (2.18 Tue): Course overview ([Syllabus](#syllabus)), Python, Github, Etc.
 * __02__ (2.21 Fri): __HSBC Guest Lecture [1/4]__ Model management cycle in banking industry, Tool setup (GCP/Ali Cloud).
@@ -83,13 +96,6 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
   * Using the 2 selected features, apply LR / SVM / decision tree. Try your own hyperparameters (C, gamma, tree depth, etc) to maximize the prediction accuracy. (Just try several values. You don't need to show your answer is the maximum.)
   * Visualize your classifiers using the `plot_decision_regions` function from __PML__ Ch. 3
  
-## Course Project
-* Previous Years: [2018](past-years/2018.M1/Project.md)
-<!--
-* ### Data Proposal [__10.23 Tues__ class]
-* ### Presentation [__11.09 Fri__ class]
--->
-
 ***
 # Syllabus
 
