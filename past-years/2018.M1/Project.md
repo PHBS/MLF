@@ -45,7 +45,7 @@
   * Creativive (out-of-textbook) ideas are recommended for better result or result analysis
 * Deadline for updating report is __11.13 Tues Midnight (11:59 PM)__
 
-## Project in Past Years
+## Past year's project (2017-18 Module 3 Under `Topics in Quantitative Finance: Machine Learning for Finance`)
 * [JiayuCai](https://github.com/JiayuCai/2016.M3.TQF-ML.cross-currecy-basis): Cross-currency-basis prediction
 * [AtomMe](https://github.com/AtomMe/PHBS_TQFML/tree/master/Project/Credit): The Prediction of Credit User's Overdue event Based on Machine Learning Method ([Competition](https://open.chinaums.com/#/intro))
 * [ZheshengZhang](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project): LSTM-based method for stock returns prediction
