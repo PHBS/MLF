@@ -5,7 +5,8 @@ TBA
 
 ## Team Formation (__3. 39 Sun__)
 * Form a group (up to 4 students) and select data set
-* Create a designate repository `GITHUB_ID/PHBS_MLF_2019` for your team (already done)
+* Designate a repository `GITHUB_ID/PHBS_MLF_2019` of one team member for the team project.
+* Let TA know the repository to be used for th eproject
 * Put team members (student # and github ID) (refer to [markdown cheetsheet](https://guides.github.com/features/mastering-markdown/))
 
 ## Data Selection (__4.5 Sun__)
