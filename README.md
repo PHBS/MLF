@@ -35,7 +35,7 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
 * __10__ (3.20 Fri): __HSBC Guest Lecture [2/4]__ Data mining, profiling, visualization, and conclusion. 
 * __11__ (3.24 Tue): Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6)
 * __12__ (3.27 Fri): __HSBC Guest Lecture [3/4]__ Model sharings.
-* __13__ (3.31 Tue):
+* __13__ (3.31 Tue): Evaluation Metric ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6), Ensenble (Reading: __PML__ Ch. 7)
 * __14__ (4.03 Fri): __HSBC Guest Lecture [4/4]__ Practical issues of applying ML to the real world.
 * __15__ (4.07 Tue): __Midterm Exam__
 * __16__ (4.10 Fri):
