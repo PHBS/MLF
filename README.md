@@ -38,7 +38,7 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
 * __13__ (3.31 Tue): Evaluation Metric ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6), Ensenble (Reading: __PML__ Ch. 7)
 * __14__ (4.03 Fri): __HSBC Guest Lecture [4/4]__ Practical issues of applying ML to the real world.
 * __15__ (4.07 Tue): __Midterm Exam__
-* __16__ (4.10 Fri):
+* __16__ (4.10 Fri): Deep Learning
 * __17__ (4.14 Tue): Course Project Presentation (Tentative)
 * __18__ (4.17 Fri): Course Project Presentation
 <!--
