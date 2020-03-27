@@ -95,7 +95,15 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
   * Select the 2 most important features using LogisticRegression with L1 penalty. (Adjust C until you see 2 features)
   * Using the 2 selected features, apply LR / SVM / decision tree. Try your own hyperparameters (C, gamma, tree depth, etc) to maximize the prediction accuracy. (Just try several values. You don't need to show your answer is the maximum.)
   * Visualize your classifiers using the `plot_decision_regions` function from __PML__ Ch. 3
- 
+* ### __Set 3: [PCA/Hyperparameter/CV]__ [Due by 4.4 Sat]
+  * The goal of this HW is to be familiar with PCA (feature extraction), grid search, pipeline, etc. 
+  * For this HW, we continue to use [Polish companies bankruptcy data Data Set](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) from UCI Machine Learning Repository. Download the dataset and put the 4th year file (`4year.arff`) in your `YOUR_GITHUB_ID/PHBS_MLF_2019/HW3/`
+  * Use the same pre-precessing provided in __Set 2__ (loading to dataframe, creating `bankruptcy` column, changing column names, filling-in `na` values, training-vs-test split, standardizatino, etc). See my [github](https://github.com/jaehyukchoi/PHBS_MLF_2019/tree/master/HW1/Classifiers.ipynb)
+  * Extract 3 features using PCA method.
+  * Using the selected features from above, we are going to apply LR / SVM / decision tree. 
+  * Implement the methods using pipeline. (__PML__ p185)
+  * Use grid search for finding optimal hyperparameters. (__PML__ p199). In the search, apply 10-fold cross-validation.
+
 ***
 # Syllabus
 
