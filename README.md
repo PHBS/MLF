@@ -39,8 +39,8 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
 * __14__ (4.03 Fri): __HSBC Guest Lecture [4/4]__ Practical issues of applying ML to the real world.
 * __15__ (4.07 Tue): __Midterm Exam__
 * __16__ (4.10 Fri): Neural Network, Tensorflow, CNN (Reading: Ch. 12-15)
-* __17__ (4.14 Tue): Course Project Presentation (Tentative)
-* __18__ (4.17 Fri): Course Project Presentation
+* __17__ (4.14 Tue): Midterm exam review, More on deep learning, Course Project Presentation (2~3 teams)
+* __18__ (4.17 Fri): Course Project Presentation (the rest)
 <!--
 * __18__ (11.09 Fri) 
 * __17__ (11.06 Tues): Tensorflow / Keras ([XOR](py/TF_Keras_XOR.ipynb), [Iris](py/Keras_Iris.ipynb) based on [here](https://machinelearningmastery.com/multi-class-classification-tutorial-keras-deep-learning-library/))
