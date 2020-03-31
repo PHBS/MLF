@@ -12,7 +12,7 @@
 * Important Dates:
   * `3. 29 (Sun)`: Team formation
   * `4. 05 (Sun)`: Dataset selection
-  * `4. 14/17 (Class)`: Presentation 
+  * `4. 14 (Tues)` (2~3 teams) / `4.17 (Fri)` (the rest): Presentation 
   * `4. 26 (Sun)`: Submission (Github) deadline
 * [Project page](Project.md)
 * Previous Years: [2017](past-years/2017.M3/Project_List.md) | [2018](past-years/2018.M1/Project.md)
