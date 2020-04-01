@@ -2,7 +2,24 @@
 
 
 ## Team List (Presentation Order)
-TBA
+
+Group | Title 
+--- | ---
+[Group 01](https://github.com/npuchenbowen/MLF_Project) |
+[Group 02](https://github.com/398563924/PHBS_MLF_2019) |
+[Group 03](https://github.com/Linyi-Wei/2020WeiLinyi) |
+[Group 04](https://github.com/Johnxinlei/PHBS_MLF_Project) |
+[Group 05](https://github.com/knowsnothing753/PHBS_MLF_2019) |
+[Group 06](https://github.com/eiahb3838ya/PHBS_ML_for_quant_project) |
+[Group 07](https://github.com/dengkeya/PHBS_MLF_2019) |
+[Group 08](https://github.com/Mingkai-Zhuang/PHBS_MLF_2019) |
+[Group 09](https://github.com/ZhangPeidong-Mack/PHBS_MLF_2019) |
+[Group 10](https://github.com/YijiaZhang1996/PHBS_MLF_2019/tree/master/GroupProject) |
+[Group 11](https://github.com/caoxiaolong0521/PHBS_MLF_2019_Project) |
+[Group 12](https://github.com/Parametric3/PHBS_MLF_2019) |
+[Group 13](https://github.com/oyrx/PHBS_MLF_2019_Project) |
+[Group 14](https://github.com/YanrongWu/YanrongWu-PHBS_MLF_2019/tree/master/Final%20Group%20Project) |
+
 
 ## Team Formation (__3. 39 Sun__)
 * Form a group (up to 4 students) and select data set
