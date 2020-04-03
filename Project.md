@@ -50,4 +50,4 @@ Group | Title
   * Make sure the workload within team is balanced. (Add your team members to collaborators, each team members commit codes, etc)
   * There should be no secret component (e.g., stock trading strategy)
   * Creative (out-of-textbook) ideas are recommended for better result or result analysis
-* Deadline for updating report is __4.26 Tues Midnight (11:59 PM)__
+* Deadline for updating report is __4.26 Sunday Midnight (11:59 PM)__
