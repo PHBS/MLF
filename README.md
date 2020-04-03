@@ -11,7 +11,7 @@
 ## Course Project
 * Important Dates:
   * `3. 29 (Sun)`: Team formation
-  * `4. 05 (Sun)`: Dataset selection
+  * `4. 07 (Tues)`: Dataset selection
   * `4. 14 (Tues)` (2~3 teams) / `4.17 (Fri)` (the rest): Presentation 
   * `4. 26 (Sun)`: Submission (Github) deadline
 * [Project page](Project.md)
