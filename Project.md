@@ -6,7 +6,7 @@
 Group | Title 
 --- | ---
 [Group 01](https://github.com/npuchenbowen/MLF_Project) |
-[Group 02](https://github.com/398563924/PHBS_MLF_2019) |
+[Group 02](https://github.com/SnakeWayne/PHBS_MLF_2019) |
 [Group 03](https://github.com/Linyi-Wei/2020WeiLinyi) |
 [Group 04](https://github.com/Johnxinlei/PHBS_MLF_Project) |
 [Group 05](https://github.com/knowsnothing753/PHBS_MLF_2019) |
