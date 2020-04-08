@@ -3,13 +3,13 @@
 
 ## Team List (Presentation Order)
 
-Group | Title 
+Group | Title | 
 --- | ---
 [Group 01](https://github.com/npuchenbowen/MLF_Project) |
-[Group 02](https://github.com/SnakeWayne/PHBS_MLF_2019) |
+[Group 02](https://github.com/SnakeWayne/PHBS_MLF_2019) | (Tuesday) Stock selection with Chinascope sentiment data
 [Group 03](https://github.com/Linyi-Wei/2020WeiLinyi) |
 [Group 04](https://github.com/Johnxinlei/PHBS_MLF_Project) |
-[Group 05](https://github.com/knowsnothing753/PHBS_MLF_2019) |
+[Group 05](https://github.com/knowsnothing753/PHBS_MLF_2019) | (Tuesday) Yield-curve inversin and recession
 [Group 06](https://github.com/eiahb3838ya/PHBS_ML_for_quant_project) |
 [Group 07](https://github.com/dengkeya/PHBS_MLF_2019) |
 [Group 08](https://github.com/Mingkai-Zhuang/PHBS_MLF_2019) |
