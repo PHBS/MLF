@@ -37,7 +37,7 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
 * __12__ (3.27 Fri): __HSBC Guest Lecture [3/4]__ Model sharings.
 * __13__ (3.31 Tue): Evaluation Metric ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6), Ensenble (Reading: __PML__ Ch. 7)
 * __14__ (4.03 Fri): __HSBC Guest Lecture [4/4]__ Practical issues of applying ML to the real world.
-* __15__ (4.07 Tue): __Midterm Exam__
+* __15__ (4.07 Tue): __Midterm Exam__ ([Solution](files/MLF2019_Midterm.pdf))
 * __16__ (4.10 Fri): Neural Network, Deep Learning, CNN (Reading: Ch. 12-15)
 * __17__ (4.14 Tue): Midterm exam review, More on deep learning (TensorFlow), Course Project Presentation (2~3 teams)
 * __18__ (4.17 Fri): Course Project Presentation (the rest)
@@ -65,7 +65,7 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
 
 ## Course Resources
 * Course slides: [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVM/KNN/Tree](files/MLF_SVM_KNN_Tree.pdf) | [SVD/PCA/LDA](files/MLF_SVD_PCA_LDA.pdf) | [Hyperparameter](files/MLF_Bias_Variance_Metric.pdf) | [Neural Network](files/MLF_Neural_Network.pdf) | [Graphical Model](files/MLF_Graphical_Model.pdf)
-* Past Exam: [2017](files/MLF2017_Midterm.pdf) | [2018](files/MLF2018_Midterm.pdf)
+* Past Exam: [2017](files/MLF2017_Midterm.pdf) | [2018](files/MLF2018_Midterm.pdf) | [2019](files/MLF2019_Midterm.pdf)
 * [Exams from Tom Michell's ML course](http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml) (Carnegie Mellon University)
 
 ## Homeworks:
