@@ -6,11 +6,11 @@
 Group | Title | 
 --- | ---
 [Group 01](https://github.com/npuchenbowen/MLF_Project) | Detection of fraudulent credit card transactions
-[Group 02](https://github.com/SnakeWayne/PHBS_MLF_2019) | (Tuesday) Stock selection with Chinascope sentiment data
+[Group 02](https://github.com/SnakeWayne/PHBS_MLF_2019) | (__Tuesday__) Stock selection with Chinascope sentiment data
 [Group 03](https://github.com/Linyi-Wei/2020WeiLinyi) | Detecting fake job posting
 [Group 04](https://github.com/Johnxinlei/PHBS_MLF_Project) | Predicting Bank Term Deposit Subscription
-[Group 05](https://github.com/knowsnothing753/PHBS_MLF_2019) | (Tuesday) Yield-curve inversin and recession
-[Group 06](https://github.com/eiahb3838ya/PHBS_ML_for_quant_project) | (Tuesday) Short-term market timing strategy based on boosting ML algos
+[Group 05](https://github.com/knowsnothing753/PHBS_MLF_2019) | (__Tuesday__) Yield-curve inversin and recession
+[Group 06](https://github.com/eiahb3838ya/PHBS_ML_for_quant_project) | (__Tuesday__) Short-term market timing strategy based on boosting ML algos
 [Group 07](https://github.com/dengkeya/PHBS_MLF_2019) | Predictig credit card users' repayment behavior
 [Group 08](https://github.com/Mingkai-Zhuang/PHBS_MLF_2019) | Predict Stock Returns
 [Group 09](https://github.com/ZhangPeidong-Mack/PHBS_MLF_2019) | Predicting trends of stocks and their future prices
