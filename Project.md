@@ -7,7 +7,7 @@ Group | Title |
 --- | ---
 [Group 06](https://github.com/eiahb3838ya/PHBS_ML_for_quant_project) | (__Tuesday__) Short-term market timing strategy based on boosting ML algos
 [Group 02](https://github.com/SnakeWayne/PHBS_MLF_2019) | (__Tuesday__) Stock selection with Chinascope sentiment data
-[Group 11](https://github.com/caoxiaolong0521/PHBS_MLF_2019_Project) | (__Tuesday__)
+[Group 11](https://github.com/caoxiaolong0521/PHBS_MLF_2019_Project) | (__Tuesday__) Detection of the Malicious Website's URL
 [Group 05](https://github.com/knowsnothing753/PHBS_MLF_2019) | (__Tuesday__) Yield-curve inversin and recession
 [Group 07](https://github.com/dengkeya/PHBS_MLF_2019) | (__Tuesday__) Predictig credit card users' repayment behavior
 [Group 04](https://github.com/Johnxinlei/PHBS_MLF_Project) | Predicting Bank Term Deposit Subscription
