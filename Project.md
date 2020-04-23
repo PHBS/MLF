@@ -12,7 +12,7 @@ Group | Date | Title
 [05](https://github.com/knowsnothing753/PHBS_MLF_2019/blob/master/README.md) | __Tuesday__ | Yield-curve inversin and recession
 [06](https://github.com/eiahb3838ya/PHBS_ML_for_quant_project/blob/master/README.md) | __Tuesday__ | Short-term market timing strategy based on boosting ML algos
 [07](https://github.com/dengkeya/PHBS_MLF_2019) | __Tuesday__ | Predictig credit card users' repayment behavior
-[08](https://github.com/Mingkai-Zhuang/PHBS_MLF_2019) | __Friday__ | Predict Stock Returns
+[08](https://github.com/Mingkai-Zhuang/PHBS_MLF_2019/tree/master/Course%20Project) | __Friday__ | Predict Stock Returns
 [09](https://github.com/ZhangPeidong-Mack/PHBS_MLF_2019) | __Friday__ | Predicting trends of stocks and their future prices
 [10](https://github.com/YijiaZhang1996/PHBS_MLF_2019/tree/master/GroupProject) | __Friday__ | O2O Coupon Consumption Prediction Based on Past Consumer Behavior
 [11](https://github.com/caoxiaolong0521/PHBS_MLF_2019_Project/blob/master/README.md) | __Tuesday__ | Detection of Malicious Website's URL
