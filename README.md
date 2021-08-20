@@ -1,4 +1,4 @@
-# Machine Learning for Finance (FN 570) 2019-20 Module 3 (Spring 2020)
+# Machine Learning for Finance (FN 570) 2021-22 Module 1 (Fall 2021)
 
 ## Announcements
 * Email is the preferred method of communication. Class mailing list will be created as PHBS.MLF@allmail.net. But, the announcements will be made in DingTalk group chat.
@@ -9,13 +9,8 @@
 -->
 
 ## Course Project
-* Important Dates:
-  * `3. 29 (Sun)`: Team formation
-  * `4. 07 (Tues)`: Dataset selection
-  * `4. 14 (Tues)` (2~3 teams) / `4.17 (Fri)` (the rest): Presentation 
-  * `4. 26 (Sun)`: Submission (Github) deadline
 * [Project page](Project.md)
-* Previous Years: [2017](past-years/2017.M3/Project_List.md) | [2018](past-years/2018.M1/Project.md)
+* Previous Years: [2017](past-years/2017.M3/Project_List.md) | [2018](past-years/2018.M1/Project.md) | [2019](past-years/2019.M3/Project.md)
 <!--
 * ### Data Proposal [__10.23 Tues__ class]
 * ### Presentation [__11.09 Fri__ class]
@@ -69,7 +64,7 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
 * [Exams from Tom Michell's ML course](http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml) (Carnegie Mellon University)
 
 ## Homeworks:
-* ### __Set 0: [Required Software]__ [Due by 2.22 Sat]
+* ### __Set 0: [Required Software]__ [Due by TBA]
   * Register on [Github.com](https://github.com/) and let TA know your ID (by DingTalk). Make sure to user your __full real name__ in your profile. Accept invitation to the [PHBS organization](https://github.com/orgs/PHBS/people) from TA. 
     * Create a designated repository `GITHUB_ID/PHBS_MLF_2019` for your HW and project. Tick `Initialize this repository with a README` and select `python` under `.gitignore`
     * Fork [PML repository](https://github.com/PHBS/python-machine-learning-book-2nd-edition) to your repository.
@@ -77,7 +72,7 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
   * Install [Anaconda](https://www.anaconda.com/download/) Python distribution (__3.X version__, not 2.X version). Anaconda distribution is core Python + useful scientific computation libraries (e.g., numpy, scipy, pandas) + package management system (pip or conda)
   * Install [PyCharm](https://www.jetbrains.com/pycharm/) Community version. (Or Professional version after applying for [free student license](https://www.jetbrains.com/student/))
   * Save the screenshot of (1) Github Desktop (showing 2 repositories) (2) Jupyter Notebook (Anaconda) (3) PyCharm (See my [example](https://github.com/jaehyukchoi/PHBS_MLF_2019/tree/master/HW0)) and make sure to press __`Push Origin`__ to sync with the online repository in github.com.
-* ### __Set 1: [Playing with Pandas dataframe]__ [Due by 3.11 Wed]
+* ### __Set 1: [Playing with Pandas dataframe]__ [Due by TBA]
   * The goal of this HW is to be familiar with `pandas` package and dataframe. Due to limited time, I cannot cover pandas in class. You need to teach yourself. Remenber that there's many answers to do the task I am asking below. Use your own way.
   * For this HW, we will use [Polish companies bankruptcy data Data Set](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) from UCI Machine Learning Repository. Download the dataset and put the 4th year file (`4year.arff`) in your `YOUR_GITHUB_ID/PHBS_MLF_2019/HW1/`
   * I did a basic process of the data (loading to dataframe and creating `bankruptcy` column). See my [github](https://github.com/jaehyukchoi/PHBS_MLF_2019/tree/master/HW1/)
@@ -88,14 +83,14 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
   * Find the mean and std of the 4 features among all, bankrupt and still-operating companies (3 groups).
   * How many companies satisfy the condition, `X1 < mean(X1) - stdev(X1)` __AND__ `X10 < mean(X10) - std(X10)`?
   * What is the ratio of the bankrupted companies among the sub-groups above?
-* ### __Set 2: [Classifiers]__ [Due by 3.19 Thurs]
+* ### __Set 2: [Classifiers]__ [Due by TBA]
   * The goal of this HW is to be familiar with the basic classifiers __PML__ Ch 3. 
   * For this HW, we continue to use [Polish companies bankruptcy data Data Set](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) from UCI Machine Learning Repository. Download the dataset and put the 4th year file (`4year.arff`) in your `YOUR_GITHUB_ID/PHBS_MLF_2019/HW2/`
   * I did a basic process of the data (loading to dataframe, creating `bankruptcy` column, changing column names, filling-in `na` values, training-vs-test split, standardizatino, etc). See my [github](https://github.com/jaehyukchoi/PHBS_MLF_2019/tree/master/HW1/Classifiers.ipynb)
   * Select the 2 most important features using LogisticRegression with L1 penalty. (Adjust C until you see 2 features)
   * Using the 2 selected features, apply LR / SVM / decision tree. Try your own hyperparameters (C, gamma, tree depth, etc) to maximize the prediction accuracy. (Just try several values. You don't need to show your answer is the maximum.)
   * Visualize your classifiers using the `plot_decision_regions` function from __PML__ Ch. 3
-* ### __Set 3: [PCA/Hyperparameter/CV]__ [Due by 4.4 Sat]
+* ### __Set 3: [PCA/Hyperparameter/CV]__ [Due TBA]
   * The goal of this HW is to be familiar with PCA (feature extraction), grid search, pipeline, etc. 
   * For this HW, we continue to use [Polish companies bankruptcy data Data Set](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) from UCI Machine Learning Repository. Download the dataset and put the 4th year file (`4year.arff`) in your `YOUR_GITHUB_ID/PHBS_MLF_2019/HW3/`
   * Use the same pre-precessing provided in __Set 2__ (loading to dataframe, creating `bankruptcy` column, changing column names, filling-in `na` values, training-vs-test split, standardizatino, etc). See my [github](https://github.com/jaehyukchoi/PHBS_MLF_2019/tree/master/HW1/Classifiers.ipynb)
@@ -108,8 +103,8 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
 # Syllabus
 
 ## Classes:
-* Lectures: Tuesday & Friday 1:30 – 3:20 PM
-* Venue: Online/DingTalk ~~PHBS Building, Room 229~~
+* Lectures: Monday & Thursday 1:30 – 3:20 PM
+* Venue: PHBS Building, Room XXX
 
 ## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en)
 * Office: PHBS Building, Room 755
@@ -117,20 +112,20 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
 * Email: jaehyuk@phbs.pku.edu.cn
 * Office Hour: Online/DingTalk (TBA)
 
-## Teaching Assistance: Shiqi Zhang (张诗琪)
-* Email: 1701213153@sz.pku.edu.cn
-* TA Office Hour: Online/DingTalk ~~(Room 213/214)~~
+## Teaching Assistance: TBA
+* Email: xxxxx@pku.edu.cn
+* TA Office Hour: TBA (Room 213/214)
 
 ## Course overview
 With the advent of computation power and big data, machine learning (ML) recently became one of the most spotlighted research field in industry and academia. This course provides a broad introduction to ML in theoretical and practical perspectives. Through this course, students will learn the intuition and implementation behind the popular ML methods and gain hands-on experience of using ML software packages such as SK-learn and Tensorflow. This course will also explore the possibility of applying ML to finance and business. Each student is required to complete a final course project. 
-__This year, the compliance analytics team in HSBC bank will give 4 guest lectures thrroughout the course to demonstrate how ML is developed and shared in banking industry. In the guest lectures, students will also learn how to use cloud computing (Google Cloud Platform/Ali Cloud)__
+__This year, the compliance analytics team in HSBC bank will give 2-3 guest lectures throughout the course to demonstrate how ML is developed and shared in banking industry.
 
 ## Prerequisites
 This course assumes prior knowkedge in probability/statistics and experience in Python. This course is ideally recommended for those who have taken introductory ML/AI courses from undergraduate program.
 
 ##  Textbooks and Reading Materials
 ### Primary textbook
-* __PML__ (primary textbook): [Python Machine Learning](https://github.com/PHBS/python-machine-learning-book-2nd-edition) by Sebastian Raschka
+* __PML__ (primary textbook): [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition) by Sebastian Raschka
 ### ML
 * __ISLR__: [An Introduction to Statistical Learning (with Applications in R)](http://faculty.marshall.usc.edu/gareth-james/ISL/) by James, Witten, Hastie, and Tibshirani
 * __Bishop__: Pattern Recognition and Machine Learning by Bishop (Microsoft)
@@ -149,7 +144,7 @@ This course assumes prior knowkedge in probability/statistics and experience in 
 
 ## Assessment / Grading Details
 * Attendance 20%, Mid-term exam 30%, Assignments 20%, Course Project 30%
-* Attendance: TBA ~~Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave~~
+* Attendance: TBA Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave.
 * __Mid-term exam__: __4.7 Tues__. In-class open-book without computer/phone/calculator
 * __Course project__: Data Proposal and Presentation. Group of up to ?? people.
 * __Attendance__: checked randomly. The score is calculated as 20 – 2`x`(#of absence). Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
