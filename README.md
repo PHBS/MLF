@@ -17,25 +17,27 @@
 -->
 
 ## Lectures:
-* __01__ (2.18 Tue): Course overview ([Syllabus](#syllabus)), Python, Github, Etc.
-* __02__ (2.21 Fri): __HSBC Guest Lecture [1/4]__ Model management cycle in banking industry, Tool setup (GCP/Ali Cloud).
-* __03__ (2.25 Tue): Brief Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb) | [Numpy](py/PythonCrashCourse_Numpy.ipynb), Notebook Shorcut Keys) | 
-Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regression ([Slides](files/MLF_Regression.pdf))
-* __04__ (2.28 Fri): Regression weight update ([Slides](files/MLF_Regression.pdf)) __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), 
-* __05__ (3.03 Tue): Logistic Regression ([Slides](files/MLF_Regression.pdf), Reading: __PML__ Ch. 3) 
-* __06__ (3.06 Fri): LR (continued) | SVM ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3) 
-* __07__ (3.10 Tue): KNN and Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3) 
-* __08__ (3.13 Fri): Data Preprocessing (Rading: __PML__ Ch. 4), SVD/PCA ([Slides](MLF_SVD_PCA_LDA.pdf), Reading: __PML__ Ch. 5)
-* __09__ (3.17 Tue): LDA ([Slides](MLF_SVD_PCA_LDA.pdf), Reading: __PML__ Ch. 5), Hyperparameters ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6)
-* __10__ (3.20 Fri): __HSBC Guest Lecture [2/4]__ Data mining, profiling, visualization, and conclusion. 
-* __11__ (3.24 Tue): Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6)
-* __12__ (3.27 Fri): __HSBC Guest Lecture [3/4]__ Model sharings.
-* __13__ (3.31 Tue): Evaluation Metric ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6), Ensenble (Reading: __PML__ Ch. 7)
-* __14__ (4.03 Fri): __HSBC Guest Lecture [4/4]__ Practical issues of applying ML to the real world.
-* __15__ (4.07 Tue): __Midterm Exam__ ([Solution](files/MLF2019_Midterm.pdf))
-* __16__ (4.10 Fri): Neural Network, Deep Learning, CNN (Reading: Ch. 12-15)
-* __17__ (4.14 Tue): Midterm exam review, More on deep learning (TensorFlow), Course Project Presentation (2~3 teams)
-* __18__ (4.17 Fri): Course Project Presentation (the rest)
+No | Date | Contents
+--- | :---: | ---
+__01__ | 9.06 Tue | Course overview ([Syllabus](#syllabus)), Python, Github, Etc.
+__02__ | 9.09 Fri | Brief Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb) \| [Numpy](py/PythonCrashCourse_Numpy.ipynb), Notebook Shorcut Keys) \| 
+Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) \| Notations, Regression ([Slides](files/MLF_Regression.pdf))
+__03__ | 9.13 Tue | TBA
+__04__ | 9.16 Fri | Regression weight update ([Slides](files/MLF_Regression.pdf)) __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), 
+__05__ | 9.20 Tue | Logistic Regression ([Slides](files/MLF_Regression.pdf), Reading: __PML__ Ch. 3) 
+__06__ | 9.23 Fri | LR (continued) \| SVM ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3) 
+__07__ | 9.27 Tue | KNN and Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3) 
+__08__ | 10.11 Fri | Data Preprocessing (Rading: __PML__ Ch. 4), SVD/PCA ([Slides](MLF_SVD_PCA_LDA.pdf), Reading: __PML__ Ch. 5)
+__09__ | 10.13 Tue | LDA ([Slides](MLF_SVD_PCA_LDA.pdf), Reading: __PML__ Ch. 5), Hyperparameters ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6)
+__10__ | 10.14 Fri | __HSBC Guest Lecture [2/4]__ Data mining, profiling, visualization, and conclusion. 
+__11__  | 10.18 Tue | Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6)
+__12__ | 10.21 Fri | __HSBC Guest Lecture [3/4]__ Model sharings.
+__13__ | 10.25 Tue | Evaluation Metric ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6), Ensenble (Reading: __PML__ Ch. 7)
+__14__ | 10.28 Fri | __HSBC Guest Lecture [4/4]__ Practical issues of applying ML to the real world.
+__15__ | 11.01 Tue | __Midterm Exam__ ([Solution](files/MLF2019_Midterm.pdf))
+__16__ | 11.04 Fri | Neural Network, Deep Learning, CNN (Reading: Ch. 12-15)
+__17__ | 11.08 Tue | Midterm exam review, More on deep learning (TensorFlow), Course Project Presentation (2~3 teams)
+__18__ | 11.11 Fri | Course Project Presentation (the rest)
 <!--
 * __18__ (11.09 Fri) 
 * __17__ (11.06 Tues): Tensorflow / Keras ([XOR](py/TF_Keras_XOR.ipynb), [Iris](py/Keras_Iris.ipynb) based on [here](https://machinelearningmastery.com/multi-class-classification-tutorial-keras-deep-learning-library/))
@@ -110,11 +112,11 @@ Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) | Notations, Regre
 * Office: PHBS Building, Room 755
 * Phone: 86-755-2603-0568
 * Email: jaehyuk@phbs.pku.edu.cn
-* Office Hour: Online/DingTalk (TBA)
+* Office Hour: TBA
 
 ## Teaching Assistance: TBA
 * Email: xxxxx@pku.edu.cn
-* TA Office Hour: TBA (Room 213/214)
+* TA Office Hour (Room 213/214): TBA
 
 ## Course overview
 With the advent of computation power and big data, machine learning (ML) recently became one of the most spotlighted research field in industry and academia. This course provides a broad introduction to ML in theoretical and practical perspectives. Through this course, students will learn the intuition and implementation behind the popular ML methods and gain hands-on experience of using ML software packages such as SK-learn and Tensorflow. This course will also explore the possibility of applying ML to finance and business. Each student is required to complete a final course project. 
@@ -125,7 +127,7 @@ This course assumes prior knowkedge in probability/statistics and experience in 
 
 ##  Textbooks and Reading Materials
 ### Primary textbook
-* __PML__ (primary textbook): [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition) by Sebastian Raschka
+* __PML__ (primary textbook): [Python Machine Learning (3rd Ed)](https://github.com/rasbt/python-machine-learning-book-3rd-edition) by Sebastian Raschka
 ### ML
 * __ISLR__: [An Introduction to Statistical Learning (with Applications in R)](http://faculty.marshall.usc.edu/gareth-james/ISL/) by James, Witten, Hastie, and Tibshirani
 * __Bishop__: Pattern Recognition and Machine Learning by Bishop (Microsoft)
@@ -139,7 +141,7 @@ This course assumes prior knowkedge in probability/statistics and experience in 
 -->
 
 ## Useful Github Repositories
-* __PML__: [PHBS/python-machine-learning-book-2nd-edition](https://github.com/PHBS/python-machine-learning-book-2nd-edition) (forked)
+* __PML__: [rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
 * __ISLR-Python__: [PHBS/ISLR-python](https://github.com/PHBS/ISLR-python) (forked) __ISRL__ implemented in Python
 
 ## Assessment / Grading Details
