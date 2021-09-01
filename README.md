@@ -19,24 +19,24 @@
 ## Lectures:
 No | Date | Contents
 --- | :---: | ---
-__01__ | 9.06 Tue | Course overview ([Syllabus](#syllabus)), Python, Github, Etc.
-__02__ | 9.09 Fri | Brief Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb) \| [Numpy](py/PythonCrashCourse_Numpy.ipynb), Notebook Shorcut Keys) \| Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) \| Notations, Regression ([Slides](files/MLF_Regression.pdf))
-__03__ | 9.13 Tue | TBA
-__04__ | 9.16 Fri | Regression weight update ([Slides](files/MLF_Regression.pdf)) __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), 
-__05__ | 9.20 Tue | Logistic Regression ([Slides](files/MLF_Regression.pdf), Reading: __PML__ Ch. 3) 
-__06__ | 9.23 Fri | LR (continued) \| SVM ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3) 
-__07__ | 9.27 Tue | KNN and Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3) 
-__08__ | 10.11 Fri | Data Preprocessing (Rading: __PML__ Ch. 4), SVD/PCA ([Slides](MLF_SVD_PCA_LDA.pdf), Reading: __PML__ Ch. 5)
-__09__ | 10.13 Tue | LDA ([Slides](MLF_SVD_PCA_LDA.pdf), Reading: __PML__ Ch. 5), Hyperparameters ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6)
-__10__ | 10.14 Fri | __HSBC Guest Lecture [2/4]__ Data mining, profiling, visualization, and conclusion. 
-__11__  | 10.18 Tue | Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6)
-__12__ | 10.21 Fri | __HSBC Guest Lecture [3/4]__ Model sharings.
-__13__ | 10.25 Tue | Evaluation Metric ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6), Ensenble (Reading: __PML__ Ch. 7)
-__14__ | 10.28 Fri | __HSBC Guest Lecture [4/4]__ Practical issues of applying ML to the real world.
-__15__ | 11.01 Tue | __Midterm Exam__ ([Solution](files/MLF2019_Midterm.pdf))
-__16__ | 11.04 Fri | Neural Network, Deep Learning, CNN (Reading: Ch. 12-15)
-__17__ | 11.08 Tue | Midterm exam review, More on deep learning (TensorFlow), Course Project Presentation (2~3 teams)
-__18__ | 11.11 Fri | Course Project Presentation (the rest)
+__01__ | 9.06 Mon | Course overview ([Syllabus](#syllabus)), Python, Github, Etc.
+__02__ | 9.09 Thur | Brief Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb) \| [Numpy](py/PythonCrashCourse_Numpy.ipynb), Notebook Shorcut Keys) \| Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) \| Notations, Regression ([Slides](files/MLF_Regression.pdf))
+__03__ | 9.13 Mon | TBA
+__04__ | 9.16 Thur | Regression weight update ([Slides](files/MLF_Regression.pdf)) __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD), 
+__05__ | 9.20 Mon | Logistic Regression ([Slides](files/MLF_Regression.pdf), Reading: __PML__ Ch. 3) 
+__06__ | 9.23 Thur | LR (continued) \| SVM ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3) 
+__07__ | 9.27 Mon | KNN and Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3) 
+__08__ | 10.11 Mon | Data Preprocessing (Rading: __PML__ Ch. 4), SVD/PCA ([Slides](MLF_SVD_PCA_LDA.pdf), Reading: __PML__ Ch. 5)
+__09__ | 10.13 Wed | LDA ([Slides](MLF_SVD_PCA_LDA.pdf), Reading: __PML__ Ch. 5), Hyperparameters ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6)
+__10__ | 10.14 Thur | __HSBC Guest Lecture [2/4]__ Data mining, profiling, visualization, and conclusion. 
+__11__  | 10.18 Mon | Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6)
+__12__ | 10.21 Thur | __HSBC Guest Lecture [3/4]__ Model sharings.
+__13__ | 10.25 Mon | Evaluation Metric ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6), Ensenble (Reading: __PML__ Ch. 7)
+__14__ | 10.28 Thur | __HSBC Guest Lecture [4/4]__ Practical issues of applying ML to the real world.
+__15__ | 11.01 Mon | __Midterm Exam__ ([Solution](files/MLF2019_Midterm.pdf))
+__16__ | 11.04 Thur | Neural Network, Deep Learning, CNN (Reading: Ch. 12-15)
+__17__ | 11.08 Mon | Midterm exam review, More on deep learning (TensorFlow), Course Project Presentation (2~3 teams)
+__18__ | 11.11 Thur | Course Project Presentation (the rest)
 
 <!--
 * __18__ (11.09 Fri) 
