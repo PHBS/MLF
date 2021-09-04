@@ -106,7 +106,7 @@ __18__ | 11.11 Thur | Course Project Presentation
 
 ## Classes:
 * Lectures: Monday & Thursday 1:30 – 3:20 PM
-* Venue: PHBS Building, Room XXX
+* Venue: PHBS Building, Room 231
 
 ## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en)
 * Office: PHBS Building, Room 755
@@ -114,9 +114,9 @@ __18__ | 11.11 Thur | Course Project Presentation
 * Email: jaehyuk@phbs.pku.edu.cn
 * Office Hour: TBA
 
-## Teaching Assistance: TBA
-* Email: xxxxx@pku.edu.cn
-* TA Office Hour (Room 213/214): TBA
+## Teaching Assistance: 商陈诚 (Shang Chencheng)
+* Email: pkuscc@stu.pku.edu.cn
+* TA Office Hour (Room 213/214): Monday & Thursday 7-9 PM
 
 ## Course overview
 With the advent of computation power and big data, machine learning (ML) recently became one of the most spotlighted research field in industry and academia. This course provides a broad introduction to ML in theoretical and practical perspectives. Through this course, students will learn the intuition and implementation behind the popular ML methods and gain hands-on experience of using ML software packages such as SK-learn and Tensorflow. This course will also explore the possibility of applying ML to finance and business. Each student is required to complete a final course project. 
