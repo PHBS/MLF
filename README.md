@@ -11,8 +11,7 @@
 ## Course Resources
 * Course slides: [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVM/KNN/Tree](files/MLF_SVM_KNN_Tree.pdf) | [SVD/PCA/LDA](files/MLF_SVD_PCA_LDA.pdf) | [Hyperparameter](files/MLF_Bias_Variance_Metric.pdf) | [Neural Network](files/MLF_Neural_Network.pdf) | [Graphical Model](files/MLF_Graphical_Model.pdf)
 * Project: [Current](Project.md) | [2017](past-years/2017.M3/Project_List.md) | [2018](past-years/2018.M1/Project.md) | [2019](past-years/2019.M3/Project.md)
-* Past years' exam: [2017](files/MLF2017_Midterm.pdf) | [2018](files/MLF2018_Midterm.pdf) | [2019](files/MLF2019_Midterm.pdf)
-* [Exams from Tom Michell's ML course](http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml) (Carnegie Mellon University)
+* Past years' exam: [2017](files/MLF2017_Midterm.pdf) | [2018](files/MLF2018_Midterm.pdf) | [2019](files/MLF2019_Midterm.pdf) | [Exams from Tom Michell's ML course](http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml) (Carnegie Mellon University)
  
 <!--
 * ### Data Proposal [__10.23 Tues__ class]
@@ -118,7 +117,7 @@ __18__ | 11.11 Thur | Course Project Presentation
 
 ## Course overview
 With the advent of computation power and big data, machine learning (ML) recently became one of the most spotlighted research field in industry and academia. This course provides a broad introduction to ML in theoretical and practical perspectives. Through this course, students will learn the intuition and implementation behind the popular ML methods and gain hands-on experience of using ML software packages such as SK-learn and Tensorflow. This course will also explore the possibility of applying ML to finance and business. Each student is required to complete a final course project. 
-__This year, the compliance analytics team in HSBC bank will give 2-3 guest lectures throughout the course to demonstrate how ML is developed and shared in banking industry.
+__This year, the compliance analytics team in HSBC bank (Gunagzhou) will give 2 guest lectures to demonstrate how ML is developed and shared in banking industry.__
 
 ## Prerequisites
 This course assumes prior knowkedge in probability/statistics and experience in Python. This course is ideally recommended for those who have taken introductory ML/AI courses from undergraduate program.
