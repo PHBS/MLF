@@ -10,7 +10,7 @@
 
 ## Course Resources
 * Course slides: [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVM/KNN/Tree](files/MLF_SVM_KNN_Tree.pdf) | [SVD/PCA/LDA](files/MLF_SVD_PCA_LDA.pdf) | [Hyperparameter](files/MLF_Bias_Variance_Metric.pdf) | [Neural Network](files/MLF_Neural_Network.pdf) | [Graphical Model](files/MLF_Graphical_Model.pdf)
-* Project: [Current](Project.md) | [2017](past-years/2017.M3/Project_List.md) | [2018](past-years/2018.M1/Project.md) | [2019](past-years/2019.M3/Project.md)
+* Project: [Current](Project.md) | [2016](past-years/2016.M3/Project_List.md) | [2017](past-years/2017.M3/Project_List.md) | [2018](past-years/2018.M1/Project.md) | [2019](past-years/2019.M3/Project.md)
 * Past years' exam: [2017](files/MLF2017_Midterm.pdf) | [2018](files/MLF2018_Midterm.pdf) | [2019](files/MLF2019_Midterm.pdf) | [Exams from Tom Michell's ML course](http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml) (Carnegie Mellon University)
  
 <!--
