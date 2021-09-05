@@ -1,4 +1,4 @@
-# Course Project
+# Course Project (2018-19 M1)
 
 ## Team List (Presentation Order)
 * [OscarHemmingsen](https://github.com/OscarHemmingsen/PHBS_MLF_2018)
