@@ -33,9 +33,9 @@ __09__ | 10.13 Wed | Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Va
 __10__ | 10.14 Thur | Evaluation Metric ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6), Ensenble (Reading: __PML__ Ch. 7) 
 __11__  | 10.18 Mon | Neural Network, Deep Learning, CNN (Reading: Ch. 12-15) 
 __12__ | 10.21 Thur | Practical issues of applying ML to the real world.
-__13__ | 10.25 Mon | ML in Finance
-__14__ | 10.28 Thur | ML in Finance
-__15__ | 11.01 Mon | __Midterm Exam__ ([Solution](files/MLF2019_Midterm.pdf))
+__13__ | 10.25 Mon | Topics in ML in Finance
+__14__ | 10.28 Thur | Topics in ML in Finance
+__15__ | 11.01 Mon | __Midterm Exam__
 __16__ | 11.04 Thur | __HSBC Guest Lecture [1/2]__ \| Midterm exam review  
 __17__ | 11.08 Mon | __HSBC Guest Lecture [2/2]__
 __18__ | 11.11 Thur | Course Project Presentation
