@@ -8,9 +8,12 @@
 * Python Crash Course will be on 9.12 (Wed) **1:30 PM**. Class mailing list created.
 -->
 
-## Course Project
-* [Project page](Project.md)
-* Previous Years: [2017](past-years/2017.M3/Project_List.md) | [2018](past-years/2018.M1/Project.md) | [2019](past-years/2019.M3/Project.md)
+## Course Resources
+* Course slides: [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVM/KNN/Tree](files/MLF_SVM_KNN_Tree.pdf) | [SVD/PCA/LDA](files/MLF_SVD_PCA_LDA.pdf) | [Hyperparameter](files/MLF_Bias_Variance_Metric.pdf) | [Neural Network](files/MLF_Neural_Network.pdf) | [Graphical Model](files/MLF_Graphical_Model.pdf)
+* Project: [Current](Project.md) | [2017](past-years/2017.M3/Project_List.md) | [2018](past-years/2018.M1/Project.md) | [2019](past-years/2019.M3/Project.md)
+* Past years' exam: [2017](files/MLF2017_Midterm.pdf) | [2018](files/MLF2018_Midterm.pdf) | [2019](files/MLF2019_Midterm.pdf)
+* [Exams from Tom Michell's ML course](http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml) (Carnegie Mellon University)
+ 
 <!--
 * ### Data Proposal [__10.23 Tues__ class]
 * ### Presentation [__11.09 Fri__ class]
@@ -59,11 +62,6 @@ __18__ | 11.11 Thur | Course Project Presentation
 * __02__ (09.07 Fri): 
 * __01__ (09.04 Tues): 
 -->
-
-## Course Resources
-* Course slides: [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVM/KNN/Tree](files/MLF_SVM_KNN_Tree.pdf) | [SVD/PCA/LDA](files/MLF_SVD_PCA_LDA.pdf) | [Hyperparameter](files/MLF_Bias_Variance_Metric.pdf) | [Neural Network](files/MLF_Neural_Network.pdf) | [Graphical Model](files/MLF_Graphical_Model.pdf)
-* Past Exam: [2017](files/MLF2017_Midterm.pdf) | [2018](files/MLF2018_Midterm.pdf) | [2019](files/MLF2019_Midterm.pdf)
-* [Exams from Tom Michell's ML course](http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml) (Carnegie Mellon University)
 
 ## Homeworks:
 * ### __Set 0: [Required Software]__ [Due by TBA]
