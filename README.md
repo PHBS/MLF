@@ -66,7 +66,7 @@ __18__ | 11.11 Thur | Course Project Presentation
 * ### __Set 0: [Required Software]__ [Due by TBA]
   * Register on [Github.com](https://github.com/) and let TA know your ID (by DingTalk). Make sure to user your __full real name__ in your profile. Accept invitation to the [PHBS organization](https://github.com/orgs/PHBS/people) from TA. 
     * Create a designated repository `GITHUB_ID/PHBS_MLF_2019` for your HW and project. Tick `Initialize this repository with a README` and select `python` under `.gitignore`
-    * Fork [PML repository](https://github.com/PHBS/python-machine-learning-book-2nd-edition) to your repository.
+    * Fork [PML repository](https://github.com/PHBS/python-machine-learning-book-3rd-edition) to your repository.
   * Install [Github Desktop](https://desktop.github.com/) (available on [CMS](http://cms.phbs.pku.edu.cn/claroline/course/index.php?cid=FN570)). Then __clone__ the two repositories to your local storage.
   * Install [Anaconda](https://www.anaconda.com/download/) Python distribution (__3.X version__, not 2.X version). Anaconda distribution is core Python + useful scientific computation libraries (e.g., numpy, scipy, pandas) + package management system (pip or conda)
   * Install [PyCharm](https://www.jetbrains.com/pycharm/) Community version. (Or Professional version after applying for [free student license](https://www.jetbrains.com/student/))
@@ -124,22 +124,19 @@ This course assumes prior knowkedge in probability/statistics and experience in 
 
 ##  Textbooks and Reading Materials
 ### Primary textbook
-* __PML__ (primary textbook): [Python Machine Learning (3rd Ed)](https://github.com/rasbt/python-machine-learning-book-3rd-edition) by Sebastian Raschka
-### ML
+* __PML__ (primary textbook): Python Machine Learning 3rd Ed. by Sebastian Raschka. 
+  * [Github](https://github.com/PHBS/python-machine-learning-book-3rd-edition) (PHBS fork)
+### Other books and online courses
 * __ISLR__: [An Introduction to Statistical Learning (with Applications in R)](http://faculty.marshall.usc.edu/gareth-james/ISL/) by James, Witten, Hastie, and Tibshirani
+  * Python Implementation: [PHBS/ISLR-python](https://github.com/PHBS/ISLR-python) (PHBS fork)  
 * __Bishop__: Pattern Recognition and Machine Learning by Bishop (Microsoft)
 * __ESL__:  [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Hastie, Tibshirani, and Friedman
 * __CML__: [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng
 * __DL__: [Deep Learning](http://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville
-### ML in Finance
 * __AFML__: [Advances in financial machine learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by López de Prado
 <!--
 * __JPM-AI__: [Big Data and AI Strategies](http://valuesimplex.com/articles/JPM.pdf) by J.P. Morgan
 -->
-
-## Useful Github Repositories
-* __PML__: [rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
-* __ISLR-Python__: [PHBS/ISLR-python](https://github.com/PHBS/ISLR-python) (forked) __ISRL__ implemented in Python
 
 ## Assessment / Grading Details
 * Attendance 20%, Mid-term exam 30%, Assignments 20%, Course Project 30%
