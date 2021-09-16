@@ -22,9 +22,9 @@
 No | Date | Contents
 --- | :---: | ---
 __01__ | 9.06 Mon | Course overview ([Syllabus](#syllabus)) \| Required software (Python, Github, PyCharm) \| Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb), [Numpy](py/PythonCrashCourse_Numpy.ipynb), Notebook Shorcut Keys)
-__02__ | 9.09 Thur | Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) \|  Notations, Regression, Weight update ([Slides](files/MLF_Regression.pdf))
-__03__ | 9.13 Mon | __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent, SGD) 
-__04__ | 9.16 Thur | __PML__ Ch. 3 Logistic Regression (LR) ([Slides](files/MLF_Regression.pdf)) and Support Vector Machine (SVM) ([Slides](files/MLF_SVM_KNN_Tree.pdf)
+__02__ | 9.09 Thur | Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) \| Notations, Regression, Weight update ([Slides](files/MLF_Regression.pdf))
+__03__ | 9.13 Mon | __PML__ Ch. 2. Perceptron, Adaline, Gradient descent, Stochastic Gradient Descent
+__04__ | 9.16 Thur | __PML__ Ch. 3. Logistic Regression (LR) ([Slides](files/MLF_Regression.pdf)) and Support Vector Machine (SVM) ([Slides](files/MLF_SVM_KNN_Tree.pdf))
 __05__ | 9.20 Mon | Pandas crash course ([Datacamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet), [CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf))
 __06__ | 9.23 Thur | KNN and Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3)  
 __07__ | 9.27 Mon | Data Preprocessing (Rading: __PML__ Ch. 4), SVD/PCA ([Slides](MLF_SVD_PCA_LDA.pdf), Reading: __PML__ Ch. 5)
