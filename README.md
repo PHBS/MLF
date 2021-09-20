@@ -78,7 +78,7 @@ __18__ | 11.11 Thur | Course Project Presentation
   * We are going to use the following 4 features:
   `X1 net profit / total assets`, `X2 total liabilities / total assets`, `X7 EBIT / total assets`, `X10 equity / total assets`, and `class`
   * Create a new dataframe with only 4 feataures (and and `Bankruptcy`). Properly rename the columns to `X1`, `X2`, `X7`, and `X10`
-  * Fill-in the missing values `na` with the mean. (See Ch 4 of `PML`)
+  * Fill-in the missing values (`nan`) with the column means. (Use `pd.fillna()` or See Ch 4 of `PML`)
   * Find the mean and std of the 4 features among all, bankrupt and still-operating companies (3 groups).
   * How many companies satisfy the condition, `X1 < mean(X1) - stdev(X1)` __AND__ `X10 < mean(X10) - std(X10)`?
   * What is the ratio of the bankrupted companies among the sub-groups above?
