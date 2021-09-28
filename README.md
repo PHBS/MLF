@@ -73,7 +73,7 @@ __18__ | 11.11 Thur | Course Project Presentation
   * Send to TA the screenshots of (1) Github Desktop (showing the PML repository) (2) Jupyter Notebook (Anaconda) (3) PyCharm (See my [example](https://github.com/jaehyukchoi/PHBS_MLF_2021/blob/master/HW1/Preprocessing.ipynb)).
 * ### __Set 1: [Playing with Pandas dataframe]__ [Due by 9.27 Monday]
   * The goal of this HW is to be familiar with `pandas` package and dataframe. Due to limited time, I cannot cover pandas in class. You need to teach yourself. Remenber that there's many answers to do the task I am asking below. Use your own way.
-  * For this HW, we will use [Polish companies bankruptcy data Data Set](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) from UCI Machine Learning Repository. Download the dataset and put the 4th year file (`4year.arff`) in your `YOUR_GITHUB_ID/PHBS_MLF_2021/HW1/`
+  * For this HW, we will use [Polish companies bankruptcy data Data Set](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) from UCI Machine Learning Repository. Download the dataset and put the 4th year file (`4year.arff`) in your `YOUR_GITHUB_ID/PHBS_MLF_2021/data/`
   * I did a basic process of the data (loading to dataframe and creating `bankruptcy` column). See my [github](https://github.com/jaehyukchoi/PHBS_MLF_2021/tree/master/HW1/)
   * We are going to use the following 4 features:
   `X1 net profit / total assets`, `X2 total liabilities / total assets`, `X7 EBIT / total assets`, `X10 equity / total assets`, and `class`
@@ -89,6 +89,7 @@ __18__ | 11.11 Thur | Course Project Presentation
   * Select the 2 most important features using LogisticRegression with L1 penalty. (Adjust C until you see 2 features)
   * Using the 2 selected features, apply LR / SVM / decision tree. Try your own hyperparameters (C, gamma, tree depth, etc) to maximize the prediction accuracy. (Just try several values. You don't need to show your answer is the maximum.)
   * Visualize your classifiers using the `plot_decision_regions` function from __PML__ Ch. 3
+  * Put your result in `YOUR_GITHUB_ID/PHBS_MLF_2021/HW2/Classifiers.ipynb`
 * ### __Set 3: [PCA/Hyperparameter/CV]__ [Due TBA]
   * The goal of this HW is to be familiar with PCA (feature extraction), grid search, pipeline, etc. 
   * For this HW, we continue to use [Polish companies bankruptcy data Data Set](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) from UCI Machine Learning Repository. Download the dataset and put the 4th year file (`4year.arff`) in your `YOUR_GITHUB_ID/PHBS_MLF_2021/HW3/`
