@@ -142,7 +142,7 @@ This course assumes prior knowkedge in probability/statistics and experience in 
 ## Assessment / Grading Details
 * Attendance 20%, Mid-term exam 30%, Assignments 20%, Course Project 30%
 * Attendance: TBA Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave.
-* __Mid-term exam__: __4.7 Tues__. In-class open-book without computer/phone/calculator
+* __Mid-term exam__: __11.1 Mon__. In-class open-book without computer/phone/calculator
 * __Course project__: Data Proposal and Presentation. Group of up to ?? people.
 * __Attendance__: checked randomly. The score is calculated as 20 – 2`x`(#of absence). Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
 * __Grade__ in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or below > 10%__.
