@@ -23,18 +23,18 @@ No | Date | Contents
 --- | :---: | ---
 __01__ | 9.06 Mon | Course overview ([Syllabus](#syllabus)) \| Required software (Python, Github, PyCharm) \| Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb), [Numpy](py/PythonCrashCourse_Numpy.ipynb), Notebook Shorcut Keys)
 __02__ | 9.09 Thur | Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) \| Notations, Regression, Weight update ([Slides](files/MLF_Regression.pdf))
-__03__ | 9.13 Mon | __PML__ Ch. 2. Perceptron, Adaline, Gradient descent, Stochastic Gradient Descent
-__04__ | 9.16 Thur | __PML__ Ch. 3. Logistic Regression (LR) ([Slides](files/MLF_Regression.pdf)) and Support Vector Machine (SVM) ([Slides](files/MLF_SVM_KNN_Tree.pdf))
-__05__ | 9.20 Mon | Pandas crash course ([Notebook](py/Pandas-CrashCourse.ipynb). Also see [Datacamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet), [CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)) \| KNN ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3)  
-__06__ | 9.23 Thur | __PML__ Ch. 3 [Code](https://github.com/PHBS/python-machine-learning-book-3rd-edition/blob/master/ch03/ch03.ipynb). Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3).
-__07__ | 9.27 Mon | Data Preprocessing (Rading: __PML__ Ch. 4), SVD/PCA ([Slides](MLF_SVD_PCA_LDA.pdf), Reading: __PML__ Ch. 5)
-__08__ | 10.11 Mon | LDA ([Slides](MLF_SVD_PCA_LDA.pdf), Reading: __PML__ Ch. 5), Hyperparameters ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6)
-__09__ | 10.13 Wed | Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6)
-__10__ | 10.14 Thur | Evaluation Metric ([Slides](files/MLF_Bias_Variance_Metric.pdf), Reading: __PML__ Ch. 6), Ensenble (Reading: __PML__ Ch. 7) 
+__03__ | 9.13 Mon | __PML__ Ch. 2: Perceptron, Adaline, Gradient descent, Stochastic Gradient Descent
+__04__ | 9.16 Thur | __PML__ Ch. 3: Logistic Regression (LR) ([Slides](files/MLF_Regression.pdf)) and Support Vector Machine (SVM) ([Slides](files/MLF_SVM_KNN_Tree.pdf))
+__05__ | 9.20 Mon | Pandas crash course ([Notebook](py/Pandas-CrashCourse.ipynb). Also see [Datacamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet), [CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)) \| __PML__ Ch. 3: KNN ([Slides](files/MLF_SVM_KNN_Tree.pdf))  
+__06__ | 9.23 Thur | __PML__ Ch. 3: [Code](https://github.com/PHBS/python-machine-learning-book-3rd-edition/blob/master/ch03/ch03.ipynb). Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3).
+__07__ | 9.27 Mon | __PML__ Ch. 4: Data Preprocessing, __PML__ Ch. 5: SVD/PCA ([Slides](MLF_SVD_PCA_LDA.pdf))
+__08__ | 10.11 Mon | __PML__ Ch. 5: LDA ([Slides](MLF_SVD_PCA_LDA.pdf)), __PML__ Ch. 6: Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf))
+__09__ | 10.13 Wed | __PML__ Ch. 6: Hyperparameter tuning, Evaluation Metric ([Slides](files/MLF_Bias_Variance_Metric.pdf))
+__10__ | 10.14 Thur | __PML__ Ch. 6: Class imbalance ([Slides](files/MLF_Bias_Variance_Metric.pdf)), __PML__ Ch. 7: Ensenble Learning ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 7), Topics in Finance ML: Recession prediction ([Slides](files/MLF_Topic_RecessionPrediction.pdf))
 __11__  | 10.18 Mon | Neural Network, Deep Learning, CNN (Reading: Ch. 12-15) 
 __12__ | 10.21 Thur | Practical issues of applying ML to the real world.
-__13__ | 10.25 Mon | Topics in ML in Finance
-__14__ | 10.28 Thur | Topics in ML in Finance
+__13__ | 10.25 Mon | Topics in Finance ML
+__14__ | 10.28 Thur | Topics in Finance ML
 __15__ | 11.01 Mon | __Midterm Exam__
 __16__ | 11.04 Thur | __HSBC Guest Lecture [1/2]__ \| Midterm exam review  
 __17__ | 11.08 Mon | __HSBC Guest Lecture [2/2]__
