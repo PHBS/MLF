@@ -97,7 +97,7 @@ __18__ | 11.11 Thur | Course Project Presentation
   * Extract 3 features using PCA method.
   * Using the selected features from above, we are going to apply LR / SVM / decision tree. 
   * Implement the methods using pipeline. (__PML__ p185)
-  * Use grid search for finding optimal hyperparameters. (__PML__ p199). In the search, apply 10-fold cross-validation.
+  * Use grid search for finding optimal hyperparameters. (__PML__ p199). In the search, apply 5-fold cross-validation.
 
 ***
 # Syllabus
