@@ -22,15 +22,15 @@
 No | Date | Contents
 --- | :---: | ---
 __01__ | 9.06 Mon | Course overview ([Syllabus](#syllabus)) \| Required software (Python, Github, PyCharm) \| Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb), [Numpy](py/PythonCrashCourse_Numpy.ipynb), Notebook Shorcut Keys)
-__02__ | 9.09 Thur | Intro ([Slides](files/MLF_Intro.pdf), Reading: __PML__ Ch. 1) \| Notations, Regression, Weight update ([Slides](files/MLF_Regression.pdf))
+__02__ | 9.09 Thur | __PML__ Ch. 1: Intro ([Slides](files/MLF_Intro.pdf)) \| Notations, Regression, Weight update ([Slides](files/MLF_Regression.pdf))
 __03__ | 9.13 Mon | __PML__ Ch. 2: Perceptron, Adaline, Gradient descent, Stochastic Gradient Descent
 __04__ | 9.16 Thur | __PML__ Ch. 3: Logistic Regression (LR) ([Slides](files/MLF_Regression.pdf)) and Support Vector Machine (SVM) ([Slides](files/MLF_SVM_KNN_Tree.pdf))
 __05__ | 9.20 Mon | Pandas crash course ([Notebook](py/Pandas-CrashCourse.ipynb). Also see [Datacamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet), [CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)) \| __PML__ Ch. 3: KNN ([Slides](files/MLF_SVM_KNN_Tree.pdf))  
-__06__ | 9.23 Thur | __PML__ Ch. 3: [Code](https://github.com/PHBS/python-machine-learning-book-3rd-edition/blob/master/ch03/ch03.ipynb). Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 3).
+__06__ | 9.23 Thur | __PML__ Ch. 3: [Code](https://github.com/PHBS/python-machine-learning-book-3rd-edition/blob/master/ch03/ch03.ipynb). Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf)).
 __07__ | 9.27 Mon | __PML__ Ch. 4: Data Preprocessing, __PML__ Ch. 5: SVD/PCA ([Slides](MLF_SVD_PCA_LDA.pdf))
 __08__ | 10.11 Mon | __PML__ Ch. 5: LDA ([Slides](MLF_SVD_PCA_LDA.pdf)), __PML__ Ch. 6: Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf))
 __09__ | 10.13 Wed | __PML__ Ch. 6: Hyperparameter tuning, Evaluation Metric ([Slides](files/MLF_Bias_Variance_Metric.pdf))
-__10__ | 10.14 Thur | __PML__ Ch. 6: Class imbalance ([Slides](files/MLF_Bias_Variance_Metric.pdf)), __PML__ Ch. 7: Ensenble Learning ([Slides](files/MLF_SVM_KNN_Tree.pdf), Reading: __PML__ Ch. 7), Topics in Finance ML: Recession prediction ([Slides](files/MLF_Topic_RecessionPrediction.pdf))
+__10__ | 10.14 Thur | __PML__ Ch. 6: Class imbalance ([Slides](files/MLF_Bias_Variance_Metric.pdf)), __PML__ Ch. 7: Ensenble Learning ([Slides](files/MLF_SVM_KNN_Tree.pdf)), Topics in Finance ML: Recession prediction ([Slides](files/MLF_Topic_RecessionPrediction.pdf))
 __11__  | 10.18 Mon | Neural Network, Deep Learning, CNN (Reading: Ch. 12-15) 
 __12__ | 10.21 Thur | Practical issues of applying ML to the real world.
 __13__ | 10.25 Mon | Topics in Finance ML
@@ -90,14 +90,14 @@ __18__ | 11.11 Thur | Course Project Presentation
   * Using the 2 selected features, apply LR / SVM / decision tree. Try your own hyperparameters (C, gamma, tree depth, etc) to maximize the prediction accuracy. (Just try several values. You don't need to show your answer is the maximum.)
   * Visualize your classifiers using the `plot_decision_regions` function from __PML__ Ch. 3
   * Put your result in `YOUR_GITHUB_ID/PHBS_MLF_2021/HW2/Classifiers.ipynb`
-* ### __Set 3: [PCA/Hyperparameter/CV]__ [Due TBA]
+* ### __Set 3: [PCA/Hyperparameter/CV]__ [Due by 10.21 Thursday]
   * The goal of this HW is to be familiar with PCA (feature extraction), grid search, pipeline, etc. 
   * For this HW, we continue to use [Polish companies bankruptcy data Data Set](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) from UCI Machine Learning Repository. Download the dataset and put the 4th year file (`4year.arff`) in your `YOUR_GITHUB_ID/PHBS_MLF_2021/HW3/`
-  * Use the same pre-precessing provided in __Set 2__ (loading to dataframe, creating `bankruptcy` column, changing column names, filling-in `na` values, training-vs-test split, standardizatino, etc). See my [github](https://github.com/jaehyukchoi/PHBS_MLF_2021/tree/master/HW1/Classifiers.ipynb)
+  * Use the same pre-precessing provided in __Set 2__ (loading to dataframe, creating `bankruptcy` column, changing column names, filling-in `na` values, training-vs-test split, standardizatino, etc). See my [github](https://github.com/jaehyukchoi/PHBS_MLF_2021/tree/master/HW3/Classifiers.ipynb)
   * Extract 3 features using PCA method.
   * Using the selected features from above, we are going to apply LR / SVM / decision tree. 
   * Implement the methods using pipeline. (__PML__ p185)
-  * Use grid search for finding optimal hyperparameters. (__PML__ p199). In the search, apply 10-fold cross-validation.
+  * Use grid search for finding optimal hyperparameters. (__PML__ p199). In the search, apply 5-fold cross-validation.
 
 ***
 # Syllabus
