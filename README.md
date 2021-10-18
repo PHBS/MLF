@@ -31,9 +31,9 @@ __07__ | 9.27 Mon | __PML__ Ch. 4: Data Preprocessing, __PML__ Ch. 5: SVD/PCA ([
 __08__ | 10.11 Mon | __PML__ Ch. 5: LDA ([Slides](MLF_SVD_PCA_LDA.pdf)), __PML__ Ch. 6: Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf))
 __09__ | 10.13 Wed | __PML__ Ch. 6: Hyperparameter tuning, Evaluation Metric ([Slides](files/MLF_Bias_Variance_Metric.pdf))
 __10__ | 10.14 Thur | __PML__ Ch. 6: Class imbalance ([Slides](files/MLF_Bias_Variance_Metric.pdf)), __PML__ Ch. 7: Ensenble Learning ([Slides](files/MLF_SVM_KNN_Tree.pdf)), Topics in Finance ML: Recession prediction ([Slides](files/MLF_Topic_RecessionPrediction.pdf))
-__11__  | 10.18 Mon | Neural Network, Deep Learning, CNN (Reading: Ch. 12-15) 
-__12__ | 10.21 Thur | Practical issues of applying ML to the real world.
-__13__ | 10.25 Mon | Topics in Finance ML
+__11__  | 10.18 Mon | Kernel Method ([Slides](files/MLF_Kernel_Method.pdf), __PML__ Ch 3, 5), __PML__ Ch. 8: Sentiment Analysis ([Slides](files/MLF_Sentiment.pdf))
+__12__ | 10.21 Thur | Neural Network, Deep Learning, CNN (Reading: Ch. 12-15) 
+__13__ | 10.25 Mon | Neural Network, Deep Learning, CNN (Reading: Ch. 12-15) 
 __14__ | 10.28 Thur | Topics in Finance ML
 __15__ | 11.01 Mon | __Midterm Exam__
 __16__ | 11.04 Thur | __HSBC Guest Lecture [1/2]__ \| Midterm exam review  
