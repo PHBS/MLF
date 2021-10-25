@@ -6,7 +6,7 @@
 * It can be used as the kernel function between firms.
 * Use HP similarity as a proxy for stock correlation and calculate portfolio weight
 * Consider a proper y variable (?) for Kernel SVM or (Kernel PCA + ML methods)
-* Improve HP similarity with `doc2vec` method? (quite a big project)
+* Improve HP similarity with `doc2vec` method? (quite a big project). Improve industry classification.
 ### Sentiment analysis on central bank statement
 * Train the FOMC (or PBoC's) [statements or minute](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm) with `doc2vec` (or `word2vec`) algorithm to  to create vector representation
 * Fit ML models with the policy rate change or market reaction as y variable
