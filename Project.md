@@ -25,7 +25,7 @@ Group | Date | Title
 
 ## Data Selection (__10. 28 Thurs__)
 * No restriction on data set. However, business(fin/ma/econ) related data is welcome (extra credit for creative data selection and pre-processing)
-* Put the data under `GITHUB_ID/PHBS_MLF_2019/data` folder (if too big, put some samples)
+* Put the data under `GITHUB_ID/PHBS_MLF_2021/data` folder (if too big, put some samples)
 * Put a brief description of your data and the goal of the project in `README.md` (refer to [markdown cheetsheet](https://guides.github.com/features/mastering-markdown/))
 
 ## Project Guidline
