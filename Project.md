@@ -1,5 +1,14 @@
 # Course Project
 
+## Suggestions on project topics:
+### Hoberg-Phillips similarity
+* [Hoberg-Phillips](https://hobergphillips.tuck.dartmouth.edu/) provide firms' product cosine similarity.
+* It can be used as the kernel function between firms.
+* Consider a proper y variable (?) for Kernel SVM or (Kernel PCA + ML methods)
+### Sentiment analysis on central bank statement
+* Train the FOMC (or PBoC's) [statements or minute](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm) with `doc2vec` (or `word2vec`) algorithm to  to create vector representation
+* Fit ML models with the interest rate change (policy or market) as y variable
+* Identify the most important vector with feature selection/extraction
 
 ## Team List (Presentation Order)
 
