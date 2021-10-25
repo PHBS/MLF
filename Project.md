@@ -4,11 +4,13 @@
 ### Hoberg-Phillips similarity
 * [Hoberg-Phillips](https://hobergphillips.tuck.dartmouth.edu/) provide firms' product cosine similarity.
 * It can be used as the kernel function between firms.
+* Use HP similarity as a proxy for stock correlation and calculate portfolio weight
 * Consider a proper y variable (?) for Kernel SVM or (Kernel PCA + ML methods)
+* Improve HP similarity with `doc2vec` method? (quite a big project)
 ### Sentiment analysis on central bank statement
 * Train the FOMC (or PBoC's) [statements or minute](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm) with `doc2vec` (or `word2vec`) algorithm to  to create vector representation
-* Fit ML models with the interest rate change (policy or market) as y variable
-* Identify the most important vector with feature selection/extraction
+* Fit ML models with the policy rate change or market reaction as y variable
+* Identify the most important vector (and corresponding word/phrase) with feature selection/extraction
 
 ## Team List (Presentation Order)
 
