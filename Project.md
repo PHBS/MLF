@@ -15,8 +15,18 @@
 
 ## Team List (Presentation Order)
 
-Group | Date | Title
---- | -- | ---
+Group | Members | Repo
+--- |  --- | ---
+1 | Chen Man, Ning Lei |
+2 | Li Xinsha |
+3 | Li Panyu, Li Linxiong |
+4 | Xie Zhonglin, Xu Xinyu | 
+5 | Zhang Wenchang Zhang, Yu Lei |
+6 | Jiang Yifan, Peng Feng |
+7 | Qi Daifeng |
+8 | Guo Xinran, Sun Bo |
+9 | Sihan Zhai, Hu Xueyang |
+10 | Wang Zijie, Ye Mengjie |
 
 
 ## Team Formation (__10. 24 Sun__)
