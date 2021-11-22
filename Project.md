@@ -17,16 +17,16 @@
 
 Group | Members | Repo
 --- |  --- | ---
-1 | Chen Man, Ning Lei |
-2 | Li Xinsha |
-3 | Li Panyu, Li Linxiong |
-4 | Xie Zhonglin, Xu Xinyu | 
-5 | Zhang Wenchang Zhang, Yu Lei |
-6 | Jiang Yifan, Peng Feng |
-7 | Qi Daifeng |
-8 | Guo Xinran, Sun Bo |
-9 | Sihan Zhai, Hu Xueyang |
-10 | Wang Zijie, Ye Mengjie |
+1 | Chen Man, Ning Lei | [XGBOOST model for slecting impotant features of stock and forming unlinear factor](https://github.com/RAY185/MLF_Final_project)
+2 | Li Xinsha | [Predicting Chinese interest rate by machine learning approach](https://github.com/wn0987/PHBS_MLF_2021/blob/main/project/README.md)
+3 | Li Panyu, Li Linxiong | [Signal mining based on machine learning](https://github.com/PanyuLi/PHBS_MLF_2021/blob/main/Project/README.md)
+4 | Xie Zhonglin, Xu Xinyu | [Predicting Rebar Futures Price with Low-mid Frequency Data](https://github.com/sissixyx/PHBS_MLF_2021)
+5 | Zhang Wenchang, Yu Lei | [Would Mr. Market sing FED's songs? -- Sentiment Analysis on the FOMC's documents](https://github.com/ahabug/PHBS_MLF_2021/blob/master/Would%20Mr.%20Market%20sing%20FED's%20songs/README.md)
+6 | Jiang Yifan, Peng Feng | [Title ??](https://github.com/pf-sjtu/PHBS_MLF_2021/tree/master/Proj)
+7 | Qi Daifeng | [Text-Based Firm Similarity Based on Edgar 10-K Report](https://github.com/daifengqi/PHBS_MLF_2021/blob/main/final/README.md)
+8 | Guo Xinran, Sun Bo | [Quantitative Trading via Machine Learning in the Chinese Stock Market](https://github.com/Harveydentsun/MLF_2021_Final_Project)
+9 | Sihan Zhai, Hu Xueyang | [Sentiment Analysis on FOMC Statements and Minutes](https://github.com/XueyangHu/PHBS_MLF_2021/blob/master/Project/README.md)
+10 | Wang Zijie, Ye Mengjie | []()
 
 
 ## Team Formation (__10. 24 Sun__)
