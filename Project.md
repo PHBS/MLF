@@ -26,7 +26,7 @@ Group | Members | Repo
 7 | Qi Daifeng | [Text-Based Firm Similarity Based on Edgar 10-K Report](https://github.com/daifengqi/PHBS_MLF_2021/blob/main/final/README.md)
 8 | Guo Xinran, Sun Bo | [Quantitative Trading via Machine Learning in the Chinese Stock Market](https://github.com/Harveydentsun/MLF_2021_Final_Project)
 9 | Sihan Zhai, Hu Xueyang | [Sentiment Analysis on FOMC Statements and Minutes](https://github.com/XueyangHu/PHBS_MLF_2021/blob/master/Project/README.md)
-10 | Wang Zijie, Ye Mengjie | []()
+10 | Wang Zijie, Ye Mengjie | [Feauture selection in stock predicition and portfolio management by Lasso and LightBGM](https://github.com/lethe-ye/PHBS_MLF_2021_Proj)
 
 
 ## Team Formation (__10. 24 Sun__)
