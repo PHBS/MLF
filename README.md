@@ -35,7 +35,7 @@ __11__  | 3.28 Tue | Kernel Method ([Slides](files/MLF_Kernel_Method.pdf), __PML
 __12__ | 3.31 Fri | Neural Network, Deep Learning, CNN ([Slides](MLF_Neural_Network.pdf), __PML__ Ch. 12) 
 __13__ | 4.04 Tue | Neural Network, Deep Learning, CNN ([Slides](MLF_Neural_Network.pdf), __PML__ Ch. 13-15) 
 __14__ | 4.07 Fri | ML in Finance Research ([Slides](files/MLF_Finance_Research.pdf)), Collaborative Filtering ([Slides](files/MLF_Col_Filtering.pdf))
-__15__ | 4.11 Tue | __Midterm Exam__ ([Solution](files/MLF2021_Midterm.pdf))
+__15__ | 4.11 Tue | __Midterm Exam__
 __16__ | 4.14 Fri | __HSBC Guest Lecture [1/2]__
 __17__ | 4.18 Tue | __HSBC Guest Lecture [2/2]__
 __18__ | 4.21 Fri | Course Project Presentation (may be scheduled later)
