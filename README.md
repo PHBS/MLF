@@ -63,7 +63,7 @@ __18__ | 4.21 Fri | Course Project Presentation (may be scheduled later)
 -->
 
 ## Homeworks:
-* ### __Set 0: [Required Software]__ [Due by Thursday]
+* ### __Set 0: [Required Software]__ [Due by Friday]
   * Register on [Github.com](https://github.com/) and let TA know your ID (by DingTalk). Make sure to user your __full real name__ in your profile. Accept invitation to the [PHBS organization](https://github.com/orgs/PHBS/people) from TA. 
     * Create a designated repository `GITHUB_ID/PHBS_MLF_2021` for your HW and project. Tick `Initialize this repository with a README` and select `python` under `.gitignore`
     * Fork [PML repository](https://github.com/PHBS/python-machine-learning-book-3rd-edition) to your repository.
@@ -71,7 +71,7 @@ __18__ | 4.21 Fri | Course Project Presentation (may be scheduled later)
   * Install [Anaconda](https://www.anaconda.com/download/) Python distribution (__3.X version__, not 2.X version). Anaconda distribution is core Python + useful scientific computation libraries (e.g., numpy, scipy, pandas) + package management system (pip or conda)
   * Install [PyCharm](https://www.jetbrains.com/pycharm/) Community version. (Or Professional version after applying for [free student license](https://www.jetbrains.com/student/))
   * Send to TA the screenshots of (1) Github Desktop (showing the PML repository) (2) Jupyter Notebook (Anaconda) (3) PyCharm (See my [example](https://github.com/jaehyukchoi/PHBS_MLF_2021/blob/master/HW1/Preprocessing.ipynb)).
-* ### __Set 1: [Playing with Pandas dataframe]__ [Due by 9.27 Monday]
+* ### __Set 1: [Playing with Pandas dataframe]__ [Due by XXX]
   * The goal of this HW is to be familiar with `pandas` package and dataframe. Due to limited time, I cannot cover pandas in class. You need to teach yourself. Remenber that there's many answers to do the task I am asking below. Use your own way.
   * For this HW, we will use [Polish companies bankruptcy data Data Set](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) from UCI Machine Learning Repository. Download the dataset and put the 4th year file (`4year.arff`) in your `YOUR_GITHUB_ID/PHBS_MLF_2021/data/`
   * I did a basic process of the data (loading to dataframe and creating `bankruptcy` column). See my [github](https://github.com/jaehyukchoi/PHBS_MLF_2021/tree/master/HW1/)
@@ -110,7 +110,7 @@ __18__ | 4.21 Fri | Course Project Presentation (may be scheduled later)
 * Office: PHBS Building, Room 755
 * Phone: 86-755-2603-0568
 * Email: jaehyuk@phbs.pku.edu.cn
-* Office Hour: TBA
+* Office Hour: Monday 7-9 PM
 
 ## Teaching Assistance: 苏南 (Nan SU)
 * Email: sunan@stu.pku.edu.cn
@@ -118,7 +118,7 @@ __18__ | 4.21 Fri | Course Project Presentation (may be scheduled later)
 
 ## Course overview
 With the advent of computation power and big data, machine learning (ML) recently became one of the most spotlighted research field in industry and academia. This course provides a broad introduction to ML in theoretical and practical perspectives. Through this course, students will learn the intuition and implementation behind the popular ML methods and gain hands-on experience of using ML software packages such as SK-learn and Tensorflow. This course will also explore the possibility of applying ML to finance and business. Each student is required to complete a final course project. 
-__This year, the compliance analytics team in HSBC bank (Gunagzhou) will give 2 guest lectures to demonstrate how ML is developed and shared in banking industry.__
+__This year, the compliance analytics team in HSBC bank (Gunagzhou) will give 4 guest lectures to demonstrate how ML is developed and shared in banking industry.__
 
 ## Prerequisites
 This course assumes prior knowkedge in probability/statistics and experience in Python. This course is ideally recommended for those who have taken introductory ML/AI courses from undergraduate program.
