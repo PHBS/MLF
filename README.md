@@ -21,23 +21,23 @@
 ## Lectures:
 No | Date | Contents
 --- | :---: | ---
-__01__ | 2.21 Tue | Course overview ([Syllabus](#syllabus)) \| Required software (Python, Github, PyCharm) \| Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb), [Numpy](py/PythonCrashCourse_Numpy.ipynb), Notebook Shorcut Keys)
+__01__ | 2.21 Tue | Course overview ([Syllabus](#syllabus)) \| Required software (Python, Github, PyCharm) \| Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb), [Numpy](py/PythonCrashCourse_Numpy.ipynb), Notebook Shorcut Keys, [Notebook](py/Pandas-CrashCourse.ipynb). Also see [Datacamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet), [CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf))
 __02__ | 2.24 Fri | __PML__ Ch. 1: Intro ([Slides](files/MLF_Intro.pdf)) \| Notations, Regression, Weight update ([Slides](files/MLF_Regression.pdf))
 __03__ | 2.28 Tue | __PML__ Ch. 2: Perceptron, Adaline, Gradient descent, Stochastic Gradient Descent
 __04__ | 3.03 Fri | __PML__ Ch. 3: Logistic Regression (LR) ([Slides](files/MLF_Regression.pdf)) and Support Vector Machine (SVM) ([Slides](files/MLF_SVM_KNN_Tree.pdf))
-__05__ | 3.07 Tue | Pandas crash course ([Notebook](py/Pandas-CrashCourse.ipynb). Also see [Datacamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet), [CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)) \| __PML__ Ch. 3: KNN ([Slides](files/MLF_SVM_KNN_Tree.pdf))  
-__06__ | 3.10 Fri | __PML__ Ch. 3: [Code](https://github.com/PHBS/python-machine-learning-book-3rd-edition/blob/master/ch03/ch03.ipynb). Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf)).
-__07__ | 3.14 Tue | __PML__ Ch. 4: Data Preprocessing, __PML__ Ch. 5: SVD/PCA ([Slides](MLF_SVD_PCA_LDA.pdf))
-__08__ | 3.17 Tue | __PML__ Ch. 5: LDA ([Slides](MLF_SVD_PCA_LDA.pdf)), __PML__ Ch. 6: Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf))
-__09__ | 3.21 Fri | __PML__ Ch. 6: Hyperparameter tuning, Evaluation Metric ([Slides](files/MLF_Bias_Variance_Metric.pdf))
-__10__ | 3.24 Fri | __PML__ Ch. 6: Class imbalance ([Slides](files/MLF_Bias_Variance_Metric.pdf)), __PML__ Ch. 7: Ensenble Learning ([Slides](files/MLF_SVM_KNN_Tree.pdf)), Topics in Finance ML: Recession prediction ([Slides](files/MLF_Topic_RecessionPrediction.pdf))
-__11__  | 3.28 Tue | Kernel Method ([Slides](files/MLF_Kernel_Method.pdf), __PML__ Ch 3, 5), __PML__ Ch. 8: Sentiment Analysis ([Slides](files/MLF_Sentiment.pdf))
-__12__ | 3.31 Fri | Neural Network, Deep Learning, CNN ([Slides](MLF_Neural_Network.pdf), __PML__ Ch. 12) 
-__13__ | 4.04 Tue | Neural Network, Deep Learning, CNN ([Slides](MLF_Neural_Network.pdf), __PML__ Ch. 13-15) 
-__14__ | 4.07 Fri | ML in Finance Research ([Slides](files/MLF_Finance_Research.pdf)), Collaborative Filtering ([Slides](files/MLF_Col_Filtering.pdf))
-__15__ | 4.11 Tue | __Midterm Exam__
-__16__ | 4.14 Fri | __HSBC Guest Lecture [1/2]__
-__17__ | 4.18 Tue | __HSBC Guest Lecture [2/2]__
+__05__ | 3.07 Tue | __PML__ Ch. 3: KNN ([Slides](files/MLF_SVM_KNN_Tree.pdf), [Code](https://github.com/PHBS/python-machine-learning-book-3rd-edition/blob/master/ch03/ch03.ipynb)), Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf)).
+__06__ | 3.10 Fri | __PML__ Ch. 4: Data Preprocessing, __PML__ Ch. 5: SVD/PCA ([Slides](MLF_SVD_PCA_LDA.pdf))
+__07__ | 3.14 Tue | __PML__ Ch. 5: LDA ([Slides](MLF_SVD_PCA_LDA.pdf)), __PML__ Ch. 6: Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf))
+__08__ | 3.17 Tue | __PML__ Ch. 6: Hyperparameter tuning, Evaluation Metric, Class imbalance ([Slides](files/MLF_Bias_Variance_Metric.pdf))
+__09__ | 3.21 Fri | __PML__ Ch. 7: Ensenble Learning ([Slides](files/MLF_SVM_KNN_Tree.pdf)), Kernel Method ([Slides](files/MLF_Kernel_Method.pdf), __PML__ Ch 3, 5)
+__10__ | 3.24 Fri | __PML__ Ch. 8: Sentiment Analysis ([Slides](files/MLF_Sentiment.pdf))
+__11__  | 3.28 Tue | Topics in Finance ML: Recession prediction ([Slides](files/MLF_Topic_RecessionPrediction.pdf)), ML in Finance Research ([Slides](files/MLF_Finance_Research.pdf)), Collaborative Filtering ([Slides](files/MLF_Col_Filtering.pdf))
+__12__ | 3.31 Fri | Neural Network, Deep Learning, CNN ([Slides](MLF_Neural_Network.pdf), __PML__ Ch. 12-15) 
+__13__ | 4.04 Tue | __Midterm Exam__ (Tentative)
+__14__ | 4.07 Fri | __HSBC Guest Lecture [1/4]__
+__15__ | 4.11 Tue | __HSBC Guest Lecture [2/4]__
+__16__ | 4.14 Fri | __HSBC Guest Lecture [3/4]__
+__17__ | 4.18 Tue | __HSBC Guest Lecture [4/4]__
 __18__ | 4.21 Fri | Course Project Presentation (may be scheduled later)
 
 <!--
