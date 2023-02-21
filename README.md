@@ -1,4 +1,4 @@
-# Machine Learning for Finance (FN 570) 2021-22 Module 1 (Fall 2021)
+# Machine Learning for Finance (FN 570) 2022-23 Module 3 (Spring 2023)
 
 ## Announcements
 * Email is the preferred method of communication. Class mailing list will be created as PHBS.MLF@allmail.net. But, the announcements will be made in DingTalk group chat.
@@ -10,7 +10,7 @@
 
 ## Course Resources
 * Course slides: [Intro](files/MLF_Intro.pdf) | [Regression](files/MLF_Regression.pdf) | [SVM/KNN/Tree](files/MLF_SVM_KNN_Tree.pdf) | [SVD/PCA/LDA](files/MLF_SVD_PCA_LDA.pdf) | [Hyperparameter](files/MLF_Bias_Variance_Metric.pdf) | [Neural Network](files/MLF_Neural_Network.pdf) | [Graphical Model](files/MLF_Graphical_Model.pdf)
-* Project: [Current](Project.md) | [2019](past-years/2019.M3/Project.md) | [2018](past-years/2018.M1/Project.md) | [2017](past-years/2017.M3/Project_List.md) | [2016](past-years/2016.M3/Project_List.md)
+* Project: [Current](Project.md) | [2021](past-years/2021.M1/Project.md) | [2019](past-years/2019.M3/Project.md) | [2018](past-years/2018.M1/Project.md) | [2017](past-years/2017.M3/Project_List.md) | [2016](past-years/2016.M3/Project_List.md)
 * Past years' exam: [2021](files/MLF2021_Midterm.pdf) | [2019](files/MLF2019_Midterm.pdf) (online take-home) | [2018](files/MLF2018_Midterm.pdf) | [2017](files/MLF2017_Midterm.pdf) | [Exams from Tom Michell's ML course](http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml) (Carnegie Mellon University)
  
 <!--
@@ -21,24 +21,24 @@
 ## Lectures:
 No | Date | Contents
 --- | :---: | ---
-__01__ | 9.06 Mon | Course overview ([Syllabus](#syllabus)) \| Required software (Python, Github, PyCharm) \| Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb), [Numpy](py/PythonCrashCourse_Numpy.ipynb), Notebook Shorcut Keys)
-__02__ | 9.09 Thur | __PML__ Ch. 1: Intro ([Slides](files/MLF_Intro.pdf)) \| Notations, Regression, Weight update ([Slides](files/MLF_Regression.pdf))
-__03__ | 9.13 Mon | __PML__ Ch. 2: Perceptron, Adaline, Gradient descent, Stochastic Gradient Descent
-__04__ | 9.16 Thur | __PML__ Ch. 3: Logistic Regression (LR) ([Slides](files/MLF_Regression.pdf)) and Support Vector Machine (SVM) ([Slides](files/MLF_SVM_KNN_Tree.pdf))
-__05__ | 9.20 Mon | Pandas crash course ([Notebook](py/Pandas-CrashCourse.ipynb). Also see [Datacamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet), [CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)) \| __PML__ Ch. 3: KNN ([Slides](files/MLF_SVM_KNN_Tree.pdf))  
-__06__ | 9.23 Thur | __PML__ Ch. 3: [Code](https://github.com/PHBS/python-machine-learning-book-3rd-edition/blob/master/ch03/ch03.ipynb). Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf)).
-__07__ | 9.27 Mon | __PML__ Ch. 4: Data Preprocessing, __PML__ Ch. 5: SVD/PCA ([Slides](MLF_SVD_PCA_LDA.pdf))
-__08__ | 10.11 Mon | __PML__ Ch. 5: LDA ([Slides](MLF_SVD_PCA_LDA.pdf)), __PML__ Ch. 6: Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf))
-__09__ | 10.13 Wed | __PML__ Ch. 6: Hyperparameter tuning, Evaluation Metric ([Slides](files/MLF_Bias_Variance_Metric.pdf))
-__10__ | 10.14 Thur | __PML__ Ch. 6: Class imbalance ([Slides](files/MLF_Bias_Variance_Metric.pdf)), __PML__ Ch. 7: Ensenble Learning ([Slides](files/MLF_SVM_KNN_Tree.pdf)), Topics in Finance ML: Recession prediction ([Slides](files/MLF_Topic_RecessionPrediction.pdf))
-__11__  | 10.18 Mon | Kernel Method ([Slides](files/MLF_Kernel_Method.pdf), __PML__ Ch 3, 5), __PML__ Ch. 8: Sentiment Analysis ([Slides](files/MLF_Sentiment.pdf))
-__12__ | 10.21 Thur | Neural Network, Deep Learning, CNN ([Slides](MLF_Neural_Network.pdf), __PML__ Ch. 12) 
-__13__ | 10.25 Mon | Neural Network, Deep Learning, CNN ([Slides](MLF_Neural_Network.pdf), __PML__ Ch. 13-15) 
-__14__ | 10.28 Thur | ML in Finance Research ([Slides](files/MLF_Finance_Research.pdf)), Collaborative Filtering ([Slides](files/MLF_Col_Filtering.pdf))
-__15__ | 11.01 Mon | __Midterm Exam__ ([Solution](files/MLF2021_Midterm.pdf))
-__16__ | 11.04 Thur | __HSBC Guest Lecture [1/2]__
-__17__ | 11.08 Mon | __HSBC Guest Lecture [2/2]__
-__18__ | 11.11 Thur | Course Project Presentation
+__01__ | 2.21 Tue | Course overview ([Syllabus](#syllabus)) \| Required software (Python, Github, PyCharm) \| Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb), [Numpy](py/PythonCrashCourse_Numpy.ipynb), Notebook Shorcut Keys)
+__02__ | 2.24 Fri | __PML__ Ch. 1: Intro ([Slides](files/MLF_Intro.pdf)) \| Notations, Regression, Weight update ([Slides](files/MLF_Regression.pdf))
+__03__ | 2.28 Tue | __PML__ Ch. 2: Perceptron, Adaline, Gradient descent, Stochastic Gradient Descent
+__04__ | 3.03 Fri | __PML__ Ch. 3: Logistic Regression (LR) ([Slides](files/MLF_Regression.pdf)) and Support Vector Machine (SVM) ([Slides](files/MLF_SVM_KNN_Tree.pdf))
+__05__ | 3.07 Tue | Pandas crash course ([Notebook](py/Pandas-CrashCourse.ipynb). Also see [Datacamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet), [CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)) \| __PML__ Ch. 3: KNN ([Slides](files/MLF_SVM_KNN_Tree.pdf))  
+__06__ | 3.10 Fri | __PML__ Ch. 3: [Code](https://github.com/PHBS/python-machine-learning-book-3rd-edition/blob/master/ch03/ch03.ipynb). Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf)).
+__07__ | 3.14 Tue | __PML__ Ch. 4: Data Preprocessing, __PML__ Ch. 5: SVD/PCA ([Slides](MLF_SVD_PCA_LDA.pdf))
+__08__ | 3.17 Tue | __PML__ Ch. 5: LDA ([Slides](MLF_SVD_PCA_LDA.pdf)), __PML__ Ch. 6: Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf))
+__09__ | 3.21 Fri | __PML__ Ch. 6: Hyperparameter tuning, Evaluation Metric ([Slides](files/MLF_Bias_Variance_Metric.pdf))
+__10__ | 3.24 Fri | __PML__ Ch. 6: Class imbalance ([Slides](files/MLF_Bias_Variance_Metric.pdf)), __PML__ Ch. 7: Ensenble Learning ([Slides](files/MLF_SVM_KNN_Tree.pdf)), Topics in Finance ML: Recession prediction ([Slides](files/MLF_Topic_RecessionPrediction.pdf))
+__11__  | 3.28 Tue | Kernel Method ([Slides](files/MLF_Kernel_Method.pdf), __PML__ Ch 3, 5), __PML__ Ch. 8: Sentiment Analysis ([Slides](files/MLF_Sentiment.pdf))
+__12__ | 3.31 Fri | Neural Network, Deep Learning, CNN ([Slides](MLF_Neural_Network.pdf), __PML__ Ch. 12) 
+__13__ | 4.04 Tue | Neural Network, Deep Learning, CNN ([Slides](MLF_Neural_Network.pdf), __PML__ Ch. 13-15) 
+__14__ | 4.07 Fri | ML in Finance Research ([Slides](files/MLF_Finance_Research.pdf)), Collaborative Filtering ([Slides](files/MLF_Col_Filtering.pdf))
+__15__ | 4.11 Tue | __Midterm Exam__
+__16__ | 4.14 Fri | __HSBC Guest Lecture [1/2]__
+__17__ | 4.18 Tue | __HSBC Guest Lecture [2/2]__
+__18__ | 4.21 Fri | Course Project Presentation (may be scheduled later)
 
 <!--
 * __18__ (11.09 Fri) 
@@ -103,8 +103,8 @@ __18__ | 11.11 Thur | Course Project Presentation
 # Syllabus
 
 ## Classes:
-* Lectures: Monday & Thursday 1:30 – 3:20 PM
-* Venue: PHBS Building, Room 231
+* Lectures: Tuesday & Friday 1:30 – 3:20 PM
+* Venue: PHBS Building, Room 229
 
 ## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en)
 * Office: PHBS Building, Room 755
@@ -112,9 +112,9 @@ __18__ | 11.11 Thur | Course Project Presentation
 * Email: jaehyuk@phbs.pku.edu.cn
 * Office Hour: TBA
 
-## Teaching Assistance: 商陈诚 (Shang Chencheng)
-* Email: pkuscc@stu.pku.edu.cn
-* TA Office Hour (Room 213/214): Monday & Thursday 7-9 PM
+## Teaching Assistance: 苏南 (Nan SU)
+* Email: sunan@stu.pku.edu.cn
+* TA Office Hour (Room 213/214): TBA
 
 ## Course overview
 With the advent of computation power and big data, machine learning (ML) recently became one of the most spotlighted research field in industry and academia. This course provides a broad introduction to ML in theoretical and practical perspectives. Through this course, students will learn the intuition and implementation behind the popular ML methods and gain hands-on experience of using ML software packages such as SK-learn and Tensorflow. This course will also explore the possibility of applying ML to finance and business. Each student is required to complete a final course project. 
