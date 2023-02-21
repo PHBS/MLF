@@ -21,7 +21,7 @@
 ## Lectures:
 No | Date | Contents
 --- | :---: | ---
-__01__ | 2.21 Tue | Course overview ([Syllabus](#syllabus)) \| Required software (Python, Github, PyCharm) \| Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb), [Numpy](py/PythonCrashCourse_Numpy.ipynb), Notebook Shorcut Keys, [Notebook](py/Pandas-CrashCourse.ipynb). Also see [Datacamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet), [CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf))
+__01__ | 2.21 Tue | Course overview ([Syllabus](#syllabus)) \| Required software (Python, Github, PyCharm) \| Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb), [Numpy](py/PythonCrashCourse_Numpy.ipynb) (Notebook Shorcut Keys), [Pandas](py/Pandas-CrashCourse.ipynb). Also see [Datacamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet), [CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf))
 __02__ | 2.24 Fri | __PML__ Ch. 1: Intro ([Slides](files/MLF_Intro.pdf)) \| Notations, Regression, Weight update ([Slides](files/MLF_Regression.pdf))
 __03__ | 2.28 Tue | __PML__ Ch. 2: Perceptron, Adaline, Gradient descent, Stochastic Gradient Descent
 __04__ | 3.03 Fri | __PML__ Ch. 3: Logistic Regression (LR) ([Slides](files/MLF_Regression.pdf)) and Support Vector Machine (SVM) ([Slides](files/MLF_SVM_KNN_Tree.pdf))
