@@ -28,8 +28,8 @@ __04__ | 3.03 Fri | __PML__ Ch. 3: Logistic Regression (LR) ([Slides](files/MLF_
 __05__ | 3.07 Tue | __PML__ Ch. 3: KNN ([Slides](files/MLF_SVM_KNN_Tree.pdf), [Code](https://github.com/PHBS/python-machine-learning-book-3rd-edition/blob/master/ch03/ch03.ipynb)), Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf)).
 __06__ | 3.10 Fri | __PML__ Ch. 4: Data Preprocessing, __PML__ Ch. 5: SVD/PCA ([Slides](MLF_SVD_PCA_LDA.pdf))
 __07__ | 3.14 Tue | __PML__ Ch. 5: LDA ([Slides](MLF_SVD_PCA_LDA.pdf)), __PML__ Ch. 6: Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf))
-__08__ | 3.17 Tue | __PML__ Ch. 6: Hyperparameter tuning, Evaluation Metric, Class imbalance ([Slides](files/MLF_Bias_Variance_Metric.pdf))
-__09__ | 3.21 Fri | __PML__ Ch. 7: Ensenble Learning ([Slides](files/MLF_SVM_KNN_Tree.pdf)), Kernel Method ([Slides](files/MLF_Kernel_Method.pdf), __PML__ Ch 3, 5)
+__08__ | 3.17 Fri | __PML__ Ch. 6: Hyperparameter tuning, Evaluation Metric, Class imbalance ([Slides](files/MLF_Bias_Variance_Metric.pdf))
+__09__ | 3.21 Tue | __PML__ Ch. 7: Ensenble Learning ([Slides](files/MLF_SVM_KNN_Tree.pdf)), Kernel Method ([Slides](files/MLF_Kernel_Method.pdf), __PML__ Ch 3, 5)
 __10__ | 3.24 Fri | __PML__ Ch. 8: Sentiment Analysis ([Slides](files/MLF_Sentiment.pdf))
 __11__  | 3.28 Tue | Topics in Finance ML: Recession prediction ([Slides](files/MLF_Topic_RecessionPrediction.pdf)), ML in Finance Research ([Slides](files/MLF_Finance_Research.pdf)), Collaborative Filtering ([Slides](files/MLF_Col_Filtering.pdf))
 __12__ | 3.31 Fri | Neural Network, Deep Learning, CNN ([Slides](MLF_Neural_Network.pdf), __PML__ Ch. 12-15) 
