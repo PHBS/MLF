@@ -73,31 +73,31 @@ __18__ | 4.21 Fri | Course Project Presentation (may be scheduled later)
   * Send to TA the screenshots of (1) Github Desktop (showing the PML repository) (2) Jupyter Notebook (Anaconda) (3) PyCharm (See my examples: [Github Desktop](https://github.com/PHBS/ASP/blob/master/files/Choi_Jaehyuk_Github.png), [Anaconda Spyder](https://github.com/PHBS/ASP/blob/master/files/Choi_Jaehyuk_Python.png)).
 * ### __Set 1: [Playing with Pandas dataframe]__ [Due by XXX]
   * The goal of this HW is to be familiar with `pandas` package and dataframe. Due to limited time, I cannot cover pandas in class. You need to teach yourself. Remenber that there's many answers to do the task I am asking below. Use your own way.
-  * For this HW, we will use [Polish companies bankruptcy data Data Set](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) from UCI Machine Learning Repository. Download the dataset and put the 4th year file (`4year.arff`) in your `YOUR_GITHUB_ID/PHBS_MLF_2021/data/`
   * I did a basic process of the data (loading to dataframe and creating `bankruptcy` column). See my [github](https://github.com/jaehyukchoi/PHBS_MLF_2021/tree/master/HW1/)
   * We are going to use the following 4 features:
   `X1 net profit / total assets`, `X2 total liabilities / total assets`, `X7 EBIT / total assets`, `X10 equity / total assets`, and `class`
   * Create a new dataframe with only 4 feataures (and and `Bankruptcy`). Properly rename the columns to `X1`, `X2`, `X7`, and `X10`
-  * Fill-in the missing values (`nan`) with the column means. (Use `pd.fillna()` or See Ch 4 of `PML`)
   * Find the mean and std of the 4 features among all, bankrupt and still-operating companies (3 groups).
   * How many companies satisfy the condition, `X1 < mean(X1) - stdev(X1)` __AND__ `X10 < mean(X10) - std(X10)`?
   * What is the ratio of the bankrupted companies among the sub-groups above?
 * ### __Set 2: [Classifiers]__ [Due by 10.11 Monday]
   * The goal of this HW is to be familiar with the basic classifiers __PML__ Ch 3. 
-  * For this HW, we continue to use [Polish companies bankruptcy data Data Set](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) from UCI Machine Learning Repository. Download the dataset and put the 4th year file (`4year.arff`) in your `YOUR_GITHUB_ID/PHBS_MLF_2021/HW2/`
-  * I did a basic process of the data (loading to dataframe, creating `bankruptcy` column, changing column names, filling-in `na` values, training-vs-test split, standardizatino, etc). See my [github](https://github.com/jaehyukchoi/PHBS_MLF_2021/tree/master/HW2/Classifiers.ipynb)
+  * For this HW, we will use [Give Me Some Credit]([http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data](https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset)) on Kaggle. You may download from Kaggle link or CMS.
+  * Fill-in the missing values (`nan`) with the column means. (Use `pd.fillna()` or See Ch 4 of `PML`)
   * Select the 2 most important features using LogisticRegression with L1 penalty. (Adjust C until you see 2 features)
   * Using the 2 selected features, apply LR / SVM / decision tree. Try your own hyperparameters (C, gamma, tree depth, etc) to maximize the prediction accuracy. (Just try several values. You don't need to show your answer is the maximum.)
   * Visualize your classifiers using the `plot_decision_regions` function from __PML__ Ch. 3
-  * Put your result in `YOUR_GITHUB_ID/PHBS_MLF_2021/HW2/Classifiers.ipynb`
+  * Put your result in `YOUR_GITHUB_ID/PHBS-MLF-2022/HW1/Classifiers.ipynb`
+<!--
 * ### __Set 3: [PCA/Hyperparameter/CV]__ [Due by 10.21 Thursday]
   * The goal of this HW is to be familiar with PCA (feature extraction), grid search, pipeline, etc. 
-  * For this HW, we continue to use [Polish companies bankruptcy data Data Set](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) from UCI Machine Learning Repository. Download the dataset and put the 4th year file (`4year.arff`) in your `YOUR_GITHUB_ID/PHBS_MLF_2021/HW3/`
+  * For this HW, we continue to use [Give Me Some Credit]([http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data](https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset)) on Kaggle. 
   * Use the same pre-precessing provided in __Set 2__ (loading to dataframe, creating `bankruptcy` column, changing column names, filling-in `na` values, training-vs-test split, standardizatino, etc). See my [github](https://github.com/jaehyukchoi/PHBS_MLF_2021/tree/master/HW3/Classifiers.ipynb)
   * Extract 3 features using PCA method.
   * Using the selected features from above, we are going to apply LR / SVM / decision tree. 
   * Implement the methods using pipeline. (__PML__ p185)
   * Use grid search for finding optimal hyperparameters. (__PML__ p199). In the search, apply 5-fold cross-validation.
+-->
 
 ***
 # Syllabus
