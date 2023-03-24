@@ -84,7 +84,7 @@ __18__ | 4.21 Fri | Course Project Presentation (may be scheduled later)
   * The goal of this HW is to be familiar with PCA (feature extraction), grid search, pipeline, k-fold CV. 
   * For this HW, we continue to use [Give Me Some Credit]([http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data](https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset)) on Kaggle. 
   * Extract a few (>2) features using PCA method.
-  * Using the selected features from above, we are going to apply LR / SVM / decision tree. 
+  * Using the selected features from above, we are going to apply LR / SVM / decision tree (or any other algorithm). 
   * Implement the methods using pipeline. (__PML__ p185)
   * Use grid search for finding optimal hyperparameters. (__PML__ p199). In the search, apply 5-fold cross-validation.
 
