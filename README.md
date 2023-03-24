@@ -71,7 +71,7 @@ __18__ | 4.21 Fri | Course Project Presentation (may be scheduled later)
   * Install [Anaconda](https://www.anaconda.com/download/) Python distribution (__3.X version__, not 2.X version). Anaconda distribution is core Python + useful scientific computation libraries (e.g., numpy, scipy, pandas) + package management system (pip or conda)
   * Install [PyCharm](https://www.jetbrains.com/pycharm/) Community version. (Or Professional version after applying for [free student license](https://www.jetbrains.com/student/))
   * Send to TA the screenshots of (1) Github Desktop (showing the PML repository) (2) Jupyter Notebook (Anaconda) (3) PyCharm (See my examples: [Github Desktop](https://github.com/PHBS/ASP/blob/master/files/Choi_Jaehyuk_Github.png), [Anaconda Spyder](https://github.com/PHBS/ASP/blob/master/files/Choi_Jaehyuk_Python.png)).
-* ### __Set 1: [Classifiers]__ [Due by 3.21 Tues]
+* ### __Set 1: [Classifiers]__ [Due by 3.22 Wed]
   * The goal of this HW is to be familiar with the basic classifiers __PML__ Ch 3. 
   * For this HW, we will use [Give Me Some Credit]([http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data](https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset)) on Kaggle. You may download from Kaggle link or CMS.
   * Load `cs-training.csv` into a Pandas dataframe.
@@ -80,7 +80,7 @@ __18__ | 4.21 Fri | Course Project Presentation (may be scheduled later)
   * Using the 2 selected features, apply LR / SVM / decision tree. Try your own hyperparameters (C, gamma, tree depth, etc) to maximize the prediction accuracy. (Just try several values. You don't need to show your answer is the maximum.)
   * Visualize your classifiers using the `plot_decision_regions` function from __PML__ Ch. 3
   * Put your result in `YOUR_GITHUB_ID/Give-Me-Some-Credit/code/Classifiers.ipynb`
-* ### __Set 2: [PCA/Hyperparameter/CV]__ [Due by XXX]
+* ### __Set 2: [PCA/Hyperparameter/CV]__ [Due by 3.29 Wed]
   * The goal of this HW is to be familiar with PCA (feature extraction), grid search, pipeline, k-fold CV. 
   * For this HW, we continue to use [Give Me Some Credit]([http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data](https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset)) on Kaggle. 
   * Extract a few (>2) features using PCA method.
