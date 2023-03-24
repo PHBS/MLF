@@ -80,16 +80,13 @@ __18__ | 4.21 Fri | Course Project Presentation (may be scheduled later)
   * Using the 2 selected features, apply LR / SVM / decision tree. Try your own hyperparameters (C, gamma, tree depth, etc) to maximize the prediction accuracy. (Just try several values. You don't need to show your answer is the maximum.)
   * Visualize your classifiers using the `plot_decision_regions` function from __PML__ Ch. 3
   * Put your result in `YOUR_GITHUB_ID/Give-Me-Some-Credit/code/Classifiers.ipynb`
-<!--
-* ### __Set 3: [PCA/Hyperparameter/CV]__ [Due by 10.21 Thursday]
-  * The goal of this HW is to be familiar with PCA (feature extraction), grid search, pipeline, etc. 
+* ### __Set 2: [PCA/Hyperparameter/CV]__ [Due by XXX]
+  * The goal of this HW is to be familiar with PCA (feature extraction), grid search, pipeline, k-fold CV. 
   * For this HW, we continue to use [Give Me Some Credit]([http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data](https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset)) on Kaggle. 
-  * Use the same pre-precessing provided in __Set 2__ (loading to dataframe, creating `bankruptcy` column, changing column names, filling-in `na` values, training-vs-test split, standardizatino, etc). See my [github](https://github.com/jaehyukchoi/PHBS_MLF_2021/tree/master/HW3/Classifiers.ipynb)
-  * Extract 3 features using PCA method.
+  * Extract a few (>2) features using PCA method.
   * Using the selected features from above, we are going to apply LR / SVM / decision tree. 
   * Implement the methods using pipeline. (__PML__ p185)
   * Use grid search for finding optimal hyperparameters. (__PML__ p199). In the search, apply 5-fold cross-validation.
--->
 
 ***
 # Syllabus
