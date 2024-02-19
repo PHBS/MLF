@@ -1,7 +1,8 @@
-# Machine Learning for Finance (FN 570) 2022-23 Module 3 (Spring 2023)
+# Machine Learning for Finance (FN 570) 2023-24 Module 3 (Spring 2024)
 
 ## Announcements
-* Email is the preferred method of communication. Class mailing list will be created as PHBS.MLF@allmail.net. But, the announcements will be made in DingTalk group chat.
+* The WeChat group will be created by TA.
+* Email is the preferred method of communication. The class mailing list will be created as PHBS.MLF@allmail.net.
 <!--
 * [Midterm exam solution](files/MLF2018_Midterm.pdf) is uploaded
 * Midterm exam on Friday will be in __Rm 321__ 
@@ -21,24 +22,24 @@
 ## Lectures:
 No | Date | Contents
 --- | :---: | ---
-__01__ | 2.21 Tue | Course overview ([Syllabus](#syllabus)) \| Required software (Python, Github, PyCharm) \| Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb), [Numpy](py/PythonCrashCourse_Numpy.ipynb) (Notebook Shorcut Keys), [Pandas](py/Pandas-CrashCourse.ipynb). Also see [Datacamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet), [CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf))
-__02__ | 2.24 Fri | __PML__ Ch. 1: Intro ([Slides](files/MLF_Intro.pdf)) \| Notations, Regression, Weight update ([Slides](files/MLF_Regression.pdf))
-__03__ | 2.28 Tue | __PML__ Ch. 2: Perceptron, Adaline, Gradient descent, Stochastic Gradient Descent
-__04__ | 3.03 Fri | __PML__ Ch. 3: Logistic Regression (LR) ([Slides](files/MLF_Regression.pdf)) and Support Vector Machine (SVM) ([Slides](files/MLF_SVM_KNN_Tree.pdf))
-__05__ | 3.07 Tue | __PML__ Ch. 3: KNN ([Slides](files/MLF_SVM_KNN_Tree.pdf), [Code](https://github.com/PHBS/python-machine-learning-book-3rd-edition/blob/master/ch03/ch03.ipynb)), Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf)).
-__06__ | 3.10 Fri | __PML__ Ch. 4: Data Preprocessing, __PML__ Ch. 5: SVD/PCA ([Slides](MLF_SVD_PCA_LDA.pdf))
-__07__ | 3.14 Tue | __PML__ Ch. 5: LDA ([Slides](MLF_SVD_PCA_LDA.pdf)), __PML__ Ch. 6: Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf))
-__08__ | 3.17 Fri | __PML__ Ch. 6: Hyperparameter tuning, Evaluation Metric, Class imbalance ([Slides](files/MLF_Bias_Variance_Metric.pdf))
-__09__ | 3.21 Tue | __PML__ Ch. 7: Ensenble Learning ([Slides](files/MLF_SVM_KNN_Tree.pdf)), Kernel Method ([Slides](files/MLF_Kernel_Method.pdf), __PML__ Ch 3, 5)
-__10__ | 3.24 Fri | __PML__ Ch. 8: Sentiment Analysis ([Slides](files/MLF_Sentiment.pdf))
-__11__  | 3.28 Tue | Topics in Finance ML: Recession prediction ([Slides](files/MLF_Topic_RecessionPrediction.pdf)), ML in Finance Research ([Slides](files/MLF_Finance_Research.pdf)), Collaborative Filtering ([Slides](files/MLF_Col_Filtering.pdf))
-__12__ | 3.31 Fri | Neural Network, Deep Learning, CNN ([Slides](files/MLF_Neural_Network.pdf), __PML__ Ch. 12-15) 
-__13__ | 4.04 Tue | __Midterm Exam__ (Tentative)
-__14__ | 4.07 Fri | __HSBC Guest Lecture [1/4]__
-__15__ | 4.11 Tue | __HSBC Guest Lecture [2/4]__
-__16__ | 4.14 Fri | __HSBC Guest Lecture [3/4]__
-__17__ | 4.18 Tue | __HSBC Guest Lecture [4/4]__
-__18__ | 4.21 Fri | Course Project Presentation (may be scheduled later)
+__01__ | 2.20 Tue | Course overview ([Syllabus](#syllabus)) \| Required software (Python, Github, PyCharm) \| Python crash course ([Basic](py/PythonCrashCourse_Derek_Banas.ipynb), [Numpy](py/PythonCrashCourse_Numpy.ipynb) (Notebook Shorcut Keys), [Pandas](py/Pandas-CrashCourse.ipynb). Also see [Datacamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet), [CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf))
+__02__ | 2.23 Fri | __PML__ Ch. 1: Intro ([Slides](files/MLF_Intro.pdf)) \| Notations, Regression, Weight update ([Slides](files/MLF_Regression.pdf))
+__03__ | 2.27 Tue | __PML__ Ch. 2: Perceptron, Adaline, Gradient descent, Stochastic Gradient Descent
+__04__ | 3.01 Fri | __PML__ Ch. 3: Logistic Regression (LR) ([Slides](files/MLF_Regression.pdf)) and Support Vector Machine (SVM) ([Slides](files/MLF_SVM_KNN_Tree.pdf))
+__05__ | 3.05 Tue | __PML__ Ch. 3: KNN ([Slides](files/MLF_SVM_KNN_Tree.pdf), [Code](https://github.com/PHBS/python-machine-learning-book-3rd-edition/blob/master/ch03/ch03.ipynb)), Decision Tree ([Slides](files/MLF_SVM_KNN_Tree.pdf)).
+__06__ | 3.08 Fri | __PML__ Ch. 4: Data Preprocessing, __PML__ Ch. 5: SVD/PCA ([Slides](MLF_SVD_PCA_LDA.pdf))
+__07__ | 3.12 Tue | __PML__ Ch. 5: LDA ([Slides](MLF_SVD_PCA_LDA.pdf)), __PML__ Ch. 6: Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf))
+__08__ | 3.15 Fri | __PML__ Ch. 6: Hyperparameter tuning, Evaluation Metric, Class imbalance ([Slides](files/MLF_Bias_Variance_Metric.pdf))
+__09__ | 3.19 Tue | __PML__ Ch. 7: Ensenble Learning ([Slides](files/MLF_SVM_KNN_Tree.pdf)), Kernel Method ([Slides](files/MLF_Kernel_Method.pdf), __PML__ Ch 3, 5)
+__10__ | 3.22 Fri | __PML__ Ch. 8: Sentiment Analysis ([Slides](files/MLF_Sentiment.pdf))
+__11__  | 3.26 Tue | Topics in Finance ML: Recession prediction ([Slides](files/MLF_Topic_RecessionPrediction.pdf)), ML in Finance Research ([Slides](files/MLF_Finance_Research.pdf)), Collaborative Filtering ([Slides](files/MLF_Col_Filtering.pdf))
+__12__ | 3.29 Fri | Neural Network, Deep Learning, CNN ([Slides](files/MLF_Neural_Network.pdf), __PML__ Ch. 12-15) 
+__13__ | 4.02 Tue | __Midterm Exam__ (Tentative)
+__14__ | 4.07 Sun | __HSBC Guest Lecture [1/4]__
+__15__ | 4.09 Tue | __HSBC Guest Lecture [2/4]__
+__16__ | 4.12 Fri | __HSBC Guest Lecture [3/4]__
+__17__ | 4.16 Tue | __HSBC Guest Lecture [4/4]__
+__18__ | 4.19 Fri | Course Project Presentation (may be scheduled later)
 
 <!--
 * __18__ (11.09 Fri) 
@@ -93,7 +94,7 @@ __18__ | 4.21 Fri | Course Project Presentation (may be scheduled later)
 
 ## Classes:
 * Lectures: Tuesday & Friday 1:30 – 3:20 PM
-* Venue: PHBS Building, Room 229
+* Venue: PHBS Building, Room 313
 
 ## Instructor: [Jaehyuk Choi](http://www.jaehyukchoi.net/phbs_en)
 * Office: PHBS Building, Room 755
@@ -106,11 +107,11 @@ __18__ | 4.21 Fri | Course Project Presentation (may be scheduled later)
 * TA Office Hour (Room 213/214): TBA
 
 ## Course overview
-With the advent of computation power and big data, machine learning (ML) recently became one of the most spotlighted research field in industry and academia. This course provides a broad introduction to ML in theoretical and practical perspectives. Through this course, students will learn the intuition and implementation behind the popular ML methods and gain hands-on experience of using ML software packages such as SK-learn and Tensorflow. This course will also explore the possibility of applying ML to finance and business. Each student is required to complete a final course project. 
+With the advent of computation power and big data, machine learning (ML) recently became one of the most spotlighted research fields in industry and academia. This course provides a broad introduction to ML in theoretical and practical perspectives. Through this course, students will learn the intuition and implementation behind the popular ML methods and gain hands-on experience in using ML software packages such as SK-learn and Tensorflow. This course will also explore the possibility of applying ML to finance and business. Each student is required to complete a final course project. 
 __This year, the compliance analytics team in HSBC bank (Gunagzhou) will give 4 guest lectures to demonstrate how ML is developed and shared in banking industry.__
 
 ## Prerequisites
-This course assumes prior knowkedge in probability/statistics and experience in Python. This course is ideally recommended for those who have taken introductory ML/AI courses from undergraduate program.
+This course assumes prior knowkedge in probability/statistics and experience in Python. This course is ideally recommended for those who have taken introductory ML/AI courses from an undergraduate program.
 
 ##  Textbooks and Reading Materials
 ### Primary textbook
@@ -130,7 +131,7 @@ This course assumes prior knowkedge in probability/statistics and experience in 
 
 ## Assessment / Grading Details
 * Attendance 20%, Mid-term exam 30%, Assignments 20%, Course Project 30%
-* Attendance: TBA Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave.
+* Attendance: TBA Randomly checked. The score is calculated as __`20 – 2x(#of absence)`__. Leave requests should be made 24 hours before with supporting documents, except for emergencies. Job interview/internship cannot be a valid reason for leave.
 * __Mid-term exam__: __11.1 Mon__. In-class open-book without computer/phone/calculator
 * __Course project__: Data Proposal and Presentation. Group of up to ?? people.
 * __Attendance__: checked randomly. The score is calculated as 20 – 2`x`(#of absence). Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
