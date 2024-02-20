@@ -1,7 +1,7 @@
 # Machine Learning for Finance (FN 570) 2023-24 Module 3 (Spring 2024)
 
 ## Announcements
-* The WeChat group will be created by TA.
+* The WeChat group will be created by TA. (No 1-to-1 chat please.)
 * Email is the preferred method of communication. The class mailing list will be created as PHBS.MLF@allmail.net.
 <!--
 * [Midterm exam solution](files/MLF2018_Midterm.pdf) is uploaded
