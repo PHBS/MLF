@@ -65,7 +65,7 @@ __18__ | 4.19 Fri | Course Project Presentation (may be scheduled later)
 
 ## Homeworks:
 * ### __Set 0: [Required Software]__ [Due by Friday]
-  * Register on [Github.com](https://github.com/) and let TA know your ID (by DingTalk). Make sure to user your __full real name__ in your profile. Accept invitation to the [PHBS organization](https://github.com/orgs/PHBS/people) from TA. 
+  * Register on [Github.com](https://github.com/) and let TA know your ID. Make sure to use your __full real name__ in your profile. Accept the invitation to the [PHBS organization](https://github.com/orgs/PHBS/people) from TA. 
     * Create a designated repository `GITHUB_ID/PHBS_MLF_2021` for your HW and project. Tick `Initialize this repository with a README` and select `python` under `.gitignore`
     * Fork [PML repository](https://github.com/PHBS/python-machine-learning-book-3rd-edition) to your repository.
   * Install [Github Desktop](https://desktop.github.com/). Then __clone__ the PML repository to your local storage.
