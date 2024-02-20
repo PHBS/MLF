@@ -65,8 +65,8 @@ __18__ | 4.19 Fri | Course Project Presentation (may be scheduled later)
 
 ## Homeworks:
 * ### __Set 0: [Required Software]__ [Due by Friday]
-  * Register on [Github.com](https://github.com/) and let TA know your ID. Make sure to use your __full real name__ in your profile. Accept the invitation to the [PHBS organization](https://github.com/orgs/PHBS/people) from TA. 
-    * Create a designated repository `GITHUB_ID/PHBS_MLF_2021` for your HW and project. Tick `Initialize this repository with a README` and select `python` under `.gitignore`
+  * Register on [Github.com](https://github.com/) and let TA know your ID. Make sure to use your __full real name__ in your profile. Accept TA's invitation to the [PHBS organization](https://github.com/orgs/PHBS/people). 
+    * Create a designated repository `GITHUB_ID/PHBS_MLF_2023` for your HW and project. Tick `Initialize this repository with a README` and select `python` under `.gitignore`
     * Fork [PML repository](https://github.com/PHBS/python-machine-learning-book-3rd-edition) to your repository.
   * Install [Github Desktop](https://desktop.github.com/). Then __clone__ the PML repository to your local storage.
   * Install [Anaconda](https://www.anaconda.com/download/) Python distribution (__3.X version__, not 2.X version). Anaconda distribution is core Python + useful scientific computation libraries (e.g., numpy, scipy, pandas) + package management system (pip or conda)
@@ -74,7 +74,7 @@ __18__ | 4.19 Fri | Course Project Presentation (may be scheduled later)
   * Send to TA the screenshots of (1) Github Desktop (showing the PML repository) (2) Jupyter Notebook (Anaconda) (3) PyCharm (See my examples: [Github Desktop](https://github.com/PHBS/ASP/blob/master/files/Choi_Jaehyuk_Github.png), [Anaconda Spyder](https://github.com/PHBS/ASP/blob/master/files/Choi_Jaehyuk_Python.png)).
 * ### __Set 1: [Classifiers]__ [Due by 3.22 Wed]
   * The goal of this HW is to be familiar with the basic classifiers __PML__ Ch 3. 
-  * For this HW, we will use [Give Me Some Credit]([http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data](https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset)) on Kaggle. You may download from Kaggle link or CMS.
+  * For this HW, we will use [Give Me Some Credit]([http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data](https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset)) on Kaggle. You may download it from the Kaggle link or CMS.
   * Load `cs-training.csv` into a Pandas dataframe.
   * Fill-in the missing values (`nan`) with the column means. (Use `pd.fillna()` or See Ch 4 of `PML`)
   * Select the 2 most important features using LogisticRegression with L1 penalty. (Adjust C until you see 2 features)
