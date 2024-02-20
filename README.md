@@ -34,8 +34,8 @@ __09__ | 3.19 Tue | __PML__ Ch. 7: Ensenble Learning ([Slides](files/MLF_SVM_KNN
 __10__ | 3.22 Fri | __PML__ Ch. 8: Sentiment Analysis ([Slides](files/MLF_Sentiment.pdf))
 __11__  | 3.26 Tue | Topics in Finance ML: Recession prediction ([Slides](files/MLF_Topic_RecessionPrediction.pdf)), ML in Finance Research ([Slides](files/MLF_Finance_Research.pdf)), Collaborative Filtering ([Slides](files/MLF_Col_Filtering.pdf))
 __12__ | 3.29 Fri | Neural Network, Deep Learning, CNN ([Slides](files/MLF_Neural_Network.pdf), __PML__ Ch. 12-15) 
-__13__ | 4.02 Tue | __Midterm Exam__ (Tentative)
-__14__ | 4.07 Sun | __HSBC Guest Lecture [1/4]__
+__14__ | 4.02 Tue | __HSBC Guest Lecture [1/4]__
+__13__ | 4.07 Sun | __Midterm Exam__ (Tentative)
 __15__ | 4.09 Tue | __HSBC Guest Lecture [2/4]__
 __16__ | 4.12 Fri | __HSBC Guest Lecture [3/4]__
 __17__ | 4.16 Tue | __HSBC Guest Lecture [4/4]__
