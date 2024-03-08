@@ -74,7 +74,7 @@ __18__ | 4.19 Fri | Course Project Presentation (may be scheduled later)
   * Send to TA the screenshots of (1) Github Desktop (showing the PML repository) (2) Jupyter Notebook (Anaconda) (3) PyCharm (See my examples: [Github Desktop](https://github.com/PHBS/ASP/blob/master/files/Choi_Jaehyuk_Github.png), [Anaconda Spyder](https://github.com/PHBS/ASP/blob/master/files/Choi_Jaehyuk_Python.png)).
 * ### __Set 1: [Classifiers]__ [Due by 3.19 Tues]
   * The goal of this HW is to be familiar with the basic classifiers __PML__ Ch 3. 
-  * For this HW, we will use [Give Me Some Credit]([http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data](https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset)) on Kaggle. You may download it from the Kaggle link or CMS.
+  * For this HW, we will use [Give Me Some Credit](https://www.kaggle.com/c/GiveMeSomeCredit) on Kaggle. You may download it from the Kaggle link or CMS.
   * Load `cs-training.csv` into a Pandas dataframe.
   * Fill-in the missing values (`nan`) with the column means. (Use `pd.fillna()` or See Ch 4 of `PML`)
   * Select the 2 most important features using LogisticRegression with L1 penalty. (Adjust C until you see 2 features)
