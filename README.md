@@ -72,7 +72,7 @@ __18__ | 4.19 Fri | Course Project Presentation (may be scheduled later)
   * Install [Anaconda](https://www.anaconda.com/download/) Python distribution (__3.X version__, not 2.X version). Anaconda distribution is core Python + useful scientific computation libraries (e.g., numpy, scipy, pandas) + package management system (pip or conda)
   * Install [PyCharm](https://www.jetbrains.com/pycharm/) Community version. (Or Professional version after applying for [free student license](https://www.jetbrains.com/student/))
   * Send to TA the screenshots of (1) Github Desktop (showing the PML repository) (2) Jupyter Notebook (Anaconda) (3) PyCharm (See my examples: [Github Desktop](https://github.com/PHBS/ASP/blob/master/files/Choi_Jaehyuk_Github.png), [Anaconda Spyder](https://github.com/PHBS/ASP/blob/master/files/Choi_Jaehyuk_Python.png)).
-* ### __Set 1: [Classifiers]__ [Due by 3.22 Wed]
+* ### __Set 1: [Classifiers]__ [Due by 3.19 Tues]
   * The goal of this HW is to be familiar with the basic classifiers __PML__ Ch 3. 
   * For this HW, we will use [Give Me Some Credit]([http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data](https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset)) on Kaggle. You may download it from the Kaggle link or CMS.
   * Load `cs-training.csv` into a Pandas dataframe.
