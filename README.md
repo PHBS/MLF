@@ -31,10 +31,10 @@ __06__ | 3.08 Fri | __PML__ Ch. 4: Data Preprocessing, __PML__ Ch. 5: SVD/PCA ([
 __07__ | 3.12 Tue | __PML__ Ch. 5: LDA ([Slides](MLF_SVD_PCA_LDA.pdf)), __PML__ Ch. 6: Bias-Variance, Cross-validation ([Slides](files/MLF_Bias_Variance_Metric.pdf))
 __08__ | 3.15 Fri | __PML__ Ch. 6: Hyperparameter tuning, Evaluation Metric, Class imbalance ([Slides](files/MLF_Bias_Variance_Metric.pdf))
 __09__ | 3.19 Tue | __PML__ Ch. 7: Ensenble Learning ([Slides](files/MLF_SVM_KNN_Tree.pdf)), Kernel Method ([Slides](files/MLF_Kernel_Method.pdf), __PML__ Ch 3, 5)
-__10__ | 3.22 Fri | __PML__ Ch. 8: Sentiment Analysis ([Slides](files/MLF_Sentiment.pdf))
-__11__  | 3.26 Tue | Topics in Finance ML: Recession prediction ([Slides](files/MLF_Topic_RecessionPrediction.pdf)), ML in Finance Research ([Slides](files/MLF_Finance_Research.pdf)), Collaborative Filtering ([Slides](files/MLF_Col_Filtering.pdf))
-__12__ | 3.29 Fri | Neural Network, Deep Learning, CNN ([Slides](files/MLF_Neural_Network.pdf), __PML__ Ch. 12-15) 
-__14__ | 4.02 Tue | __HSBC Guest Lecture [1/4]__
+__14__ | 3.22 Fri | __HSBC Guest Lecture [1/4]__
+__10__ | 3.26 Tue | __PML__ Ch. 8: Sentiment Analysis ([Slides](files/MLF_Sentiment.pdf))
+__11__  | 3.29 Fri | Topics in Finance ML: Recession prediction ([Slides](files/MLF_Topic_RecessionPrediction.pdf)), ML in Finance Research ([Slides](files/MLF_Finance_Research.pdf)), Collaborative Filtering ([Slides](files/MLF_Col_Filtering.pdf))
+__12__ | 4.02 Tue | Neural Network, Deep Learning, CNN ([Slides](files/MLF_Neural_Network.pdf), __PML__ Ch. 12-15) 
 __13__ | 4.07 Sun | __Midterm Exam__ (Tentative)
 __15__ | 4.09 Tue | __HSBC Guest Lecture [2/4]__
 __16__ | 4.12 Fri | __HSBC Guest Lecture [3/4]__
