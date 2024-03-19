@@ -81,7 +81,7 @@ __18__ | 4.19 Fri | Course Project Presentation (may be scheduled later)
   * Using the 2 selected features, apply LR / SVM / decision tree. Try your own hyperparameters (C, gamma, tree depth, etc) to maximize the prediction accuracy. (Just try several values. You don't need to show your answer is the maximum.)
   * Visualize your classifiers using the `plot_decision_regions` function from __PML__ Ch. 3
   * Put your result in `YOUR_GITHUB_ID/Give-Me-Some-Credit/code/Classifiers.ipynb`
-* ### __Set 2: [PCA/Hyperparameter/CV]__ [Due by 3.29 Wed]
+* ### __Set 2: [PCA/Hyperparameter/CV]__ [Due by 3.29 Fri]
   * The goal of this HW is to be familiar with PCA (feature extraction), grid search, pipeline, k-fold CV. 
   * For this HW, we continue to use [Give Me Some Credit]([http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data](https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset)) on Kaggle. 
   * Extract a few (>2) features using PCA method.
