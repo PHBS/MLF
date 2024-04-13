@@ -10,7 +10,7 @@ Group | Members | Repo
 4 | Xiong Zichao, Yuan Yutao | Recession identification and prediction
 5 | Li Yuhui | Prediction of BTC price with Tweets data
 6 | Gong Jiaxin, Wang Xin | Stock Prediction
-7 | Cheng Lei, Li Chang | 
+7 | Cheng Lei, Li Chang | A share stock price prediction with GRU model
 8 |  | 
 9 |  | 
 10 |  | 
