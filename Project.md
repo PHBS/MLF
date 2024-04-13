@@ -11,7 +11,7 @@ Group | Members | Repo
 5 | Li Yuhui | Prediction of BTC price with Tweets data
 6 | Gong Jiaxin, Wang Xin | Stock Prediction
 7 | Cheng Lei, Li Chang | A share stock selection based on factors from the GRU model
-8 |  | 
+8 | Zhang Qiuyan, Pan Kangyu | 
 9 |  | 
 10 |  | 
 11 |  |
