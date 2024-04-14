@@ -13,7 +13,7 @@ Group | Members | Repo
 7 | Cheng Lei, Li Chang | A share stock selection based on factors from the GRU model
 8 | Zhang Qiuyan, Pan Kangyu | Credit risk prediction with [Kaggle data](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/overview)
 9 | Chen Yichao, Yang Honggui | Credit Analysis
-10 |  | 
+10 | Niu Yitong Niu, Deng Tingqin | Home credit default prediction
 11 |  |
 
 ## Project Guidline
