@@ -4,17 +4,17 @@
 
 Group | Members | Repo
 --- |  --- | ---
-1 | Yang Hengyi | 
-2 | Ma Fangyuan, Zhu Zerun |
-3 | Zhang Yuyang, Ge Ruiyang | 
-4 | Xiong Zichao, Yuan Yutao | Recession identification and prediction
-5 | Li Yuhui | Prediction of BTC price with Tweets data
-6 | Gong Jiaxin, Wang Xin | Stock Prediction
-7 | Cheng Lei, Li Chang | A share stock selection based on factors from the GRU model
-8 | Zhang Qiuyan, Pan Kangyu | Credit risk prediction with [Kaggle data](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/overview)
-9 | Chen Yichao, Yang Honggui | Credit Analysis
-10 | Niu Yitong Niu, Deng Tingqin | Home credit default prediction
-11 |  |
+0 | Feng Xi | [Detecting Financial Fraud with First Digit Law](https://github.com/pkujackfeng/MLF_final_project)
+1 | Yang Hengyi | [Credit Default Prediction (HSBC)](https://github.com/YHY-10/CreditDefault-Prediction)
+2 | Ma Fangyuan, Zhu Zerun | [Credit Default Prediction (HSBC)](https://github.com/WatchMtLiu/PHBS_MLF_2024/blob/main/README.md)
+3 | Zhang Yuyang, Ge Ruiyang | [Usage of transaction data to predict credit event](https://github.com/Allwings1/MLF_Project)
+4 | Xiong Zichao, Yuan Yutao | [Recession Identification and Prediction](https://github.com/ZichaoXiong/Recession/blob/main/README.md)
+5 | Li Yuhui | [Prediction of BTC price with Tweets(X) data](https://github.com/Dracarys397803/PHBS_MLF_2023/blob/main/README.md)
+6 | Gong Jiaxin, Wang Xin | [Stock Prediction Based on Report Similarity](https://github.com/ShawnWangXin/PHBS_MLF_2023/blob/main/Project/README.md)
+7 | Cheng Lei, Li Chang | [How to Capture the Patterns of Price and Volume data in Long Time Series](https://github.com/lca-123/PHBS_MLF_2023/blob/master/final_project/README.md)
+8 | Zhang Qiuyan, Pan Kangyu | [Credit risk prediction](https://github.com/zsevenn/Credit-risk-prediction/) with [Kaggle data](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/overview)
+9 | Chen Yichao, Yang Honggui | [Credit Default Prediction (HSBC)](https://github.com/yanghonggui12581/MLF_final_project)
+10 | Niu Yitong Niu, Deng Tingqin | [Home credit default prediction](https://github.com/LilyYitong23/LilyYitong23-PHBS_MLF_2023/blob/main/home-credit-2024-mlf-final.ipynb)
 
 ## Project Guidline
 * Report should be consist of the summary in `README.md` and the execution in python notebooks `.ipynb`.  ( `.pdf`, `.ppt`, `.doc` __NOT__ accepted.)
