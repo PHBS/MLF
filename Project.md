@@ -14,7 +14,7 @@ Group | Members | Repo
 7 | Cheng Lei, Li Chang | [How to Capture the Patterns of Price and Volume data in Long Time Series](https://github.com/lca-123/PHBS_MLF_2023/blob/master/final_project/README.md)
 8 | Zhang Qiuyan, Pan Kangyu | [Home Credit - Credit Risk Model Stability](https://github.com/zsevenn/Credit-risk-prediction/) with [Kaggle data](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/overview)
 9 | Chen Yichao, Yang Honggui | [Credit Default Prediction (HSBC)](https://github.com/yanghonggui12581/MLF_final_project)
-10 | Niu Yitong Niu, Deng Tingqin | [Home Credit - Credit Risk Model Stability](https://github.com/LilyYitong23/LilyYitong23-PHBS_MLF_2023/blob/main/home-credit-2024-mlf-final.ipynb) with [Kaggle data](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/overview)
+10 | Niu Yitong Niu, Deng Tingqin | [Home Credit - Credit Risk Model Stability](https://github.com/LilyYitong23/LilyYitong23-PHBS_MLF_2023/blob/main/project%20final%20version.md) with [Kaggle data](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/overview)
 
 ## Project Guidline
 * Report should be consist of the summary in `README.md` and the execution in python notebooks `.ipynb`.  ( `.pdf`, `.ppt`, `.doc` __NOT__ accepted.)
