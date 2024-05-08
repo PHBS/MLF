@@ -7,7 +7,7 @@ Group | Members | Repo
 0 | Feng Xi | [Detecting Financial Fraud with First Digit Law](https://github.com/pkujackfeng/MLF_final_project/blob/main/README.md)
 1 | Yang Hengyi | [Credit Default Prediction (HSBC)](https://github.com/YHY-10/CreditDefault-Prediction)
 2 | Ma Fangyuan, Zhu Zerun | [Credit Default Prediction (HSBC)](https://github.com/WatchMtLiu/PHBS_MLF_2024/blob/main/README.md)
-3 | Zhang Yuyang, Ge Ruiyang | [Usage of transaction data to predict credit event](https://github.com/Allwings1/MLF_Project)
+3 | Zhang Yuyang, Ge Ruiyang | [Usage of transaction data to predict credit event (HSBC)](https://github.com/Allwings1/MLF_Project)
 4 | Xiong Zichao, Yuan Yutao | [Recession Identification and Prediction](https://github.com/ZichaoXiong/Recession/blob/main/README.md)
 5 | Li Yuhui | [Prediction of BTC price with Tweets(X) data](https://github.com/Dracarys397803/PHBS_MLF_2023/blob/main/README.md)
 6 | Gong Jiaxin, Wang Xin | [Stock Prediction Based on Report Similarity](https://github.com/ShawnWangXin/PHBS_MLF_2023/blob/main/Project/README.md)
